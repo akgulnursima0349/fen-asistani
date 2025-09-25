@@ -231,6 +231,16 @@
             transform: translateY(-2px);
         }
 
+        .error-message {
+            background: #fed7d7;
+            border: 1px solid #fc8181;
+            color: #c53030;
+            padding: 10px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+            font-size: 0.9em;
+        }
+
         @media (max-width: 768px) {
             .container {
                 padding: 20px;
@@ -272,10 +282,7 @@
         </div>
 
         <div class="result-container" id="resultContainer">
-            <div class="no-result">
-                <span class="emoji">🤖</span>
-                Merhaba! Ben senin fen bilgisi asistanınım. Yukarıdaki arama kutusuna merak ettiğin soruları yaz, sana MEB ders kitaplarından kaynaklı cevaplar vereyim!
-            </div>
+            <div class="loading">Veriler yükleniyor...</div>
         </div>
 
         <div class="quick-questions">
@@ -283,92 +290,137 @@
             <div class="question-tags">
                 <span class="question-tag" onclick="quickSearch('güneş sistemi')">Güneş Sistemi</span>
                 <span class="question-tag" onclick="quickSearch('hücre')">Hücre</span>
-                <span class="question-tag" onclick="quickSearch('madde ve değişim')">Madde ve Değişim</span>
+                <span class="question-tag" onclick="quickSearch('genleşme')">Genleşme</span>
                 <span class="question-tag" onclick="quickSearch('elektrik')">Elektrik</span>
-                <span class="question-tag" onclick="quickSearch('ekosistem')">Ekosistem</span>
-                <span class="question-tag" onclick="quickSearch('ışık')">Işık</span>
-                <span class="question-tag" onclick="quickSearch('DNA')">DNA</span>
-                <span class="question-tag" onclick="quickSearch('asit baz')">Asit-Baz</span>
+                <span class="question-tag" onclick="quickSearch('yoğunluk')">Yoğunluk</span>
+                <span class="question-tag" onclick="quickSearch('ay')">Ay</span>
+                <span class="question-tag" onclick="quickSearch('kuvvet')">Kuvvet</span>
+                <span class="question-tag" onclick="quickSearch('biyoçeşitlilik')">Biyoçeşitlilik</span>
             </div>
         </div>
     </div>
 
     <script>
-        // Örnek veri yapısı - MEB kitaplarından alınacak
-        const fenBilgisiDB = {
-            5: {
-                "güneş sistemi": {
-                    answer: "Güneş sistemi, Güneş'in etrafında dönen 8 gezegen, uydular, asteroitler ve diğer gök cisimlerinden oluşan sistemdir. Gezegenler Güneş'e yakınlıktan uzaklığa göre: Merkür, Venüs, Dünya, Mars, Jüpiter, Satürn, Uranüs ve Neptün'dür.",
-                    source: "MEB 5. Sınıf Fen Bilgisi Ders Kitabı",
-                    page: 156,
-                    unit: "Dünya ve Evren"
-                },
-                "hücre": {
-                    answer: "Hücre, tüm canlıların yapı ve işlev birimidir. Canlılar tek hücreli veya çok hücreli olabilir. Hücrenin temel bölümleri hücre zarı, sitoplazma ve çekirdektir.",
-                    source: "MEB 5. Sınıf Fen Bilgisi Ders Kitabı",
-                    page: 24,
-                    unit: "Canlılar Dünyasını Gezelim"
-                }
-            },
-            6: {
-                "güneş sistemi": {
-                    answer: "Güneş sistemi yaklaşık 4.6 milyar yıl önce oluşmuştur. Güneş'in kütlesi, sistemdeki toplam kütlenin %99.8'ini oluşturur. Gezegenler iç gezegenler (Merkür, Venüs, Dünya, Mars) ve dış gezegenler (Jüpiter, Satürn, Uranüs, Neptün) olmak üzere iki gruba ayrılır.",
-                    source: "MEB 6. Sınıf Fen Bilgisi Ders Kitabı",
-                    page: 198,
-                    unit: "Dünya ve Evren"
-                },
-                "hücre": {
-                    answer: "Hücreler yapılarına göre prokaryot ve ökaryot olmak üzere ikiye ayrılır. Prokaryot hücrelerde çekirdek yoktur, genetik materyal sitoplazma içinde dağınık haldedir. Ökaryot hücrelerde ise genetik materyal çekirdek içinde bulunur.",
-                    source: "MEB 6. Sınıf Fen Bilgisi Ders Kitabı",
-                    page: 18,
-                    unit: "Canlılarda Yapı ve İşlev"
-                },
-                "madde ve değişim": {
-                    answer: "Madde katı, sıvı ve gaz olmak üzere üç halde bulunur. Maddenin halleri arasındaki geçişler fiziksel değişimdir. Erime, donma, buharlaşma, yoğunlaşma, süblimleşme ve kırağılaşma hal değişimi örnekleridir.",
-                    source: "MEB 6. Sınıf Fen Bilgisi Ders Kitabı",
-                    page: 76,
-                    unit: "Madde ve Isı"
-                }
-            },
-            7: {
-                "elektrik": {
-                    answer: "Elektrik akımı, elektrik yüklerinin hareketidir. Elektrik devresinde akım kaynaktan çıkarak iletkenler vasıtasıyla kaynağa geri döner. Ohm Kanunu'na göre V = I × R formülü geçerlidir.",
-                    source: "MEB 7. Sınıf Fen Bilgisi Ders Kitabı",
-                    page: 142,
-                    unit: "Elektrik Enerjisi"
-                },
-                "ekosistem": {
-                    answer: "Ekosistem, belirli bir alanda yaşayan canlılar ile bu canlıların çevresel faktörlerin oluşturduğu etkileşim sistemidir. Üreticiler, birincil tüketiciler, ikincil tüketiciler ve ayrıştırıcılar ekosistemde yer alır.",
-                    source: "MEB 7. Sınıf Fen Bilgisi Ders Kitabı",
-                    page: 234,
-                    unit: "Ekosistemdeki Etkileşimler"
-                }
-            },
-            8: {
-                "DNA": {
-                    answer: "DNA (Deoksiribonükleik asit), canlılarda kalıtsal bilgilerin saklandığı moleküldür. Çift sarmal yapıdadır ve A, T, G, C bazlarından oluşur. A ile T, G ile C eşlenir. DNA'da genler bulunur ve protein sentezi için şablon görevi görür.",
-                    source: "MEB 8. Sınıf Fen Bilgisi Ders Kitabı",
-                    page: 78,
-                    unit: "Kalıtım"
-                },
-                "asit baz": {
-                    answer: "Asitler sulu çözeltilerinde H+ iyonu veren maddelerdir, pH değerleri 7'den küçüktür. Bazlar OH- iyonu veren maddelerdir, pH değerleri 7'den büyüktür. pH = 7 nötr çözeltileri gösterir.",
-                    source: "MEB 8. Sınıf Fen Bilgisi Ders Kitabı",
-                    page: 156,
-                    unit: "Asitler ve Bazlar"
-                }
-            }
-        };
-
+        // Veri tabanı - JSON dosyalarından yüklenecek
+        let fenBilgisiDB = {};
+        let dataLoaded = false;
         let currentClass = 6;
+
+        // JSON dosyalarını yükle
+        async function loadData() {
+            try {
+                console.log('Veriler yükleniyor...');
+                const classes = [5, 6]; // Mevcut sınıflar
+                let loadedCount = 0;
+                
+                for (const cls of classes) {
+                    try {
+                        // Farklı dosya adı formatlarını dene
+                        const possibleNames = [
+                            `./data/${cls}sinif.json`,
+                            `./data/${cls}sinif_json.json`,
+                            `./data/sinif${cls}.json`,
+                            `data/${cls}sinif.json`,
+                            `${cls}sinif.json`
+                        ];
+                        
+                        let loaded = false;
+                        for (const fileName of possibleNames) {
+                            try {
+                                console.log(`Deneniyor: ${fileName}`);
+                                const response = await fetch(fileName);
+                                if (response.ok) {
+                                    const data = await response.json();
+                                    fenBilgisiDB[cls] = data;
+                                    console.log(`${cls}. sınıf verisi yüklendi: ${fileName}`);
+                                    loadedCount++;
+                                    loaded = true;
+                                    break;
+                                }
+                            } catch (error) {
+                                console.log(`${fileName} yüklenemedi: ${error.message}`);
+                            }
+                        }
+                        
+                        if (!loaded) {
+                            console.warn(`${cls}. sınıf verisi bulunamadı`);
+                        }
+                    } catch (error) {
+                        console.error(`${cls}. sınıf verisi yüklenemedi: ${error.message}`);
+                    }
+                }
+                
+                if (loadedCount === 0) {
+                    console.warn('Hiç JSON dosyası yüklenemedi, örnek veri kullanılacak');
+                    loadSampleData();
+                } else {
+                    console.log(`${loadedCount} sınıf verisi başarıyla yüklendi`);
+                }
+                
+                dataLoaded = true;
+                showWelcomeMessage();
+            } catch (error) {
+                console.error('Veri yükleme hatası:', error);
+                loadSampleData();
+                dataLoaded = true;
+                showWelcomeMessage();
+            }
+        }
+
+        // Örnek veri (JSON dosyaları yoksa kullanılacak)
+        function loadSampleData() {
+            fenBilgisiDB = {
+                5: {
+                    "güneş sistemi": {
+                        answer: "Güneş sistemi, Güneş'in etrafında dönen 8 gezegen, uydular, asteroitler ve diğer gök cisimlerinden oluşan sistemdir. Gezegenler Güneş'e yakınlıktan uzaklığa göre: Merkür, Venüs, Dünya, Mars, Jüpiter, Satürn, Uranüs ve Neptün'dür.",
+                        source: "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 1. Kitap",
+                        page: 20,
+                        unit: "Gökyüzündeki Komşularımız ve Biz"
+                    }
+                },
+                6: {
+                    "genleşme": {
+                        answer: "Isı etkisiyle maddenin hacminin artmasına genleşme denir. Isı alan maddelerde tanecikler arasındaki mesafe artar ve maddenin hacmi büyür.",
+                        source: "MEB 6. Sınıf Fen Bilgisi Ders Kitabı - 2. Kitap",
+                        page: 17,
+                        unit: "Maddenin Ayırt Edici Özellikleri"
+                    }
+                }
+            };
+            console.log('Örnek veri yüklendi');
+        }
+
+        function showWelcomeMessage() {
+            const availableClasses = Object.keys(fenBilgisiDB);
+            const message = availableClasses.length > 0 
+                ? `Merhaba! Ben senin fen bilgisi asistanınım. ${availableClasses.join(', ')}. sınıf konularında sana yardımcı olabilirim. Yukarıdaki arama kutusuna merak ettiğin soruları yaz!`
+                : 'Merhaba! JSON dosyaları yüklenemedi. Lütfen dosya isimlerini kontrol edin: 5sinif.json, 6sinif.json';
+                
+            document.getElementById('resultContainer').innerHTML = `
+                <div class="no-result">
+                    <span class="emoji">🤖</span>
+                    ${message}
+                </div>
+            `;
+        }
 
         function selectClass(classNum) {
             currentClass = classNum;
             document.querySelectorAll('.class-btn').forEach(btn => btn.classList.remove('active'));
             document.querySelector(`[data-class="${classNum}"]`).classList.add('active');
+            
+            // Eğer seçilen sınıf verisi yoksa uyarı ver
+            if (!fenBilgisiDB[classNum]) {
+                showNoResult(`${classNum}. sınıf verisi henüz yüklenmedi. data/${classNum}sinif.json dosyasını kontrol edin.`);
+            }
         }
 
         function searchAnswer() {
+            if (!dataLoaded) {
+                showNoResult("Veriler henüz yüklenmedi, lütfen bekleyin...");
+                return;
+            }
+            
             const query = document.getElementById('searchInput').value.trim().toLowerCase();
             const resultContainer = document.getElementById('resultContainer');
             
@@ -389,7 +441,7 @@
             const results = [];
             const classData = fenBilgisiDB[currentClass] || {};
             
-            // Anahtar kelime eşleştirmesi
+            // Seçili sınıfta ara
             for (let topic in classData) {
                 if (topic.toLowerCase().includes(query) || 
                     classData[topic].answer.toLowerCase().includes(query) ||
@@ -494,8 +546,13 @@
             }
         });
 
-        // Otomatik odaklanma
-        document.getElementById('searchInput').focus();
+        // Sayfa yüklendiğinde veri dosyalarını yükle
+        window.addEventListener('DOMContentLoaded', function() {
+            loadData().then(() => {
+                console.log('Veri tabanı hazır:', Object.keys(fenBilgisiDB));
+                document.getElementById('searchInput').focus();
+            });
+        });
     </script>
 </body>
 </html>
