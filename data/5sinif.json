@@ -1,0 +1,177 @@
+{
+  "güneş sistemi": {
+    "answer": "Güneş sistemi, Güneş'in etrafında dönen 8 gezegen, uydular, asteroitler, kuyruklu yıldızlar ve diğer gök cisimlerinden oluşan sistemdir. Gezegenler Güneş'e yakınlıktan uzaklığa göre: Merkür, Venüs, Dünya, Mars, Jüpiter, Satürn, Uranüs ve Neptün'dür.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 1. Kitap",
+    "page": 20,
+    "unit": "Gökyüzündeki Komşularımız ve Biz",
+    "keywords": ["güneş", "gezegen", "merkür", "venüs", "dünya", "mars", "jüpiter", "satürn", "uranüs", "neptün", "uydu", "asteroid"]
+  },
+  "güneş": {
+    "answer": "Güneş, Dünya'nın ısı ve ışık kaynağıdır. Güneş de bir yıldızdır ve milyarlarca yıldız arasından Dünya'ya en yakın olanıdır. Güneş'in geometrik şekli küreye benzer ve katmanlardan oluşur. Güneş, kendi ekseni etrafında saat yönünün tersi yönde döner.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 1. Kitap",
+    "page": 21,
+    "unit": "Gökyüzündeki Komşularımız ve Biz",
+    "keywords": ["güneş", "yıldız", "ışık kaynağı", "ısı kaynağı", "küre", "katman", "dönme"]
+  },
+  "güneş lekeleri": {
+    "answer": "Güneş lekeleri, Güneş'in yüzeyinde görünen koyu renkli bölgelerdir. Güneş'in kendi ekseni etrafında döndüğünü Galileo Galilei, Güneş lekelerini gözlemleyerek ispatlamıştır.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 1. Kitap",
+    "page": 22,
+    "unit": "Gökyüzündeki Komşularımız ve Biz",
+    "keywords": ["güneş lekesi", "galileo galilei", "teleskop", "gözlem"]
+  },
+  "ay": {
+    "answer": "Ay, Dünya'nın doğal uydusudur. Ay'ın şekli küreye benzer ve Dünya'ya en yakın gök cismidir. Ay ile Dünya arasındaki mesafe yaklaşık 384.400 kilometredir. Ay, ışık kaynağı değildir ancak Güneş'ten aldığı ışığı yansıtır.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 1. Kitap",
+    "page": 27,
+    "unit": "Gökyüzündeki Komşularımız ve Biz",
+    "keywords": ["ay", "uydu", "küre", "yansıtma", "384400 kilometre"]
+  },
+  "ay yüzeyi": {
+    "answer": "Ay'ın yüzeyinde kaya, taş, kum ve toz bulunur. Koyu renkli görünen bölümler genellikle geniş düzlüklerin bulunduğu alanlardır. Açık renkli görünen bölümler ise genellikle engebeli ve yüksek alanlardır. Ay'da sıcaklık gece -174°C'u, gündüz ise 125°C'u bulabilir.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 1. Kitap",
+    "page": 32,
+    "unit": "Gökyüzündeki Komşularımız ve Biz",
+    "keywords": ["ay yüzeyi", "kaya", "taş", "kum", "toz", "sıcaklık", "düzlük", "engebeli"]
+  },
+  "krater": {
+    "answer": "Ay yüzeyine gök taşlarının düşmesi sonucunda oluşan irili ufaklı çukurlara krater adı verilir. Ay'ın atmosferi yok denecek kadar ince olduğu için gök taşlarının büyük kısmı atmosferi geçip yüzeye düşer.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 1. Kitap",
+    "page": 32,
+    "unit": "Gökyüzündeki Komşularımız ve Biz",
+    "keywords": ["krater", "gök taşı", "çukur", "atmosfer", "düşme"]
+  },
+  "ay hareketleri": {
+    "answer": "Ay, dönme ve dolanma hareketleri yapan bir gök cismidir. Ay'ın dönme hareketi ile Dünya etrafındaki dolanma hareketini tamamlama süreleri neredeyse birbirine eşittir. Bu nedenle Dünya'dan bakıldığında Ay'ın hep aynı yüzeyi görünür. Ay'ın dönme ve dolanma hareketleri saatin dönme yönünün tersine gerçekleşir.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 1. Kitap",
+    "page": 33,
+    "unit": "Gökyüzündeki Komşularımız ve Biz",
+    "keywords": ["ay", "dönme", "dolanma", "hareket", "saat yönü tersi"]
+  },
+  "ay evreleri": {
+    "answer": "Ay'ın farklı şekillerde görünmesine Ay'ın evreleri denir. Ay'ın yeni ay, ilk dördün, dolunay ve son dördün olmak üzere dört ana evresi vardır. Hilal ve şişkin ay ise Ay'ın ara evreleridir. Ay'ın evrelerinin tamamlanma süresi yaklaşık 29,5 gündür.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 1. Kitap",
+    "page": 35,
+    "unit": "Gökyüzündeki Komşularımız ve Biz",
+    "keywords": ["ay evreleri", "yeni ay", "ilk dördün", "dolunay", "son dördün", "hilal", "şişkin ay", "29.5 gün"]
+  },
+  "kuvvet": {
+    "answer": "Duran bir cismi hareket ettirebilen, hareketli cisimleri hızlandırabilen, yavaşlatabilen veya durdurabilen, hareketin yönünü ve doğrultusunu değiştirebilen, cisimler üzerinde şekil değişikliği yapabilen etkiye kuvvet denir.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 1. Kitap",
+    "page": 63,
+    "unit": "Kuvveti Tanıyalım",
+    "keywords": ["kuvvet", "hareket", "hızlandırma", "yavaşlatma", "şekil değiştirme"]
+  },
+  "dinamometre": {
+    "answer": "Kuvvetin büyüklüğü dinamometre adı verilen alet ile ölçülür. Kuvvetin birimi Newton'dır (N). Her dinamometrenin ölçüm hassasiyeti ve ölçebileceği kuvvet aralığı aynı değildir.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 1. Kitap",
+    "page": 61,
+    "unit": "Kuvveti Tanıyalım",
+    "keywords": ["dinamometre", "newton", "ölçüm", "kuvvet birimi"]
+  },
+  "hücre": {
+    "answer": "Hücre, tüm canlıların yapı ve işlev birimidir. Canlılar tek hücreli veya çok hücreli olabilir. Hücrenin temel bölümleri hücre zarı, sitoplazma ve çekirdektir.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 1. Kitap",
+    "page": 103,
+    "unit": "Canlıların Yapısına Yolculuk",
+    "keywords": ["hücre", "canlı", "yapı", "işlev", "hücre zarı", "sitoplazma", "çekirdek", "tek hücreli", "çok hücreli"]
+  },
+  "bitki hücresi": {
+    "answer": "Bitki hücreleri, hayvan hücrelerinden farklı olarak hücre duvarı, kloroplast ve büyük koful içerir. Hücre duvarı bitkiye destek sağlar, kloroplast fotosentez yapar, koful ise su ve besin depolar.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 1. Kitap",
+    "page": 104,
+    "unit": "Canlıların Yapısına Yolculuk",
+    "keywords": ["bitki hücresi", "hücre duvarı", "kloroplast", "koful", "fotosentez", "destek"]
+  },
+  "hayvan hücresi": {
+    "answer": "Hayvan hücreleri, bitki hücrelerinden farklı olarak hücre duvarı ve kloroplast içermez. Hayvan hücrelerinde sentrozom bulunur ve kofulleri bitki hücrelerine göre daha küçük ve sayıca fazladır.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 1. Kitap",
+    "page": 104,
+    "unit": "Canlıların Yapısına Yolculuk",
+    "keywords": ["hayvan hücresi", "sentrozom", "koful küçük", "hücre duvarı yok"]
+  },
+  "doku": {
+    "answer": "Aynı işlevi yapan hücreler bir araya gelerek dokuyu oluşturur. Dokular organ, organlar sistem, sistemler ise organizmayı oluşturur. Hücre-Doku-Organ-Sistem-Organizma şeklinde bir hiyerarşi vardır.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 1. Kitap",
+    "page": 115,
+    "unit": "Canlıların Yapısına Yolculuk",
+    "keywords": ["doku", "organ", "sistem", "organizma", "hücre", "hiyerarşi"]
+  },
+  "destek sistemi": {
+    "answer": "Destek sistemi iskelet sisteminden oluşur. İskelet sistemi kemik ve kıkırdaklardan meydana gelir. Bu sistem vücudun şeklini korur, iç organları korur ve hareket etmemizi sağlar.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 1. Kitap",
+    "page": 121,
+    "unit": "Canlıların Yapısına Yolculuk",
+    "keywords": ["destek sistemi", "iskelet", "kemik", "kıkırdak", "koruma", "hareket"]
+  },
+  "hareket sistemi": {
+    "answer": "Hareket sistemi kaslardan oluşur. Kaslar kasılıp gevşeyerek vücudumuzun hareket etmesini sağlar. Kaslar kemiklere bağlıdır ve birlikte çalışırlar.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 1. Kitap",
+    "page": 121,
+    "unit": "Canlıların Yapısına Yolculuk",
+    "keywords": ["hareket sistemi", "kas", "kasılma", "gevşeme", "kemik", "hareket"]
+  },
+  "kütle": {
+    "answer": "Kütle, madde miktarını belirtir ve birimi gram (g) veya kilogram (kg)'dır. Kütle eşit kollu terazi ile ölçülür. Kütle, bulunduğu yere göre değişmez.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 1. Kitap",
+    "page": 70,
+    "unit": "Kuvveti Tanıyalım",
+    "keywords": ["kütle", "madde miktarı", "gram", "kilogram", "eşit kollu terazi"]
+  },
+  "ağırlık": {
+    "answer": "Ağırlık, kütlenin yerçekimi etkisiyle oluşturduğu kuvvettir. Ağırlığın birimi Newton (N)'dur ve dinamometre ile ölçülür. Ağırlık, bulunduğu yere göre değişebilir.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 1. Kitap",
+    "page": 70,
+    "unit": "Kuvveti Tanıyalım",
+    "keywords": ["ağırlık", "yerçekimi", "newton", "dinamometre", "kuvvet"]
+  },
+  "sürtünme kuvveti": {
+    "answer": "Sürtünme kuvveti, hareket eden veya hareket etmeye çalışan cisimlere karşı çıkan kuvvettir. Sürtünme kuvveti hareketin tersi yönündedir ve hareketi zorlaştırır.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 1. Kitap",
+    "page": 78,
+    "unit": "Kuvveti Tanıyalım",
+    "keywords": ["sürtünme", "hareket", "karşı koyma", "zorlaştırma"]
+  },
+  "hava direnci": {
+    "answer": "Hava direnci, hava içinde hareket eden cisimlere hava moleküllerinin uyguladığı kuvvettir. Bu kuvvet hareketin tersi yönünde etki eder ve hızı azaltır.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 1. Kitap",
+    "page": 78,
+    "unit": "Kuvveti Tanıyalım",
+    "keywords": ["hava direnci", "molekül", "direnç", "hız azaltma"]
+  },
+  "su direnci": {
+    "answer": "Su direnci, su içinde hareket eden cisimlere su moleküllerinin uyguladığı kuvvettir. Bu kuvvet hareketin tersi yönünde etki eder ve hareketi zorlaştırır.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 1. Kitap",
+    "page": 78,
+    "unit": "Kuvveti Tanıyalım",
+    "keywords": ["su direnci", "molekül", "direnç", "zorlaştırma"]
+  },
+  "galileo galilei": {
+    "answer": "Galileo Galilei, yüzyıllar önce geliştirdiği teleskobuyla Güneş lekelerini gözlemlemiş ve Güneş'in kendi ekseni etrafında saat yönünün tersi yönde döndüğünü kanıtlamıştır.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 1. Kitap",
+    "page": 24,
+    "unit": "Gökyüzündeki Komşularımız ve Biz",
+    "keywords": ["galileo galilei", "teleskop", "güneş lekeleri", "bilim insanı"]
+  },
+  "isaac newton": {
+    "answer": "Isaac Newton, kuvvet konusu başta olmak üzere yaptığı çalışmalar ile bilim dünyasında yeni çığırlar açmıştır. Bilime olan önemli katkılarından dolayı kuvvet birimine onun soyadı verilmiştir.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 1. Kitap",
+    "page": 63,
+    "unit": "Kuvveti Tanıyalım",
+    "keywords": ["isaac newton", "kuvvet", "newton birimi", "bilim insanı"]
+  },
+  "uluğ bey": {
+    "answer": "Uluğ Bey, matematik ve astronomiye ilgi duyan bir Türk hükümdarıdır. Semerkant'a yaptırdığı rasathane ile gök bilimi alanında çalışmalar yürütmüş ve bir yılın 365 gün 6 saat 10 dakika 8 saniye olduğunu belirlemiştir.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 1. Kitap",
+    "page": 48,
+    "unit": "Gökyüzündeki Komşularımız ve Biz",
+    "keywords": ["uluğ bey", "rasathane", "astronomi", "türk bilim insanı", "semerkant"]
+  },
+  "ali kuşçu": {
+    "answer": "Ali Kuşçu, gezegenlerin Güneş etrafında belirli yörüngelerde hareket ettiği fikrini ortaya atmış ve Ay'ın ilk haritasını çıkarmıştır. Bu çalışmalarından dolayı Ay'ın bir bölgesine 'Ali Kuşçu' adı verilmiştir.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 1. Kitap",
+    "page": 53,
+    "unit": "Gökyüzündeki Komşularımız ve Biz",
+    "keywords": ["ali kuşçu", "ay haritası", "yörünge", "türk bilim insanı"]
+  }
+}

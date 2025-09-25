@@ -1,0 +1,184 @@
+{
+  "genleşme": {
+    "answer": "Isı etkisiyle maddenin hacminin artmasına genleşme denir. Isı alan maddelerde tanecikler arasındaki mesafe artar ve maddenin hacmi büyür. Genleşme olayı katı, sıvı ve gaz halindeki maddelerde görülür.",
+    "source": "MEB 6. Sınıf Fen Bilgisi Ders Kitabı - 2. Kitap",
+    "page": 17,
+    "unit": "Maddenin Ayırt Edici Özellikleri",
+    "keywords": ["genleşme", "ısı", "hacim", "tanecik", "mesafe"]
+  },
+  "büzülme": {
+    "answer": "Isı veren maddenin hacminin azalmasına büzülme denir. Isı veren maddelerde tanecikler arasındaki mesafe azalır ve maddenin hacmi küçülür. Büzülme olayı da tüm madde hallerinde görülür.",
+    "source": "MEB 6. Sınıf Fen Bilgisi Ders Kitabı - 2. Kitap",
+    "page": 17,
+    "unit": "Maddenin Ayırt Edici Özellikleri",
+    "keywords": ["büzülme", "ısı verme", "hacim", "tanecik", "küçülme"]
+  },
+  "ısı ve madde etkileşimi": {
+    "answer": "Isı alışverişi sonucu madde tanecikleri arasındaki mesafeler değişebilir. Madde ısı aldığında genleşir, ısı verdiğinde büzülür. Bu durumda madde hâl değiştirmese bile hacminde değişiklikler olur.",
+    "source": "MEB 6. Sınıf Fen Bilgisi Ders Kitabı - 2. Kitap",
+    "page": 16,
+    "unit": "Maddenin Ayırt Edici Özellikleri",
+    "keywords": ["ısı", "madde", "etkileşim", "tanecik", "mesafe", "hacim"]
+  },
+  "termometre çalışma prensibi": {
+    "answer": "Termometre, ısı etkisiyle genleşme ve büzülme prensibi ile çalışır. Sıcaklığın artmasıyla termometre içindeki sıvı genleşir, hacmi artar ve sıvı seviyesi yükselir. Sıcaklığın azalmasıyla sıvı büzülür, hacmi küçülür ve sıvı seviyesi azalır.",
+    "source": "MEB 6. Sınıf Fen Bilgisi Ders Kitabı - 2. Kitap",
+    "page": 19,
+    "unit": "Maddenin Ayırt Edici Özellikleri",
+    "keywords": ["termometre", "sıvı", "genleşme", "büzülme", "sıcaklık"]
+  },
+  "genleşme büzülme günlük hayat": {
+    "answer": "Günlük hayatta genleşme ve büzülme pek çok alanda görülür: Tren raylarında genleşme payı bırakılır, elektrik telleri yaz aylarında uzar kış aylarında kısalır, sıkışan kavanoz kapağı sıcak suda bekletilerek açılır, araç lastikleri kışın küçülür yazın büyür.",
+    "source": "MEB 6. Sınıf Fen Bilgisi Ders Kitabı - 2. Kitap",
+    "page": 19,
+    "unit": "Maddenin Ayırt Edici Özellikleri",
+    "keywords": ["tren rayı", "elektrik teli", "kavanoz kapağı", "araç lastiği", "günlük hayat"]
+  },
+  "erime noktası": {
+    "answer": "Katı hâldeki saf bir maddenin sıvı hâle geçmeye başladığı sıcaklığa erime noktası denir. Her saf maddenin kendine özgü erime noktası vardır. Erime noktası maddelerin ayırt edici özelliklerinden biridir.",
+    "source": "MEB 6. Sınıf Fen Bilgisi Ders Kitabı - 2. Kitap",
+    "page": 27,
+    "unit": "Maddenin Ayırt Edici Özellikleri",
+    "keywords": ["erime noktası", "katı", "sıvı", "saf madde", "ayırt edici özellik"]
+  },
+  "donma noktası": {
+    "answer": "Sıvı hâldeki saf bir maddenin katı hâle geçmeye başladığı sıcaklığa donma noktası denir. Bir maddenin erime noktası ile donma noktası aynıdır. Bu sıcaklık maddenin ayırt edici özelliğidir.",
+    "source": "MEB 6. Sınıf Fen Bilgisi Ders Kitabı - 2. Kitap",
+    "page": 27,
+    "unit": "Maddenin Ayırt Edici Özellikleri",
+    "keywords": ["donma noktası", "sıvı", "katı", "erime noktası", "ayırt edici özellik"]
+  },
+  "kaynama noktası": {
+    "answer": "Saf bir sıvının her yerinde buharlaşma olayının başladığı sıcaklığa kaynama noktası denir. Kaynama noktası da maddelerin ayırt edici özelliklerinden biridir ve her saf madde için farklıdır.",
+    "source": "MEB 6. Sınıf Fen Bilgisi Ders Kitabı - 2. Kitap",
+    "page": 27,
+    "unit": "Maddenin Ayırt Edici Özellikleri",
+    "keywords": ["kaynama noktası", "sıvı", "buharlaşma", "ayırt edici özellik"]
+  },
+  "hâl değişim noktaları": {
+    "answer": "Maddelerin hâl değişim noktaları erime, donma ve kaynama noktalarıdır. Bu noktalar her madde için farklıdır ve maddelerin ayırt edici özelliklerini oluşturur. Su için erime-donma noktası 0°C, kaynama noktası 100°C'dir.",
+    "source": "MEB 6. Sınıf Fen Bilgisi Ders Kitabı - 2. Kitap",
+    "page": 26,
+    "unit": "Maddenin Ayırt Edici Özellikleri",
+    "keywords": ["hâl değişim noktası", "erime", "donma", "kaynama", "su", "0°C", "100°C"]
+  },
+  "yoğunluk": {
+    "answer": "Yoğunluk, birim hacimdeki madde miktarıdır. Yoğunluk = Kütle/Hacim formülü ile hesaplanır. Yoğunluk maddelerin ayırt edici özelliklerinden biridir ve g/cm³ birimi ile ifade edilir.",
+    "source": "MEB 6. Sınıf Fen Bilgisi Ders Kitabı - 2. Kitap",
+    "page": 38,
+    "unit": "Maddenin Ayırt Edici Özellikleri",
+    "keywords": ["yoğunluk", "kütle", "hacim", "birim", "g/cm³", "ayırt edici özellik"]
+  },
+  "yoğunluk hesaplaması": {
+    "answer": "Yoğunluk hesaplamak için kütleyi hacme böleriz. Formül: Yoğunluk = Kütle/Hacim. Kütle gram (g) cinsinden, hacim santimetreküp (cm³) cinsinden ölçülürse yoğunluk g/cm³ biriminde bulunur.",
+    "source": "MEB 6. Sınıf Fen Bilgisi Ders Kitabı - 2. Kitap",
+    "page": 38,
+    "unit": "Maddenin Ayırt Edici Özellikleri",
+    "keywords": ["yoğunluk hesaplama", "formül", "kütle", "hacim", "g/cm³"]
+  },
+  "elektriğin iletimi": {
+    "answer": "Bazı maddeler elektriği iletebilirken bazıları iletemez. Elektriği ileten maddelere iletken, iletmeyen maddelere yalıtkan denir. Metaller genellikle iletken, plastik ve cam gibi maddeler yalıtkandır.",
+    "source": "MEB 6. Sınıf Fen Bilgisi Ders Kitabı - 2. Kitap",
+    "page": 69,
+    "unit": "Elektriğin İletimi ve Direnç",
+    "keywords": ["elektrik iletimi", "iletken", "yalıtkan", "metal", "plastik", "cam"]
+  },
+  "iletken maddeler": {
+    "answer": "İletken maddeler elektriği ileten maddelerdir. Metaller, saf su hariç sulu çözeltiler ve insan vücudu elektriği iletir. Bakır, demir, gümüş gibi metaller çok iyi iletkenlerdir.",
+    "source": "MEB 6. Sınıf Fen Bilgisi Ders Kitabı - 2. Kitap",
+    "page": 69,
+    "unit": "Elektriğin İletimi ve Direnç",
+    "keywords": ["iletken", "metal", "bakır", "demir", "gümüş", "sulu çözelti"]
+  },
+  "yalıtkan maddeler": {
+    "answer": "Yalıtkan maddeler elektriği iletmeyen maddelerdir. Plastik, cam, kuru ağaç, lastik, seramik gibi maddeler yalıtkandır. Yalıtkan maddeler elektrik güvenliği için kullanılır.",
+    "source": "MEB 6. Sınıf Fen Bilgisi Ders Kitabı - 2. Kitap",
+    "page": 69,
+    "unit": "Elektriğin İletimi ve Direnç",
+    "keywords": ["yalıtkan", "plastik", "cam", "ağaç", "lastik", "seramik", "güvenlik"]
+  },
+  "elektriksel direnç": {
+    "answer": "Elektriksel direnç, maddenin elektrik akımının geçişine karşı gösterdiği zorluktur. İletkenin uzunluğu, kalınlığı ve cinsi direnci etkiler. Direnç arttıkça akım azalır, ampulün parlaklığı azalır.",
+    "source": "MEB 6. Sınıf Fen Bilgisi Ders Kitabı - 2. Kitap",
+    "page": 75,
+    "unit": "Elektriğin İletimi ve Direnç",
+    "keywords": ["elektriksel direnç", "akım", "uzunluk", "kalınlık", "cins", "ampul parlaklığı"]
+  },
+  "ampul parlaklığı": {
+    "answer": "Ampul parlaklığı elektriksel dirençle ters orantılıdır. Direnç arttıkça ampul daha az parlar, direnç azaldıkça ampul daha çok parlar. Tel uzunluğu, kalınlığı ve cinsi ampul parlaklığını etkiler.",
+    "source": "MEB 6. Sınıf Fen Bilgisi Ders Kitabı - 2. Kitap",
+    "page": 75,
+    "unit": "Elektriğin İletimi ve Direnç",
+    "keywords": ["ampul parlaklığı", "direnç", "ters orantı", "tel uzunluğu", "kalınlık"]
+  },
+  "dirençli teller": {
+    "answer": "Dirençli teller elektrik akımının geçişine direnç gösteren tellerdir. Bu teller ayarlanabilir direnç yapmak için kullanılır. Dirençli tel uzunluğu arttıkça direnç artar ve ampul parlaklığı azalır.",
+    "source": "MEB 6. Sınıf Fen Bilgisi Ders Kitabı - 2. Kitap",
+    "page": 84,
+    "unit": "Elektriğin İletimi ve Direnç",
+    "keywords": ["dirençli tel", "ayarlanabilir direnç", "uzunluk", "ampul parlaklığı"]
+  },
+  "biyoçeşitlilik": {
+    "answer": "Biyoçeşitlilik, Dünya üzerindeki canlı türlerinin çeşitliliğidir. Farklı ekosistemlerde yaşayan bitki, hayvan ve mikroorganizma türlerinin tümünü kapsar. Biyoçeşitlilik ekosistemin dengesini sağlar.",
+    "source": "MEB 6. Sınıf Fen Bilgisi Ders Kitabı - 2. Kitap",
+    "page": 101,
+    "unit": "Sürdürülebilir Yaşam ve Etkileşim",
+    "keywords": ["biyoçeşitlilik", "tür çeşitliliği", "ekosistem", "bitki", "hayvan", "mikroorganizma"]
+  },
+  "biyoçeşitliliği tehdit eden faktörler": {
+    "answer": "Biyoçeşitliliği tehdit eden faktörler: habitat kaybı, kirlilik, iklim değişikliği, istilacı türler, aşırı avcılık ve orman tahribatıdır. Bu faktörler türlerin yok olmasına ve ekosistemin bozulmasına neden olur.",
+    "source": "MEB 6. Sınıf Fen Bilgisi Ders Kitabı - 2. Kitap",
+    "page": 108,
+    "unit": "Sürdürülebilir Yaşam ve Etkileşim",
+    "keywords": ["habitat kaybı", "kirlilik", "iklim değişikliği", "istilacı tür", "avcılık", "orman tahribatı"]
+  },
+  "insan ve çevre etkileşimi": {
+    "answer": "İnsan faaliyetleri çevreyi büyük ölçüde etkiler. Yakıt kullanımı, sanayi faaliyetleri, tarım ve ulaşım çevre üzerinde olumlu ve olumsuz etkiler yaratır. Sürdürülebilir yaşam için bu etkileri en aza indirmeliyiz.",
+    "source": "MEB 6. Sınıf Fen Bilgisi Ders Kitabı - 2. Kitap",
+    "page": 115,
+    "unit": "Sürdürülebilir Yaşam ve Etkileşim",
+    "keywords": ["insan", "çevre", "etkileşim", "yakıt", "sanayi", "tarım", "sürdürülebilir yaşam"]
+  },
+  "ısı amaçlı yakıt kullanımı": {
+    "answer": "Isı elde etmek için odun, kömür, doğal gaz, petrol gibi yakıtlar kullanılır. Yakıt kullanımı çevreye zararlı gazlar salar ve hava kirliliği yaratır. Temiz enerji kaynakları tercih edilmelidir.",
+    "source": "MEB 6. Sınıf Fen Bilgisi Ders Kitabı - 2. Kitap",
+    "page": 116,
+    "unit": "Sürdürülebilir Yaşam ve Etkileşim",
+    "keywords": ["yakıt", "odun", "kömür", "doğal gaz", "petrol", "hava kirliliği", "temiz enerji"]
+  },
+  "çevre sorunları": {
+    "answer": "Başlıca çevre sorunları: hava kirliliği, su kirliliği, toprak kirliliği, gürültü kirliliği, küresel ısınma ve ozon tabakasının incelmesidir. Bu sorunlar insan sağlığını ve ekosistemi olumsuz etkiler.",
+    "source": "MEB 6. Sınıf Fen Bilgisi Ders Kitabı - 2. Kitap",
+    "page": 120,
+    "unit": "Sürdürülebilir Yaşam ve Etkileşim",
+    "keywords": ["çevre sorunları", "hava kirliliği", "su kirliliği", "toprak kirliliği", "küresel ısınma", "ozon tabakası"]
+  },
+  "sürdürülebilir yaşam": {
+    "answer": "Sürdürülebilir yaşam, gelecek nesillerin ihtiyaçlarını karşılama imkânını tehlikeye atmadan bugünün ihtiyaçlarını karşılayan yaşam tarzıdır. Doğal kaynakları koruyarak ve çevreye duyarlı davranarak sürdürülebilir yaşayabiliriz.",
+    "source": "MEB 6. Sınıf Fen Bilgisi Ders Kitabı - 2. Kitap",
+    "page": 125,
+    "unit": "Sürdürülebilir Yaşam ve Etkileşim",
+    "keywords": ["sürdürülebilir yaşam", "gelecek nesil", "doğal kaynak", "çevre duyarlılığı"]
+  },
+  "maddenin ayırt edici özellikleri": {
+    "answer": "Maddenin ayırt edici özellikleri: erime noktası, donma noktası, kaynama noktası, yoğunluk, renk, koku, tat, elektriksel iletkenlik gibi özelliklerdir. Bu özellikler her madde için farklıdır ve maddeleri birbirinden ayırmaya yarar.",
+    "source": "MEB 6. Sınıf Fen Bilgisi Ders Kitabı - 2. Kitap",
+    "page": 12,
+    "unit": "Maddenin Ayırt Edici Özellikleri",
+    "keywords": ["ayırt edici özellik", "erime noktası", "kaynama noktası", "yoğunluk", "renk", "koku", "elektriksel iletkenlik"]
+  },
+  "hacim": {
+    "answer": "Hacim, maddenin boşlukta kapladığı yerdir. Hacim, maddenin ortak özelliklerinden biridir. Isı etkisiyle maddenin hacmi değişebilir: ısı aldığında genleşir, ısı verdiğinde büzülür.",
+    "source": "MEB 6. Sınıf Fen Bilgisi Ders Kitabı - 2. Kitap",
+    "page": 17,
+    "unit": "Maddenin Ayırt Edici Özellikleri",
+    "keywords": ["hacim", "boşluk", "ortak özellik", "genleşme", "büzülme"]
+  },
+  "kütle hacim ilişkisi": {
+    "answer": "Kütle ve hacim arasında doğru orantı vardır. Aynı maddeden alınan örneğin kütlesi arttıkça hacmi de artar. Ancak farklı maddelerin yoğunlukları farklı olduğu için aynı hacimde farklı kütleler olabilir.",
+    "source": "MEB 6. Sınıf Fen Bilgisi Ders Kitabı - 2. Kitap",
+    "page": 38,
+    "unit": "Maddenin Ayırt Edici Özellikleri",
+    "keywords": ["kütle", "hacim", "doğru orantı", "yoğunluk", "farklı maddeler"]
+  }
+}
