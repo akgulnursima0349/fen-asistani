@@ -1,0 +1,296 @@
+{
+  "ünite_genel_bilgi": {
+    "answer": "4. Ünite: 'Saf Madde ve Karışımlar' — Bu ünite atom ve molekül kavramından başlayıp element, bileşik, karışım ayrımı; çözelti ve çözünme olayları; çözünme hızını etkileyen faktörler; karışımların ayrılması yöntemleri ve evsel atıkların geri dönüşümü konularını içerir.",
+    "source": "MEB 7. Sınıf Fen Bilgisi Ders Kitabı - 4. Ünite",
+    "page": 102,
+    "unit": "Saf Madde ve Karışımlar",
+    "keywords": [
+      "ünite özeti",
+      "saf madde",
+      "karışım",
+      "çözünme",
+      "geri dönüşüm"
+    ]
+  },
+  "atom": {
+    "answer": "Atom, maddenin yapıtaşıdır. Çekirdeğinde pozitif yüklü protonlar ve yüksüz nötronlar; çekirdeğin çevresindeki katmanlarda ise negatif yüklü elektronlar bulunur. Protonların ve nötronların kütleleri birbirine çok yakındır; elektronların kütlesi onları çok daha hafif yapar. Atom numarası, çekirdekteki proton sayısıyla eşdeğerdir (atom numarası = proton sayısı).",
+    "source": "MEB 7. Sınıf Fen Bilgisi Ders Kitabı - 4. Ünite",
+    "page": 105,
+    "unit": "Maddenin Tanecikli Yapısı",
+    "keywords": [
+      "atom",
+      "çekirdek",
+      "proton",
+      "nötron",
+      "elektron",
+      "atom numarası"
+    ]
+  },
+  "proton": {
+    "answer": "Proton, çekirdekte bulunan pozitif yüklü taneciktir. Elektriksel yükü '+' ile gösterilir ve atomun kimliğini belirleyen atom numarasının temelini oluşturur.",
+    "source": "MEB 7. Sınıf Fen Bilgisi Ders Kitabı - 4. Ünite",
+    "page": 106,
+    "unit": "Maddenin Tanecikli Yapısı",
+    "keywords": [
+      "proton",
+      "pozitif yük",
+      "atom numarası"
+    ]
+  },
+  "nötron": {
+    "answer": "Nötron, çekirdekte bulunan yüksüz (nötr) taneciktir. Proton ile birlikte atom kütlesinin büyük kısmını oluşturur. Nötron sayısındaki değişimler izotoplara sebep olur (ileri derslerde daha detaylı işlenir).",
+    "source": "MEB 7. Sınıf Fen Bilgisi Ders Kitabı - 4. Ünite",
+    "page": 106,
+    "unit": "Maddenin Tanecikli Yapısı",
+    "keywords": [
+      "nötron",
+      "yüksüz",
+      "izotop"
+    ]
+  },
+  "elektron": {
+    "answer": "Elektronlar, atom katmanlarında hareket eden negatif yüklü taneciklerdir. Elektronların kütlesi proton ve nötrona göre çok küçüktür. Atomun kimyasal davranışları büyük ölçüde katmanlardaki (özellikle dış katmandaki) elektron yapısına bağlıdır.",
+    "source": "MEB 7. Sınıf Fen Bilgisi Ders Kitabı - 4. Ünite",
+    "page": 106,
+    "unit": "Maddenin Tanecikli Yapısı",
+    "keywords": [
+      "elektron",
+      "negatif yük",
+      "katman",
+      "kimyasal davranış"
+    ]
+  },
+  "atom_modelleri": {
+    "answer": "Tarihsel olarak Dalton, Thomson (üzümlü kek modeli), Rutherford (çekirdekli model), Bohr (katmanlı elektron modeli) ve Modern Atom Modeli geliştirilmiştir. Modern modelde elektronlar belirli yörüngeler yerine, 'olma olasılığının en yüksek olduğu bölgeler' (elektron bulutu) olarak tanımlanır. Bilimsel bilgiler teknoloji ve deneylerle gelişir; atom modelleri de bu şekilde evrilmiştir.",
+    "source": "MEB 7. Sınıf Fen Bilgisi Ders Kitabı - 4. Ünite",
+    "page": 107,
+    "unit": "Maddenin Tanecikli Yapısı",
+    "keywords": [
+      "Dalton",
+      "Thomson",
+      "Rutherford",
+      "Bohr",
+      "Modern atom modeli",
+      "elektron bulutu"
+    ]
+  },
+  "molekül": {
+    "answer": "Molekül, aynı ya da farklı cins atomların bir araya gelerek oluşturduğu bağımsız atom grubudur. Molekül yapılı maddelerde maddenin özellikleri moleküllere bağlıdır. Örnek: O₂ (oksijen molekülü), H₂O (su molekülü).",
+    "source": "MEB 7. Sınıf Fen Bilgisi Ders Kitabı - 4. Ünite",
+    "page": 109,
+    "unit": "Maddenin Tanecikli Yapısı",
+    "keywords": [
+      "molekül",
+      "aynı cins atom",
+      "farklı cins atom",
+      "örnekler"
+    ]
+  },
+  "element": {
+    "answer": "Element, aynı cins atomlardan oluşan saf maddedir. Elementler kimyasal yollarla daha basit maddelere ayrılamaz ve sembollerle gösterilir (örneğin H, O, C). Periyodik tabloda elementler atom numarasına göre sıralanır.",
+    "source": "MEB 7. Sınıf Fen Bilgisi Ders Kitabı - 4. Ünite",
+    "page": 111,
+    "unit": "Saf Maddeler",
+    "keywords": [
+      "element",
+      "saf madde",
+      "sembol",
+      "periyodik tablo"
+    ]
+  },
+  "ilk_18_element_tablosu": {
+    "answer": "Kitapta ilk 18 elementin adı ve sembolü verilmiştir (H, He, Li, Be, B, C, N, O, F, Ne, Na, Mg, Al, Si, P, S, Cl, Ar). Bu tablonun öğrenilmesi ilerideki konular için faydalıdır.",
+    "source": "MEB 7. Sınıf Fen Bilgisi Ders Kitabı - Tablo 4.1",
+    "page": 114,
+    "unit": "Saf Maddeler",
+    "keywords": [
+      "periyodik tablo",
+      "element sembolleri",
+      "ilk 18 element"
+    ]
+  },
+  "bileşik": {
+    "answer": "Bileşik, farklı cins element atomlarının belirli oranlarda bir araya gelmesiyle oluşan saf maddedir. Bileşikler, kendilerini oluşturan elementlerden tamamen farklı fiziksel ve kimyasal özelliklere sahip olabilir. Örneğin Na (sodyum) ve Cl (klor) elementleri birleşerek NaCl (sofra tuzu) oluşturur.",
+    "source": "MEB 7. Sınıf Fen Bilgisi Ders Kitabı - 4. Ünite",
+    "page": 113,
+    "unit": "Saf Maddeler",
+    "keywords": [
+      "bileşik",
+      "formül",
+      "NaCl",
+      "farklı özellikler"
+    ]
+  },
+  "yaygin_bilesikler_ornekleri": {
+    "answer": "Günlük hayatta sık karşılaşılan bazı bileşikler ve formülleri: Su (H2O), Sodyum klorür (NaCl), Glikoz (C6H12O6), Karbondioksit (CO2), Amonyak (NH3), Sülfürik asit (H2SO4), Nitrik asit (HNO3), Sodyum hidroksit (NaOH), Kalsiyum hidroksit (Ca(OH)2).",
+    "source": "MEB 7. Sınıf Fen Bilgisi Ders Kitabı - Tablo 4.3",
+    "page": 119,
+    "unit": "Saf Maddeler",
+    "keywords": [
+      "H2O",
+      "NaCl",
+      "C6H12O6",
+      "CO2",
+      "NH3",
+      "H2SO4"
+    ]
+  },
+  "karışım": {
+    "answer": "Karışım, iki ya da daha fazla maddenin kendi özelliklerini kaybetmeden bir araya gelmesiyle oluşur. Karışımların bileşenleri istenen oranlarda karıştırılabilir ve belirli bir erime ya da kaynama noktaları yoktur.",
+    "source": "MEB 7. Sınıf Fen Bilgisi Ders Kitabı - 4. Ünite",
+    "page": 121,
+    "unit": "Karışımlar",
+    "keywords": [
+      "karışım",
+      "özellikler",
+      "saf olmayan madde"
+    ]
+  },
+  "homojen_karisim": {
+    "answer": "Homojen karışımlar dışarıdan bakıldığında tek bir maddeymiş hissi verir. Bileşenler karışımın her yerine eşit olarak dağılır. Örnekler: Tuzlu su, şekerli su, hava, kolonyalar.",
+    "source": "MEB 7. Sınıf Fen Bilgisi Ders Kitabı - 4.3.1",
+    "page": 122,
+    "unit": "Karışımlar",
+    "keywords": [
+      "homojen",
+      "çözelti",
+      "örnekler"
+    ]
+  },
+  "heterojen_karisim": {
+    "answer": "Heterojen karışımlarda bileşenler karışımın her yerine eşit dağılmaz; farklı bölgelerde farklı bileşen yoğunlukları görülür. Örnekler: Salata, ayran, kumlu su, zeytinyağlı su.",
+    "source": "MEB 7. Sınıf Fen Bilgisi Ders Kitabı - 4.3.1",
+    "page": 122,
+    "unit": "Karışımlar",
+    "keywords": [
+      "heterojen",
+      "örnekler",
+      "ayrım"
+    ]
+  },
+  "cozelti_ve_tanimlar": {
+    "answer": "Çözelti, çözücü (daha fazla olan bileşen) ve çözünen (dağılan bileşen) olmak üzere iki bileşenden oluşan homojen karışımdır. Örneğin şekerli suda su çözücü, şeker ise çözünen maddedir.",
+    "source": "MEB 7. Sınıf Fen Bilgisi Ders Kitabı - 4.3.2",
+    "page": 123,
+    "unit": "Karışımlar",
+    "keywords": [
+      "çözelti",
+      "çözücü",
+      "çözünen",
+      "örnekler"
+    ]
+  },
+  "cozunme_hizi_faktorlari": {
+    "answer": "Çözünme hızını etkileyen başlıca faktörler: temas yüzeyi (tanecik boyutu), karıştırma (şiddeti) ve sıcaklıktır. Tanecik boyutu küçüldükçe ve karıştırma arttıkça çözünme hızı artar; sıcaklık artışı (çoğu katı-sıvı çözeltide) çözünmeyi hızlandırır. Bu konudaki etkinlikler deneysel değişken (bağımsız, bağımlı, sabit) yaklaşımıyla yürütülür.",
+    "source": "MEB 7. Sınıf Fen Bilgisi Ders Kitabı - 4.3.3",
+    "page": 124,
+    "unit": "Karışımlar",
+    "keywords": [
+      "çözünme hızı",
+      "temas yüzeyi",
+      "karıştırma",
+      "sıcaklık",
+      "deney"
+    ]
+  },
+  "karisimlarin_ayrilmasi_overview": {
+    "answer": "Karışımların ayrılmasında kullanılan temel yöntemler: eleme, süzme (filtrasyon), mıknatısla ayırma, yoğunluk farkından yararlanma (dekanter/ayırma hunisi), buharlaştırma/buharlaştırma ile ayırma ve damıtma (distilasyon). Hangi yöntemin kullanılacağı karışımın türüne ve bileşenlerin fiziksel özelliklerine bağlıdır.",
+    "source": "MEB 7. Sınıf Fen Bilgisi Ders Kitabı - 4.4 ve 4.4.1",
+    "page": 128,
+    "unit": "Karışımların Ayrılması",
+    "keywords": [
+      "süzme",
+      "eleme",
+      "mıknatıs",
+      "damıtma",
+      "buharlaşma",
+      "yoğunluk farkı"
+    ]
+  },
+  "ayirma_yontemleri_detay": {
+    "answer": "Süzme: katı-sıvı ayrımı için; Buharlaştırma: çözünen sıvının buharlaştırılıp geride katının kalması için; Damıtma: kaynama noktası farklı iki sıvıyı ayırmak için (ör: alkol-su); Eleme: tane boyutu farkı olan katı-katı karışımlarda; Mıknatısla ayırma: manyetik metallerin ayrılması için; Ayırma hunisi: yoğunluk farkı olan iki sıvının ayrılmasında kullanılır.",
+    "source": "MEB 7. Sınıf Fen Bilgisi Ders Kitabı - 4.4 ve görseller",
+    "page": 130,
+    "unit": "Karışımların Ayrılması",
+    "keywords": [
+      "süzme",
+      "damıtma",
+      "eleme",
+      "mıknatısla ayırma",
+      "ayırma hunisi"
+    ]
+  },
+  "etkinlik_molekul_modelleri": {
+    "answer": "Etkinlik: Oyun hamuru ve kürdan kullanarak çeşitli molekül modelleri yapınız. Farklı renklerde küreler farklı atom türlerini (örneğin: kırmızı=O, beyaz=H, siyah=C) temsil eder. Yapılan modellerin kaç çeşit atom içerdiğini ve atom sayısını tablolayınız. Amaç, molekül yapısını görselleştirip molekül bileşimini anlamaktır.",
+    "source": "MEB 7. Sınıf Fen Bilgisi Ders Kitabı - 4.1.4",
+    "page": 110,
+    "unit": "Maddenin Tanecikli Yapısı",
+    "keywords": [
+      "etkinlik",
+      "molekül modeli",
+      "oyun hamuru",
+      "kürdan"
+    ]
+  },
+  "etkinlik_cozelti_hazirlama": {
+    "answer": "Etkinlik: Evde veya sınıfta farklı çözücüler (su, alkol) ve çözünenler (tuz, şeker, mürekkep, sirke) kullanarak basit çözelti hazırlama yapılır. Gözlemler: hangi bileşenlerin çözündüğü, çözeltilerin homojen görünüp görünmediği kaydedilir.",
+    "source": "MEB 7. Sınıf Fen Bilgisi Ders Kitabı - 4.3.2 ve faaliyet yönergeleri",
+    "page": 123,
+    "unit": "Karışımlar",
+    "keywords": [
+      "çözelti hazırlama",
+      "gözlem",
+      "çözücü",
+      "çözünen"
+    ]
+  },
+  "etkinlik_cozunme_hizi": {
+    "answer": "Etkinlik: Toz şeker, pudra şekeri ve kesme şeker gibi farklı tanecik boyutlarına sahip şekeri; sıcak/soğuk su ve karıştırma/karıştırmama koşullarında çözündürerek çözünme sürelerini karşılaştırın. Bağımsız değişkenleri (tanecik boyutu, karıştırma, sıcaklık), bağımlı değişkeni (çözünme süresi) ve sabitleri (şeker miktarı, su miktarı) belirleyin.",
+    "source": "MEB 7. Sınıf Fen Bilgisi Ders Kitabı - 4.3.3 (NE KADAR HIZLI ÇÖZÜNÜYOR etkinliği)",
+    "page": 125,
+    "unit": "Karışımlar",
+    "keywords": [
+      "çözünme hızı",
+      "etkinlik",
+      "bağımsız değişken",
+      "kontrol değişkeni"
+    ]
+  },
+  "etkinlik_karisimi_ayirma": {
+    "answer": "Etkinlik: Tuzlu suyu buharlaştırarak tuzu elde etme; kum ve talaşı su içinde karıştırıp talaşı kaşıkla alma, kalan kumu süzgeçten geçirerek ayırma. Öğrenciler hangi yöntemin neden seçildiğini, hangi fiziksel özelliğin kullanıldığını not eder.",
+    "source": "MEB 7. Sınıf Fen Bilgisi Ders Kitabı - 4.4.1",
+    "page": 129,
+    "unit": "Karışımların Ayrılması",
+    "keywords": [
+      "etkinlik",
+      "buharlaşma",
+      "süzme",
+      "yoğunluk farkı"
+    ]
+  },
+  "evsel_atiklar_geri_donusum": {
+    "answer": "Evsel atıklar: geri dönüştürülebilen (kağıt, cam, metal, bazı plastikler) ve dönüştürülemeyen (kirli/kompozit malzemeler, bazı plastik türleri) olarak ayrılır. Geri dönüşüm kaynakların korunması ve çevre kirliliğinin azaltılması için önemlidir. İlçe/şehir bazlı geri dönüşüm uygulamalarına göre atık ayrıştırma önerileri geliştirilir.",
+    "source": "MEB 7. Sınıf Fen Bilgisi Ders Kitabı - 4.5",
+    "page": 103,
+    "unit": "Evsel Atıklar ve Geri Dönüşüm",
+    "keywords": [
+      "geri dönüşüm",
+      "evsel atık",
+      "kağıt",
+      "cam",
+      "metal"
+    ]
+  },
+  "olcme_ve_degerlendirme_ornek_sorular": {
+    "answer": "Kitapta verilen ölçme ve değerlendirme bölümünden seçilmiş örnek sorular bulunmaktadır (boşluk doldurma, doğru-yanlış, kısa cevaplar) — örneğin: 'Çözünme hızına etkili faktörler nelerdir?', 'Aşağıdakilerden hangisi homojen karışımdır?' gibi sorularla bilgiyi kontrol etme amaçlıdır.",
+    "source": "MEB 7. Sınıf Fen Bilgisi Ders Kitabı - 4. Ünite Ölçme ve Değerlendirme",
+    "page": 145,
+    "unit": "Ölçme ve Değerlendirme",
+    "keywords": [
+      "örnek sorular",
+      "ölçme",
+      "değerlendirme",
+      "test"
+    ]
+  }
+}

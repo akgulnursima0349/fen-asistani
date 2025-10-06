@@ -1,0 +1,177 @@
+{
+  "kütle": {
+    "answer": "Kütle, bir cismin içerdiği madde miktarıdır. Kütle eşit kollu teraziyle ölçülür, birimi kilogram (kg) ya da küçük kütleler için gram'dır (g). Cisimlerin kütlesi bulunduğu yere göre değişmez. Örneğin 1 kilogram kütleli madde Dünya'da da Ay'da da Mars'ta da hep 1 kilogram gelir.",
+    "source": "MEB 7. Sınıf Fen Bilgisi Ders Kitabı - 3. Ünite",
+    "page": 79,
+    "unit": "Kuvvet ve Enerji",
+    "keywords": ["kütle", "madde miktarı", "kilogram", "gram", "eşit kollu terazi", "değişmez"]
+  },
+  "ağırlık": {
+    "answer": "Ağırlık, cisme etki eden yer çekimi kuvvetidir. Ağırlık da bir kuvvet olduğundan diğer kuvvetler gibi birimi Newton'dır (N) ve 'N' ile gösterilir. Ağırlığın büyüklüğü dinamometreyle ölçülür. Cisimlerin ağırlığı bulunduğu yerdeki çekim kuvvetine göre değişir.",
+    "source": "MEB 7. Sınıf Fen Bilgisi Ders Kitabı - 3. Ünite",
+    "page": 77,
+    "unit": "Kuvvet ve Enerji",
+    "keywords": ["ağırlık", "yer çekimi kuvveti", "newton", "dinamometre", "değişir", "kuvvet"]
+  },
+  "yer çekimi": {
+    "answer": "Dünya'nın üzerindeki cisimlere uyguladığı bu çekim kuvvetine yer çekimi kuvveti denir. Yeryüzündeki tüm cisimler yer çekimi kuvvetinin etkisiyle yere doğru çekilir. Yerde yürüyebilmemizin nedeni de bu kuvvettir. Yer çekiminin yönü daima Dünya'nın merkezine doğrudur.",
+    "source": "MEB 7. Sınıf Fen Bilgisi Ders Kitabı - 3. Ünite",
+    "page": 77,
+    "unit": "Kuvvet ve Enerji",
+    "keywords": ["yer çekimi", "dünya", "çekim kuvveti", "merkeze doğru", "yere çekilir"]
+  },
+  "kütle çekimi": {
+    "answer": "Evrende var olan her madde, kütlesine bağlı olarak başka maddeleri kendine çeken bir kuvvete sahiptir. Bu kuvvete kütle çekim kuvveti, olaya da kütle çekimi adı verilir. Kütle çekiminin etkisi, varlıklar birbirinden uzaklaştıkça zayıflar. Dünya'nın kütle çekimi, çevresindeki maddelere ağırlık kazandırır.",
+    "source": "MEB 7. Sınıf Fen Bilgisi Ders Kitabı - 3. Ünite",
+    "page": 81,
+    "unit": "Kuvvet ve Enerji",
+    "keywords": ["kütle çekimi", "evrensel çekim", "madde", "uzaklaştıkça zayıflar", "newton"]
+  },
+  "dinamometre": {
+    "answer": "Ağırlığın büyüklüğü dinamometreyle ölçülür. Günümüzde mekanik ve dijital göstergeli dinamometreler kullanılmaktadır. Ağırlığın ölçüldüğü dinamometreler, maddenin esneklik özelliğinden yararlanılarak yapılmış araçlardır.",
+    "source": "MEB 7. Sınıf Fen Bilgisi Ders Kitabı - 3. Ünite",
+    "page": 77,
+    "unit": "Kuvvet ve Enerji",
+    "keywords": ["dinamometre", "ağırlık ölçümü", "mekanik", "dijital", "esneklik özelliği"]
+  },
+  "eşit kollu terazi": {
+    "answer": "Kütle eşit kollu teraziyle ölçülür. Eşit kollu terazi, maddenin kütlesini ölçmek için kullanılan araçtır. Kütle ölçümü bulunduğu yere göre değişmez.",
+    "source": "MEB 7. Sınıf Fen Bilgisi Ders Kitabı - 3. Ünite",
+    "page": 79,
+    "unit": "Kuvvet ve Enerji",
+    "keywords": ["eşit kollu terazi", "kütle ölçümü", "madde miktarı", "değişmez"]
+  },
+  "fiziksel iş": {
+    "answer": "Bir etkinliğin fiziksel anlamda iş olabilmesi için uygulanan kuvvetin, cismi kendi doğrultusunda hareket ettirmesi gerekir. İş için iki koşul gereklidir: Cisme net bir kuvvet uygulanmalıdır ve cisim, uygulanan kuvvet doğrultusunda hareket etmelidir. İş, uygulanan kuvvet ve alınan yolla doğru orantılıdır.",
+    "source": "MEB 7. Sınıf Fen Bilgisi Ders Kitabı - 3. Ünite",
+    "page": 83,
+    "unit": "Kuvvet ve Enerji",
+    "keywords": ["fiziksel iş", "kuvvet", "hareket", "doğrultuda", "doğru orantılı", "joule"]
+  },
+  "iş birimi": {
+    "answer": "Bir iş yapılırken kuvvet birimi Newton, yol birimi metre alınırsa iş birimi joule (jul) olur ve birim kısaca 'J' harfiyle gösterilir. 1 Newton büyüklüğündeki kuvvet cisme kendi doğrultusunda 1 metre yol aldırırsa bu kuvvet o cisme 1 joule'lük iş yaptırmış olur.",
+    "source": "MEB 7. Sınıf Fen Bilgisi Ders Kitabı - 3. Ünite",
+    "page": 85,
+    "unit": "Kuvvet ve Enerji",
+    "keywords": ["joule", "iş birimi", "newton", "metre", "J harfi"]
+  },
+  "enerji": {
+    "answer": "Enerji, iş yapabilme yeteneği olarak tanımlanır. Bir cisim ya da sistem iş yapabiliyorsa enerjisi var demektir. Bir başka anlatımla enerji olmadan iş yapılamaz. Bu nedenle işin de enerjinin de birimleri joule'dür. Yaşamın devamlılığı için enerji zorunludur.",
+    "source": "MEB 7. Sınıf Fen Bilgisi Ders Kitabı - 3. Ünite",
+    "page": 85,
+    "unit": "Kuvvet ve Enerji",
+    "keywords": ["enerji", "iş yapabilme yeteneği", "joule", "yaşam", "zorunlu"]
+  },
+  "kinetik enerji": {
+    "answer": "Bir cismin hareket etmesini sağlayan bu enerjiye kinetik enerji ya da hareket enerjisi denir. Hareketli tüm cisimler kinetik enerjiye sahiptir. Koşan sporcunun, uçan kuşun, hareket eden otomobilin kinetik enerjisi vardır. Cismin sürati ve kütlesi artarsa kinetik enerjisi de artar.",
+    "source": "MEB 7. Sınıf Fen Bilgisi Ders Kitabı - 3. Ünite",
+    "page": 86,
+    "unit": "Kuvvet ve Enerji",
+    "keywords": ["kinetik enerji", "hareket enerjisi", "sürat", "kütle", "hareketli cisimler"]
+  },
+  "potansiyel enerji": {
+    "answer": "Maddelerin konumlarından ve esnekliklerinden dolayı var olan enerjilerine potansiyel enerji ya da durum enerjisi denir. Potansiyel enerji, çekim potansiyel enerjisi ve esneklik potansiyel enerjisi olarak sınıflandırılabilir.",
+    "source": "MEB 7. Sınıf Fen Bilgisi Ders Kitabı - 3. Ünite",
+    "page": 87,
+    "unit": "Kuvvet ve Enerji",
+    "keywords": ["potansiyel enerji", "durum enerjisi", "konum", "esneklik", "çekim", "yükseklik"]
+  },
+  "çekim potansiyel enerjisi": {
+    "answer": "Çekim potansiyel enerjisi, cisimlerin bulunduğu yükseklikten dolayı sahip oldukları enerjidir. Örneğin balkon kenarındaki saksı, binaların duvarındaki klima dış ünitesi gibi yüksekte bulunan cisimler çekim potansiyel enerjisine sahiptir. Bir cismin kütlesi ve yüksekliği ne kadar büyükse çekim potansiyel enerjisi de o kadar büyüktür.",
+    "source": "MEB 7. Sınıf Fen Bilgisi Ders Kitabı - 3. Ünite",
+    "page": 87,
+    "unit": "Kuvvet ve Enerji",
+    "keywords": ["çekim potansiyel enerjisi", "yükseklik", "kütle", "saksı", "klima", "baraj"]
+  },
+  "esneklik potansiyel enerjisi": {
+    "answer": "Esnek cisimlere kuvvet uygulandığında depoladıkları enerjiye esneklik potansiyel enerjisi denir. Yay gibi esnek cisimler sıkıştırıldıklarında ya da gerildiklerinde tekrar eski hâllerine dönmek ister. Sert bir yay, esnek bir lastik gibi cisimler ne kadar çok sıkıştırılır ya da gerdirilirse o kadar fazla esneklik potansiyel enerjisine sahip olur.",
+    "source": "MEB 7. Sınıf Fen Bilgisi Ders Kitabı - 3. Ünite",
+    "page": 88,
+    "unit": "Kuvvet ve Enerji",
+    "keywords": ["esneklik potansiyel enerjisi", "yay", "sıkıştırma", "germe", "esnek cisim", "trambolin"]
+  },
+  "enerjinin korunumu": {
+    "answer": "Bir sistemde var olan enerji yok olmamakta, sadece başka enerji türüne dönüşmektedir. Çünkü doğada var olan enerji yok olmadığı gibi yoktan da enerji var olmaz. Bu durum doğanın temel yasalarından biridir. Buna Enerjinin Korunumu Yasası denilmektedir.",
+    "source": "MEB 7. Sınıf Fen Bilgisi Ders Kitabı - 3. Ünite",
+    "page": 92,
+    "unit": "Kuvvet ve Enerji",
+    "keywords": ["enerjinin korunumu", "enerji dönüşümü", "yok olmaz", "doğa yasası", "yoktan var olmaz"]
+  },
+  "enerji dönüşümü": {
+    "answer": "Kinetik enerji potansiyel enerjiye, potansiyel enerji de kinetik enerjiye yani enerji bir türden başka bir türe dönüşmektedir. Salıncakta sallanan çocuğun hem kinetik hem potansiyel enerjisi vardır. Sallanma sırasında bunlar yok olmaz, bir enerji türü diğerine dönüşür.",
+    "source": "MEB 7. Sınıf Fen Bilgisi Ders Kitabı - 3. Ünite",
+    "page": 91,
+    "unit": "Kuvvet ve Enerji",
+    "keywords": ["enerji dönüşümü", "kinetik", "potansiyel", "salıncak", "yok olmaz", "dönüşür"]
+  },
+  "sürtünme kuvveti": {
+    "answer": "Sürtünme kuvveti, hareketli bir cisimle temas ettiği yüzeyler arasında olan, cismin hareketine genellikle zıt yönde etki eden ya da karşı koyan dirençtir. Kinetik enerjiye sahip cisimler sürtünme kuvvetinin etkisiyle yavaşlayıp durur. Sürtünen cisimler enerji kaybeder ve kaybedilen enerjilerinin bir kısmı ısıya dönüşür.",
+    "source": "MEB 7. Sınıf Fen Bilgisi Ders Kitabı - 3. Ünite",
+    "page": 92,
+    "unit": "Kuvvet ve Enerji",
+    "keywords": ["sürtünme kuvveti", "zıt yön", "yavaşlatır", "enerji kaybı", "ısıya dönüşür"]
+  },
+  "hava direnci": {
+    "answer": "Hava, içindeki cisimlerin hareketini engelleyici yönde bir sürtünme kuvveti uygular. Sürtünme kuvveti havadaysa hava direnci adını alır. Yağmur tanelerinin, havanın sürtünme kuvveti nedeniyle yere yavaş inmesinin nedeni hava direncidir. Uçaktan atlayan paraşütçünün paraşütünün içine dolan hava direnciyle inişinin yavaşlaması hava direncinin diğer bir örneğidir.",
+    "source": "MEB 7. Sınıf Fen Bilgisi Ders Kitabı - 3. Ünite",
+    "page": 93,
+    "unit": "Kuvvet ve Enerji",
+    "keywords": ["hava direnci", "engelleyici", "yağmur taneleri", "paraşütçü", "yavaşlatır"]
+  },
+  "su direnci": {
+    "answer": "Su direnci, su içindeki cisimlerin hareketini engelleyici yönde sürtünme kuvvetidir. Gemi ve diğer deniz taşıtlarının uç kısmının sivri olmasının nedeni de suyun sürtünme kuvvetinin neden olduğu su direncini azaltmaktadır.",
+    "source": "MEB 7. Sınıf Fen Bilgisi Ders Kitabı - 3. Ünite",
+    "page": 93,
+    "unit": "Kuvvet ve Enerji",
+    "keywords": ["su direnci", "gemi", "sivri uç", "deniz taşıtları", "engelleyici"]
+  },
+  "newton birimi": {
+    "answer": "Ağırlık da bir kuvvet olduğundan diğer kuvvetler gibi birimi Newton'dır (N) ve 'N' ile gösterilir. Ünlü fizikçi Newton'a saygıdan kuvvet birimi olarak Newton kullanılır. Newton, Dünya'nın cisimleri kendine doğru çekmesini kanun hâline getirerek Yer Çekimi Kanunu'nu keşfetmiştir.",
+    "source": "MEB 7. Sınıf Fen Bilgisi Ders Kitabı - 3. Ünite",
+    "page": 77,
+    "unit": "Kuvvet ve Enerji",
+    "keywords": ["newton", "kuvvet birimi", "fizikçi", "yer çekimi kanunu", "N harfi"]
+  },
+  "hidroelektrik santral": {
+    "answer": "Hidroelektrik santralleri (HES), akarsuların üzerine kurulan elektrik santralleridir. Bu santrallerde belli bir yükseklikten akan suyun sahip olduğu potansiyel enerji kinetik enerjiye dönüştürülür. Bu sayede, santraldeki türbinlerin dönmesi sağlanır ve elektrik enerjisi üretilir.",
+    "source": "MEB 7. Sınıf Fen Bilgisi Ders Kitabı - 3. Ünite",
+    "page": 92,
+    "unit": "Kuvvet ve Enerji",
+    "keywords": ["hidroelektrik santral", "HES", "potansiyel enerji", "kinetik enerji", "türbin", "elektrik"]
+  },
+  "geoit": {
+    "answer": "Dünya tam bir küre şeklinde olsaydı bir cismin her yerde aynı ağırlıkta olurdu. Ancak Dünya kutuplardan basık, Ekvator'dan şişkin bir şekle sahiptir. Geoit denilen bu şekle göre Dünya'nın kutuplardaki yarıçapı Ekvator yarıçapından küçük olduğu için bir cismin ağırlığı kutuplarda daha fazladır.",
+    "source": "MEB 7. Sınıf Fen Bilgisi Ders Kitabı - 3. Ünite",
+    "page": 79,
+    "unit": "Kuvvet ve Enerji",
+    "keywords": ["geoit", "dünya şekli", "kutuplar", "ekvator", "yarıçap", "ağırlık değişimi"]
+  },
+  "gelgit olayı": {
+    "answer": "Dünya'daki gelgit olaylarının meydana gelmesinin nedeni Ay'ın kütle çekimidir. Okyanuslardaki gelgit olayları, Dünya ve Ay arasındaki çekim kuvvetinin etkisiyle olur. Gelgit olayının Ay'ın konumuna göre değişimi gözlemlenir.",
+    "source": "MEB 7. Sınıf Fen Bilgisi Ders Kitabı - 3. Ünite",
+    "page": 81,
+    "unit": "Kuvvet ve Enerji",
+    "keywords": ["gelgit olayı", "ay", "kütle çekimi", "okyanus", "dünya", "çekim kuvveti"]
+  },
+  "aerodinamik": {
+    "answer": "Haveketli cisimler üzerindeki hava direncinin azaltılması için aerodinamik tasarımlar yapılır. Hava ve su taşıtlarının arka ve ön kısımları düz, geniş bir yüzey şeklinde yapılmaz çünkü bu hava ve su direncini artırır. Bunun yerine sivri ve akıcı şekiller tercih edilir.",
+    "source": "MEB 7. Sınıf Fen Bilgisi Ders Kitabı - 3. Ünite",
+    "page": 95,
+    "unit": "Kuvvet ve Enerji",
+    "keywords": ["aerodinamik", "hava direnci", "sivri şekil", "akıcı tasarım", "taşıt"]
+  },
+  "esnek cisim": {
+    "answer": "Kuvvet uyguladığında şekli değişen, kuvvet ortadan kalkınca tekrar eski hâline gelen cisimlere esnek cisim denir. Yay gibi esnek cisimler sıkıştırıldıklarında ya da gerildiklerinde tekrar eski hâllerine dönmek ister.",
+    "source": "MEB 7. Sınıf Fen Bilgisi Ders Kitabı - 3. Ünite",
+    "page": 88,
+    "unit": "Kuvvet ve Enerji",
+    "keywords": ["esnek cisim", "şekil değişimi", "eski hâl", "yay", "sıkıştırma", "germe"]
+  },
+  "neil armstrong": {
+    "answer": "Ay'a ilk ayak basan insan Neil Armstrong'un giysisinin Dünya'daki ağırlığı yaklaşık 100 N'dı. Armstrong, Ay yüzeyindeki Dünya'ya göre düşük Ay çekim kuvveti nedeniyle orada elbisesinin ağırlığının sadece altıda birini hissediyordu.",
+    "source": "MEB 7. Sınıf Fen Bilgisi Ders Kitabı - 3. Ünite",
+    "page": 78,
+    "unit": "Kuvvet ve Enerji",
+    "keywords": ["neil armstrong", "ay", "astronot", "ağırlık", "100 newton", "altıda bir"]
+  }
+}

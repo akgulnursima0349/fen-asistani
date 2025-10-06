@@ -1,0 +1,184 @@
+{
+  "hücre": {
+    "answer": "Hücre, canlıların canlılık özelliği gösteren en küçük yapı ve görev birimidir. Başka bir hücre tarafından oluşturulan, yaşamak için enerji üreten, bulunduğu ortamla madde alışverişi yapabilen, büyüyüp çoğalan ve belli bir süre sonra da ölen varlıktır.",
+    "source": "MEB 7. Sınıf Fen Bilgisi Ders Kitabı - 2. Ünite",
+    "page": 47,
+    "unit": "Hücre ve Bölünmeler",
+    "keywords": ["hücre", "canlılık", "yapı birimi", "görev birimi", "enerji", "madde alışverişi"]
+  },
+  "hücre zarı": {
+    "answer": "Hücre zarı, hücrelerin en dış kısmını kuşatan ve sınırlarını belirleyen dinamik bölümdür. Hücreye belli bir şekil verir, hücreyi dış etkenlerden korur. Çok ince ve esnek bir yapıya sahiptir. Yapısı yağ, protein ve karbonhidratlardan oluşur. Seçici geçirgen özelliğe sahiptir.",
+    "source": "MEB 7. Sınıf Fen Bilgisi Ders Kitabı - 2. Ünite",
+    "page": 48,
+    "unit": "Hücre ve Bölünmeler",
+    "keywords": ["hücre zarı", "seçici geçirgen", "koruma", "yağ", "protein", "karbonhidrat"]
+  },
+  "sitoplazma": {
+    "answer": "Sitoplazma, hücre zarıyla çekirdek arasını dolduran ve çoğunluğu su olan bölümdür. Su dışında karbonhidrat, yağ, protein, mineral, vitamin, enzim, hormon, boya (pigment), oksijen, karbondioksit gibi maddeler bulunur. Yumurta akı kıvamındadır yani yarı akışkandır. Hücrenin yaşamsal etkinliklerinin gerçekleşmesini sağlar.",
+    "source": "MEB 7. Sınıf Fen Bilgisi Ders Kitabı - 2. Ünite",
+    "page": 48,
+    "unit": "Hücre ve Bölünmeler",
+    "keywords": ["sitoplazma", "su", "karbonhidrat", "protein", "mineral", "vitamin", "enzim", "hormon"]
+  },
+  "hücre çekirdeği": {
+    "answer": "Hücre çekirdeği, hücrede büyüme, onarım, bölünme, enerji üretme gibi olayların yönetim ve denetimini yapan merkezdir. Hücrenin merkezinde ya da bir kenara çekilmiş durumda olabilir. Çekirdeğin hücresel faaliyetlerin yönetim ve denetimini yapması, sahip olduğu genleri taşıyan kromozomlarla gerçekleşir.",
+    "source": "MEB 7. Sınıf Fen Bilgisi Ders Kitabı - 2. Ünite",
+    "page": 48,
+    "unit": "Hücre ve Bölünmeler",
+    "keywords": ["hücre çekirdeği", "yönetim", "denetim", "kromozom", "gen", "büyüme", "onarım", "bölünme"]
+  },
+  "hücre duvarı": {
+    "answer": "Bitki hücrelerinde hücre zarının dışında ayrıca bir de hücre duvarı vardır. Bitki hücrelerinin en dışındaki hücre duvarı hücreye dayanıklılık, sertlik ve değişmez bir şekil kazandırır. Cansız bir yapıdır.",
+    "source": "MEB 7. Sınıf Fen Bilgisi Ders Kitabı - 2. Ünite",
+    "page": 48,
+    "unit": "Hücre ve Bölünmeler",
+    "keywords": ["hücre duvarı", "bitki hücresi", "dayanıklılık", "sertlik", "cansız yapı"]
+  },
+  "ribozom": {
+    "answer": "Ribozom, hücre çekirdeğindeki genlerden gelen emirlere uygun olarak kendine özgü proteinlerin sentezlenmesini sağlar. Kısaca, ribozomlar hücrenin protein fabrikasıdır. İki parçadan oluşan ribozom hücredeki en küçük organeldir.",
+    "source": "MEB 7. Sınıf Fen Bilgisi Ders Kitabı - 2. Ünite",
+    "page": 49,
+    "unit": "Hücre ve Bölünmeler",
+    "keywords": ["ribozom", "protein sentezi", "protein fabrikası", "gen", "organel"]
+  },
+  "mitokondri": {
+    "answer": "Mitokondri, hücredeki bazı besinleri parçalayarak (oksijenli solunumla) enerji üreten enerji santralidir. Şekli ipek böceği kozasına benzer. Enerji gereksinimi fazla olan kas, sinir, karaciğer hücrelerinde mitokondri sayısı diğer hücrelere göre fazladır.",
+    "source": "MEB 7. Sınıf Fen Bilgisi Ders Kitabı - 2. Ünite",
+    "page": 49,
+    "unit": "Hücre ve Bölünmeler",
+    "keywords": ["mitokondri", "enerji santrali", "oksijenli solunum", "kas hücresi", "sinir hücresi", "karaciğer"]
+  },
+  "kloroplast": {
+    "answer": "Kloroplast, bitkilerin yaprak, ham meyve ve sebze, genç bitkilerin gövde kabukları gibi kısımlarında bulunur. Bunlar hücreye yeşil renk veren bitkisel organeldir. Kloroplast, ışığı kullanarak fotosentezle hücrenin besinlerini üreten organeldir. Hayvan hücrelerinde kloroplast bulunmaz.",
+    "source": "MEB 7. Sınıf Fen Bilgisi Ders Kitabı - 2. Ünite",
+    "page": 50,
+    "unit": "Hücre ve Bölünmeler",
+    "keywords": ["kloroplast", "fotosentez", "yeşil renk", "bitki hücresi", "ışık", "besin üretimi"]
+  },
+  "koful": {
+    "answer": "Koful, hücrede suyun, besinlerin, atıkların ya da artıkların depolandığı içi sıvı dolu keseciklerdir. Bitki hücrelerinde büyük ve az, hayvan hücrelerinde küçük ve çok sayıdadır. Kofulları hücre zarı, endoplazmik retikulum, Golgi cisimciği gibi yapılar oluşturur.",
+    "source": "MEB 7. Sınıf Fen Bilgisi Ders Kitabı - 2. Ünite",
+    "page": 49,
+    "unit": "Hücre ve Bölünmeler",
+    "keywords": ["koful", "depolama", "su", "besin", "atık", "bitki hücresi büyük", "hayvan hücresi küçük"]
+  },
+  "lizozom": {
+    "answer": "Lizozom, hücre içi sindirimi gerçekleştiren organeldir. Bir başka anlatımla hücrenin kullanacağı büyük maddeleri parçalayarak kullanıma hazırlar. Hücredeki yaşlanmış, yıpranmış ve işlevini yitirmiş organelleri sindirir. Vücuttaki mikropların yok edilmesinde de etkilidir. Hayvan hücreleriyle ilkel bitki hücrelerinde bulunur.",
+    "source": "MEB 7. Sınıf Fen Bilgisi Ders Kitabı - 2. Ünite",
+    "page": 50,
+    "unit": "Hücre ve Bölünmeler",
+    "keywords": ["lizozom", "hücre içi sindirim", "parçalama", "mikroplari yok etme", "hayvan hücresi"]
+  },
+  "endoplazmik retikulum": {
+    "answer": "Endoplazmik retikulum, kısaca ER denilen organeldir. ER, hücre zarıyla çekirdek arasında uzanan kanalcıklar şeklindedir. Görevi, hücre içinde madde taşınmasını ve bazı maddelerin depolanmasını sağlamaktır.",
+    "source": "MEB 7. Sınıf Fen Bilgisi Ders Kitabı - 2. Ünite",
+    "page": 50,
+    "unit": "Hücre ve Bölünmeler",
+    "keywords": ["endoplazmik retikulum", "ER", "madde taşınması", "depolama", "kanalcık"]
+  },
+  "golgi cisimciği": {
+    "answer": "Golgi cisimciği, Golgi aygıtı da denilen bu organel tükürük, gözyaşı gibi salgıların oluşturulması, salgılanması ve paketlenmesinde görevlidir. Ayrıca hücre zarı yapımında da etkilidir. Gözyaşı, tükürük, ter ve süt bezleri gibi salgı yapan hücrelerde diğer hücrelerden fazladır.",
+    "source": "MEB 7. Sınıf Fen Bilgisi Ders Kitabı - 2. Ünite",
+    "page": 50,
+    "unit": "Hücre ve Bölünmeler",
+    "keywords": ["golgi cisimciği", "salgı", "paketleme", "tükürük", "gözyaşı", "ter", "süt"]
+  },
+  "sentrozom": {
+    "answer": "Sentrozom, hayvan ve ilkel bitki hücrelerinde bulunur. Olgun alyuvar, sinir, kas hücreleriyle yumurta ve gelişmiş bitki hücrelerinde sentrozom bulunmaz. Hücre bölünmesinde görevlidir.",
+    "source": "MEB 7. Sınıf Fen Bilgisi Ders Kitabı - 2. Ünite",
+    "page": 50,
+    "unit": "Hücre ve Bölünmeler",
+    "keywords": ["sentrozom", "hayvan hücresi", "hücre bölünmesi", "sinir hücresi yok", "kas hücresi yok"]
+  },
+  "kromozom": {
+    "answer": "Hücrenin en önemli yapı maddesi kromozomlardır. Kromozomlar, hücre dinlenme hâlindeyken kromatin ya da kromatin iplik denilen karışmış iplik yumağı gibidir. Hücre bölüneceği zaman kromatin iplikler kendi üzerinde sarılarak kısalır, kalınlaşır; belirgin, rahat görünür duruma gelir. Bunlara da kromozom denir.",
+    "source": "MEB 7. Sınıf Fen Bilgisi Ders Kitabı - 2. Ünite",
+    "page": 51,
+    "unit": "Hücre ve Bölünmeler",
+    "keywords": ["kromozom", "kromatin iplik", "DNA", "kalıtsal madde", "bölünme"]
+  },
+  "DNA": {
+    "answer": "Kromozomları oluşturan en önemli yapı maddesi DNA molekülleridir. Binalardaki yangın merdivenleri gibi sarmal bir yapıda olan DNA molekülleri bu yapıyı, aralarındaki özel protein molekülleriyle birlikte oluşturur. DNA molekülü üzerinde genler bulunur.",
+    "source": "MEB 7. Sınıf Fen Bilgisi Ders Kitabı - 2. Ünite",
+    "page": 51,
+    "unit": "Hücre ve Bölünmeler",
+    "keywords": ["DNA", "sarmal yapı", "protein", "gen", "molekül", "kromozom"]
+  },
+  "gen": {
+    "answer": "Genler, DNA molekülü üzerindeki kalıtsal birimlerdir. Genler hücrenin yapı ve işlevlerinin planıdır. Başka bir anlatımla cinsiyet, kan grubu, göz rengi gibi pek çok yapısal özelliği genler oluşturur. Hücrenin sahip olduğu bu kalıtsal özellikler, oluşturulacak yeni hücrelere, dolayısıyla gelecek nesillere genlerle aktarılır.",
+    "source": "MEB 7. Sınıf Fen Bilgisi Ders Kitabı - 2. Ünite",
+    "page": 51,
+    "unit": "Hücre ve Bölünmeler",
+    "keywords": ["gen", "kalıtsal birim", "cinsiyet", "kan grubu", "göz rengi", "kalıtım"]
+  },
+  "doku": {
+    "answer": "Yapı, özellik ve işlevleri benzer olan hücreler bir araya gelerek gruplaşır. Bu hücre gruplarına doku adı verilir. Örneğin kıkırdak, kemik, kas doku gibi. Dokular da birlikte çalışarak yaşamsal faaliyetleri gerçekleştirir.",
+    "source": "MEB 7. Sınıf Fen Bilgisi Ders Kitabı - 2. Ünite",
+    "page": 56,
+    "unit": "Hücre ve Bölünmeler",
+    "keywords": ["doku", "benzer hücreler", "kıkırdak", "kemik", "kas", "yaşamsal faaliyet"]
+  },
+  "organ": {
+    "answer": "Belli bir görevi yapmak üzere bir araya gelen farklı dokular organları oluşturur. Örneğin kas doku diğer bazı dokularla birlikte kalp, mide, kol, bacak, böbrek, karaciğer gibi farklı organları oluşturur.",
+    "source": "MEB 7. Sınıf Fen Bilgisi Ders Kitabı - 2. Ünite",
+    "page": 56,
+    "unit": "Hücre ve Bölünmeler",
+    "keywords": ["organ", "farklı dokular", "kalp", "mide", "böbrek", "karaciğer", "belli görev"]
+  },
+  "sistem": {
+    "answer": "Belli bir görevi yapacak olan yani aynı amaca yönelik organlar da birlikte sistemleri oluşturur. Örneğin ağız, yemek borusu, mide, ince bağırsak, kalın bağırsak, anüs gibi yapılar birlikte sindirim sistemini oluşturur.",
+    "source": "MEB 7. Sınıf Fen Bilgisi Ders Kitabı - 2. Ünite",
+    "page": 56,
+    "unit": "Hücre ve Bölünmeler",
+    "keywords": ["sistem", "aynı amaç", "sindirim sistemi", "ağız", "mide", "bağırsak", "anüs"]
+  },
+  "mitoz": {
+    "answer": "Mitozun zamanı, hızı ve nitelikleri canlıya, hücrenin özelliklerine, görevlerine ve bulunduğu dokuya göre farklılık gösterir. Canlıların büyümesi, onarılması, dikilen bir fidanın ağaca dönüşmesi, ekilen bir tohumun bitki olup uzaması mitozla olur. Mitozla 2n kromozomlu hücrelerden yine 2n kromozomlu küçük hücreler meydana gelir.",
+    "source": "MEB 7. Sınıf Fen Bilgisi Ders Kitabı - 2. Ünite",
+    "page": 59,
+    "unit": "Hücre ve Bölünmeler",
+    "keywords": ["mitoz", "büyüme", "onarım", "2n kromozom", "vücut hücresi", "bölünme"]
+  },
+  "mayoz": {
+    "answer": "Mayoz, hücrenin kromozom sayısını 2n'den n'ye indiren özel bir hücre bölünmesidir. Mayozla 2n kromozomlu hücreden n kromozomlu hücreler meydana gelir. Gelişmiş canlıların üreme organlarındaki 2n kromozomlu üreme (eşey) ana hücrelerinde gerçekleşir.",
+    "source": "MEB 7. Sınıf Fen Bilgisi Ders Kitabı - 2. Ünite",
+    "page": 63,
+    "unit": "Hücre ve Bölünmeler",
+    "keywords": ["mayoz", "kromozom sayısı azaltma", "2n'den n'ye", "üreme hücresi", "sperm", "yumurta"]
+  },
+  "üreme hücreleri": {
+    "answer": "Eşeyli üreyen canlıların erkek ve dişi bireylerinde oluşan ve yeni bir birey oluşturacak hücrelerinden erkek üreme hücresi sperm, dişi üreme hücresi yumurtadır. Sperm ve yumurta, eşeyli üreyen canlıların üreme organlarındaki üreme ana hücrelerinin geçirdiği mayozla oluşur.",
+    "source": "MEB 7. Sınıf Fen Bilgisi Ders Kitabı - 2. Ünite",
+    "page": 63,
+    "unit": "Hücre ve Bölünmeler",
+    "keywords": ["üreme hücreleri", "sperm", "yumurta", "erkek", "dişi", "mayoz", "eşeyli üreme"]
+  },
+  "döllenme": {
+    "answer": "Her biri n kromozomlu sperm ve yumurta birleşerek 2n kromozomlu zigotu oluşturur. Bu olaya döllenme denir. Zigot da mitozla canlıyı oluşturur. Bu olaylar sayesinde bireylerde kromozom sayısı sabit kalır.",
+    "source": "MEB 7. Sınıf Fen Bilgisi Ders Kitabı - 2. Ünite",
+    "page": 63,
+    "unit": "Hücre ve Bölünmeler",
+    "keywords": ["döllenme", "sperm", "yumurta", "zigot", "n+n=2n", "kromozom sayısı sabit"]
+  },
+  "hücre teorisi": {
+    "answer": "Bilimsel çalışmalar sonunda hücre teorisi geliştirilmiştir: 1) Tüm organizmalar bir ya da daha fazla sayıda hücreden oluşur. 2) Hücre, canlılığın yaşama ve üreme yeteneğindeki yapısal ve işlevsel birimidir. 3) Yeni hücreler, var olan hücrelerin bölünmesiyle oluşur. 4) Canlının kalıtım maddeleri hücrelerinde bulunur. 5) Canlıya özgü metabolik olaylar canlının hücrelerinde gerçekleşir.",
+    "source": "MEB 7. Sınıf Fen Bilgisi Ders Kitabı - 2. Ünite",
+    "page": 53,
+    "unit": "Hücre ve Bölünmeler",
+    "keywords": ["hücre teorisi", "organizma", "yapısal birim", "işlevsel birim", "bölünme", "kalıtım", "metabolik olay"]
+  },
+  "robert hooke": {
+    "answer": "Robert Hooke, gözlük camlarını kullanarak basit bir mikroskop yapmıştır. Hooke, mantar meşesi ağacının kabuğundan yapılan şişe mantarından kesitler alıp mikroskopla incelemiş; bal peteği gibi odacıklar görmüş ve bunların şeklini çizmiştir. Bu odacıklara hücre anlamına gelen cellula (sellula) adını vermiştir. Böylece Hooke'un çalışmalarıyla hücre keşfedilmiştir.",
+    "source": "MEB 7. Sınıf Fen Bilgisi Ders Kitabı - 2. Ünite",
+    "page": 52,
+    "unit": "Hücre ve Bölünmeler",
+    "keywords": ["robert hooke", "mikroskop", "hücre keşfi", "cellula", "mantar", "bal peteği"]
+  },
+  "antoni van leeuwenhoek": {
+    "answer": "Antoni Van Leeuwenhoek, gözlükleri büyüteç gibi kullanarak kumaşları incelerken kumaşların içindeki mikro (çok küçük) canlıları fark etmiştir. Yaptığı mikroskopla havuz suyunu incelerken suda hareketli mikroorganizmalar görmüş ve böylelikle suda yaşayan tek hücreli canlıları ilk kez incelemiştir. Bakteriyi ilk keşfeden ve mikroskobik canlıları inceleyen meraklı bir araştırmacıdır.",
+    "source": "MEB 7. Sınıf Fen Bilgisi Ders Kitabı - 2. Ünite",
+    "page": 52,
+    "unit": "Hücre ve Bölünmeler",
+    "keywords": ["leeuwenhoek", "mikroorganizma", "bakteri", "tek hücreli", "mikroskop"]
+  }
+}
