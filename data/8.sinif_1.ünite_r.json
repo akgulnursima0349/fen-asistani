@@ -1,0 +1,149 @@
+{
+  "mevsim": {
+    "answer": "Dünya'nın eksen eğikliği ve Güneş etrafındaki dolanma hareketi sonucu oluşan, sıcaklık, yağış, gündüz süresi gibi özellikleri belirleyen yıllık periyodik dönemlerdir.",
+    "source": "MEB 8. Sınıf Fen Bilimleri Ders Kitabı - 1. Ünite",
+    "page": 21,
+    "unit": "Mevsimler ve İklim",
+    "keywords": ["yaz", "kış", "ilkbahar", "sonbahar", "eksen eğikliği"]
+  },
+  "eksen_eğikliği": {
+    "answer": "Dünya'nın dönme ekseni ile yörünge düzlemi arasındaki 23°27'lik açıdır. Mevsimlerin temel nedenidir.",
+    "source": "MEB 8. Sınıf Fen Bilimleri Ders Kitabı - 1. Ünite",
+    "page": 21,
+    "unit": "Mevsimler ve İklim",
+    "keywords": ["23°27'", "dönme ekseni", "yörünge düzlemi", "mevsim nedeni"]
+  },
+  "dolanma_düzlemi": {
+    "answer": "Dünya'nın Güneş etrafında dolanırken izlediği elips şeklindeki yörüngedir.",
+    "source": "MEB 8. Sınıf Fen Bilimleri Ders Kitabı - 1. Ünite",
+    "page": 21,
+    "unit": "Mevsimler ve İklim",
+    "keywords": ["yörünge", "elips", "Güneş etrafında dolanma"]
+  },
+  "kuzey_yarım_küre": {
+    "answer": "Ekvator'un kuzeyinde kalan bölgedir. Türkiye buradadır. 21 Haziran'da yaz başlangıcı yaşanır.",
+    "source": "MEB 8. Sınıf Fen Bilimleri Ders Kitabı - 1. Ünite",
+    "page": 21,
+    "unit": "Mevsimler ve İklim",
+    "keywords": ["Ekvator kuzeyi", "Türkiye", "21 Haziran yaz"]
+  },
+  "güney_yarım_küre": {
+    "answer": "Ekvator'un güneyinde kalan bölgedir. 21 Aralık'ta yaz mevsimi başlar.",
+    "source": "MEB 8. Sınıf Fen Bilimleri Ders Kitabı - 1. Ünite",
+    "page": 21,
+    "unit": "Mevsimler ve İklim",
+    "keywords": ["Ekvator güneyi", "21 Aralık yaz", "mevsim tersliği"]
+  },
+  "yengeç_dönencesi": {
+    "answer": "Kuzey yarım kürede, Güneş ışınlarının 21 Haziran'da dik geldiği enlemdir.",
+    "source": "MEB 8. Sınıf Fen Bilimleri Ders Kitabı - 1. Ünite",
+    "page": 24,
+    "unit": "Mevsimler ve İklim",
+    "keywords": ["21 Haziran", "dik açı", "yaz gündönümü"]
+  },
+  "oğlak_dönencesi": {
+    "answer": "Güney yarım kürede, Güneş ışınlarının 21 Aralık'ta dik geldiği enlemdir.",
+    "source": "MEB 8. Sınıf Fen Bilimleri Ders Kitabı - 1. Ünite",
+    "page": 24,
+    "unit": "Mevsimler ve İklim",
+    "keywords": ["21 Aralık", "dik açı", "kış gündönümü"]
+  },
+  "ekinoks": {
+    "answer": "21 Mart ve 23 Eylül'de Güneş ışınları Ekvator'a dik gelir; gece ve gündüz süreleri eşit olur.",
+    "source": "MEB 8. Sınıf Fen Bilimleri Ders Kitabı - 1. Ünite",
+    "page": 24,
+    "unit": "Mevsimler ve İklim",
+    "keywords": ["21 Mart", "23 Eylül", "gece-gündüz eşitliği", "ilkbahar-sonbahar"]
+  },
+  "gölge_boyu": {
+    "answer": "Güneş ışınlarının düşme açısıyla ters orantılıdır. Işınlar dik geldiğinde gölge boyu kısalır.",
+    "source": "MEB 8. Sınıf Fen Bilimleri Ders Kitabı - 1. Ünite",
+    "page": 22,
+    "unit": "Mevsimler ve İklim",
+    "keywords": ["dik açı", "gölge", "ışın açısı", "ters orantı"]
+  },
+  "ısı_enerjisi": {
+    "answer": "Güneş'ten gelen enerjidir. Dik gelen ışınlar birim yüzeye daha fazla enerji aktarır.",
+    "source": "MEB 8. Sınıf Fen Bilimleri Ders Kitabı - 1. Ünite",
+    "page": 22,
+    "unit": "Mevsimler ve İklim",
+    "keywords": ["Güneş enerjisi", "birim yüzey", "dik ve eğik ışınlar"]
+  },
+  "iklim": {
+    "answer": "Bir bölgede uzun yıllar boyunca gözlemlenen hava olaylarının ortalamasıdır.",
+    "source": "MEB 8. Sınıf Fen Bilimleri Ders Kitabı - 1. Ünite",
+    "page": 32,
+    "unit": "Mevsimler ve İklim",
+    "keywords": ["uzun süreli", "ortalama", "kararlı", "klimatoloji"]
+  },
+  "hava_durumu": {
+    "answer": "Dar bir alanda, kısa süreli atmosfer olaylarıdır. Günlük değişkenlik gösterir.",
+    "source": "MEB 8. Sınıf Fen Bilimleri Ders Kitabı - 1. Ünite",
+    "page": 29,
+    "unit": "Mevsimler ve İklim",
+    "keywords": ["kısa süreli", "günlük", "değişken", "meteoroloji"]
+  },
+  "meteoroloji": {
+    "answer": "Hava olaylarını inceleyen bilim dalıdır. Meteorologlar tarafından çalışılır.",
+    "source": "MEB 8. Sınıf Fen Bilimleri Ders Kitabı - 1. Ünite",
+    "page": 29,
+    "unit": "Mevsimler ve İklim",
+    "keywords": ["hava tahmini", "meteorolog", "kısa vadeli"]
+  },
+  "klimatoloji": {
+    "answer": "İklim bilimidir. Uzun süreli hava olaylarını ve iklim tiplerini inceler.",
+    "source": "MEB 8. Sınıf Fen Bilimleri Ders Kitabı - 1. Ünite",
+    "page": 32,
+    "unit": "Mevsimler ve İklim",
+    "keywords": ["iklim bilimi", "klimatolog", "uzun vadeli"]
+  },
+  "yüksek_basınç": {
+    "answer": "Hava moleküllerinin yoğun olduğu, alçalıcı hava hareketinin görüldüğü bölgelerdir. Hava genellikle açıktır.",
+    "source": "MEB 8. Sınıf Fen Bilimleri Ders Kitabı - 1. Ünite",
+    "page": 30,
+    "unit": "Mevsimler ve İklim",
+    "keywords": ["alçalıcı hava", "açık hava", "yoğun moleküller"]
+  },
+  "alçak_basınç": {
+    "answer": "Hava moleküllerinin seyrek olduğu, yükselici hava hareketinin görüldüğü bölgelerdir. Yağış ihtimali yüksektir.",
+    "source": "MEB 8. Sınıf Fen Bilimleri Ders Kitabı - 1. Ünite",
+    "page": 30,
+    "unit": "Mevsimler ve İklim",
+    "keywords": ["yükselici hava", "yağış", "seyrek moleküller"]
+  },
+  "rüzgar": {
+    "answer": "Yüksek basınç alanından alçak basınç alanına doğru olan yatay hava hareketidir.",
+    "source": "MEB 8. Sınıf Fen Bilimleri Ders Kitabı - 1. Ünite",
+    "page": 31,
+    "unit": "Mevsimler ve İklim",
+    "keywords": ["basınç farkı", "yatay hareket", "fırtına", "tayfun"]
+  },
+  "yağış": {
+    "answer": "Atmosferdeki su buharının yoğuşarak yeryüzüne sıvı veya katı halde düşmesidir.",
+    "source": "MEB 8. Sınıf Fen Bilimleri Ders Kitabı - 1. Ünite",
+    "page": 31,
+    "unit": "Mevsimler ve İklim",
+    "keywords": ["yağmur", "kar", "dolu", "yoğuşma"]
+  },
+  "sis": {
+    "answer": "Yer yüzeyine yakın seviyede su damlacıklarının asılı kalmasıyla oluşan hava olayıdır.",
+    "source": "MEB 8. Sınıf Fen Bilimleri Ders Kitabı - 1. Ünite",
+    "page": 31,
+    "unit": "Mevsimler ve İklim",
+    "keywords": ["görüş mesafesi", "yoğunlaşma", "su damlacığı"]
+  },
+  "küresel_iklim_değişikliği": {
+    "answer": "İklim elemanlarında küresel çapta gözlenen uzun süreli değişimlerdir. İnsan faaliyetleriyle artmaktadır.",
+    "source": "MEB 8. Sınıf Fen Bilimleri Ders Kitabı - 1. Ünite",
+    "page": 33,
+    "unit": "Mevsimler ve İklim",
+    "keywords": ["küresel ısınma", "sera gazları", "çevre sorunu"]
+  },
+  "sera_etkisi": {
+    "answer": "Sera gazlarının atmosferde ısıyı tutması sonucu yeryüzünün doğal olarak ısınmasıdır. Aşırı artışı küresel ısınmaya neden olur.",
+    "source": "MEB 8. Sınıf Fen Bilimleri Ders Kitabı - 1. Ünite",
+    "page": 33,
+    "unit": "Mevsimler ve İklim",
+    "keywords": ["CO2", "metan", "ısı tutulumu", "küresel ısınma"]
+  }
+}

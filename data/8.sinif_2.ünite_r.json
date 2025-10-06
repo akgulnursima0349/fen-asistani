@@ -1,0 +1,163 @@
+{
+  "dna": {
+    "answer": "Deoksiribonükleik asit; tüm canlıların hücrelerinde bulunan ve genetik bilgiyi taşıyan moleküldür. Çift sarmal yapıdadır.",
+    "source": "MEB 8. Sınıf Fen Bilimleri Ders Kitabı - 2. Ünite",
+    "page": 45,
+    "unit": "DNA ve Genetik Kod",
+    "keywords": ["genetik bilgi", "çift sarmal", "nükleotid", "kalıtım"]
+  },
+  "nükleotid": {
+    "answer": "DNA'nın yapı birimidir. Her nükleotidde bir fosfat, bir deoksiriboz şekeri ve bir organik baz (A, T, G, C) bulunur.",
+    "source": "MEB 8. Sınıf Fen Bilimleri Ders Kitabı - 2. Ünite",
+    "page": 46,
+    "unit": "DNA ve Genetik Kod",
+    "keywords": ["fosfat", "deoksiriboz", "organik baz", "yapı birimi"]
+  },
+  "gen": {
+    "answer": "DNA üzerinde belirli bir özellikten sorumlu bölgedir. Kalıtsal bilginin aktarım birimidir.",
+    "source": "MEB 8. Sınıf Fen Bilimleri Ders Kitabı - 2. Ünite",
+    "page": 46,
+    "unit": "DNA ve Genetik Kod",
+    "keywords": ["kalıtım", "özellik", "DNA bölgesi", "karakter"]
+  },
+  "kromozom": {
+    "answer": "DNA ve proteinlerin birleşmesiyle oluşan, hücre bölünmesi sırasında belirginleşen yapılardır. Türlere göre sayıları değişir.",
+    "source": "MEB 8. Sınıf Fen Bilimleri Ders Kitabı - 2. Ünite",
+    "page": 45,
+    "unit": "DNA ve Genetik Kod",
+    "keywords": ["DNA paketlenmesi", "hücre bölünmesi", "kromatin"]
+  },
+  "genotip": {
+    "answer": "Bir canlının genetik yapısını ifade eder. Harflerle gösterilir (AA, Aa, aa gibi).",
+    "source": "MEB 8. Sınıf Fen Bilimleri Ders Kitabı - 2. Ünite",
+    "page": 52,
+    "unit": "DNA ve Genetik Kod",
+    "keywords": ["genetik yapı", "alel çifti", "saf döl", "melez döl"]
+  },
+  "fenotip": {
+    "answer": "Canlının dış görünüşüdür. Genotip ve çevre etkileşimi sonucu ortaya çıkar.",
+    "source": "MEB 8. Sınıf Fen Bilimleri Ders Kitabı - 2. Ünite",
+    "page": 52,
+    "unit": "DNA ve Genetik Kod",
+    "keywords": ["dış görünüş", "gözlemlenebilir özellik", "çevre etkisi"]
+  },
+  "alel": {
+    "answer": "Bir karakteri kontrol eden genin farklı versiyonlarıdır (örn: M mor çiçek, m beyaz çiçek).",
+    "source": "MEB 8. Sınıf Fen Bilimleri Ders Kitabı - 2. Ünite",
+    "page": 52,
+    "unit": "DNA ve Genetik Kod",
+    "keywords": ["gen çeşidi", "baskın", "çekinik", "bezelye örneği"]
+  },
+  "baskın_alel": {
+    "answer": "Fenotipte her zaman etkisini gösteren aleldir. Büyük harfle ifade edilir (A gibi).",
+    "source": "MEB 8. Sınıf Fen Bilimleri Ders Kitabı - 2. Ünite",
+    "page": 52,
+    "unit": "DNA ve Genetik Kod",
+    "keywords": ["etkili alel", "büyük harf", "fenotip"]
+  },
+  "çekinik_alel": {
+    "answer": "Yanında baskın alel olmadığında fenotipte görülebilen aleldir. Küçük harfle ifade edilir (a gibi).",
+    "source": "MEB 8. Sınıf Fen Bilimleri Ders Kitabı - 2. Ünite",
+    "page": 52,
+    "unit": "DNA ve Genetik Kod",
+    "keywords": ["gizli alel", "küçük harf", "homozigot çekinik"]
+  },
+  "saf_döl": {
+    "answer": "Homozigot genotip. İki alelin de aynı olması durumu (AA veya aa).",
+    "source": "MEB 8. Sınıf Fen Bilimleri Ders Kitabı - 2. Ünite",
+    "page": 53,
+    "unit": "DNA ve Genetik Kod",
+    "keywords": ["homozigot", "arı döl", "saf ırk"]
+  },
+  "melez_döl": {
+    "answer": "Heterozigot genotip. İki farklı alelin bulunması (Aa).",
+    "source": "MEB 8. Sınıf Fen Bilimleri Ders Kitabı - 2. Ünite",
+    "page": 53,
+    "unit": "DNA ve Genetik Kod",
+    "keywords": ["heterozigot", "melez", "taşıyıcı"]
+  },
+  "çaprazlama": {
+    "answer": "İki bireyin genetik özelliklerinin yavruda nasıl birleşeceğini gösteren olasılık hesaplamalarıdır.",
+    "source": "MEB 8. Sınıf Fen Bilimleri Ders Kitabı - 2. Ünite",
+    "page": 55,
+    "unit": "DNA ve Genetik Kod",
+    "keywords": ["Mendel", "bezelye", "olasılık", "genotip oranı"]
+  },
+  "cinsiyet_kalıtımı": {
+    "answer": "İnsanlarda cinsiyet, X ve Y kromozomları ile belirlenir. Dişi: XX, Erkek: XY.",
+    "source": "MEB 8. Sınıf Fen Bilimleri Ders Kitabı - 2. Ünite",
+    "page": 60,
+    "unit": "DNA ve Genetik Kod",
+    "keywords": ["X kromozomu", "Y kromozomu", "cinsiyet kromozomu", "baba belirler"]
+  },
+  "akraba_evliliği": {
+    "answer": "Kan bağı olan bireyler arasındaki evlilikler. Çekinik genetik hastalıkların görülme riskini artırır.",
+    "source": "MEB 8. Sınıf Fen Bilimleri Ders Kitabı - 2. Ünite",
+    "page": 60,
+    "unit": "DNA ve Genetik Kod",
+    "keywords": ["genetik hastalık", "çekinik gen", "Akdeniz anemisi", "fenilketonüri"]
+  },
+  "mutasyon": {
+    "answer": "DNA diziliminde veya kromozom yapısında meydana gelen kalıcı değişikliklerdir.",
+    "source": "MEB 8. Sınıf Fen Bilimleri Ders Kitabı - 2. Ünite",
+    "page": 63,
+    "unit": "DNA ve Genetik Kod",
+    "keywords": ["DNA hasarı", "radyasyon", "kalıtsal", "orak hücre"]
+  },
+  "modifikasyon": {
+    "answer": "Çevre etkisiyle canlının dış görünüşünde meydana gelen, kalıtsal olmayan değişikliklerdir.",
+    "source": "MEB 8. Sınıf Fen Bilimleri Ders Kitabı - 2. Ünite",
+    "page": 64,
+    "unit": "DNA ve Genetik Kod",
+    "keywords": ["çevre etkisi", "kalıtsal değil", "geçici", "spor kas yapma"]
+  },
+  "adaptasyon": {
+    "answer": "Canlının belirli bir çevrede yaşama ve üreme şansını artıran kalıtsal özelliklerdir.",
+    "source": "MEB 8. Sınıf Fen Bilimleri Ders Kitabı - 2. Ünite",
+    "page": 69,
+    "unit": "DNA ve Genetik Kod",
+    "keywords": ["çevreye uyum", "kalıtsal", "kutup ayısı", "deve"]
+  },
+  "doğal_seçilim": {
+    "answer": "Ortama uyum sağlayan canlıların hayatta kalıp üremesi, uyum sağlayamayanların elenmesidir.",
+    "source": "MEB 8. Sınıf Fen Bilimleri Ders Kitabı - 2. Ünite",
+    "page": 70,
+    "unit": "DNA ve Genetik Kod",
+    "keywords": ["uyum", "hayatta kalma", "evrim", "varyasyon"]
+  },
+  "varyasyon": {
+    "answer": "Aynı tür içindeki bireyler arasında görülen çeşitliliktir.",
+    "source": "MEB 8. Sınıf Fen Bilimleri Ders Kitabı - 2. Ünite",
+    "page": 70,
+    "unit": "DNA ve Genetik Kod",
+    "keywords": ["çeşitlilik", "tür içi fark", "genetik zenginlik"]
+  },
+  "biyoteknoloji": {
+    "answer": "Canlı hücre ve organizmaları kullanarak endüstriyel ürünler geliştirme bilimidir.",
+    "source": "MEB 8. Sınıf Fen Bilimleri Ders Kitabı - 2. Ünite",
+    "page": 75,
+    "unit": "DNA ve Genetik Kod",
+    "keywords": ["gen aktarımı", "klonlama", "aşılama", "insülin"]
+  },
+  "gen_aktarımı": {
+    "answer": "Bir canlıdan alınan genin başka bir canlıya aktarılması işlemidir.",
+    "source": "MEB 8. Sınıf Fen Bilimleri Ders Kitabı - 2. Ünite",
+    "page": 76,
+    "unit": "DNA ve Genetik Kod",
+    "keywords": ["recombinant DNA", "bakteri", "insülin üretimi"]
+  },
+  "klonlama": {
+    "answer": "Genetik olarak aynı canlıların üretilmesi işlemidir. Dolly koyunu örneği verilir.",
+    "source": "MEB 8. Sınıf Fen Bilimleri Ders Kitabı - 2. Ünite",
+    "page": 77,
+    "unit": "DNA ve Genetik Kod",
+    "keywords": ["Dolly", "kopyalama", "genetik ikiz"]
+  },
+  "gdo": {
+    "answer": "Genetiği Değiştirilmiş Organizma. Doğal olmayan yollarla genetik yapısı değiştirilmiş canlılar.",
+    "source": "MEB 8. Sınıf Fen Bilimleri Ders Kitabı - 2. Ünite",
+    "page": 78,
+    "unit": "DNA ve Genetik Kod",
+    "keywords": ["transgenik", "tarım", "tartışma", "besin güvenliği"]
+  }
+}

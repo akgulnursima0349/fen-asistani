@@ -1,0 +1,93 @@
+{
+  "besin_zinciri": {
+    "answer": "Besin zinciri, enerjinin üreticilerden tüketicilere doğru aktarılmasını sağlayan beslenme ilişkisidir. Üreticiler (bitkiler) → Birincil tüketiciler (otçullar) → İkincil tüketiciler (etçiller) → Üçüncül tüketiciler şeklinde ilerler. Ayrıştırıcılar her basamakta görev alır.",
+    "source": "MEB 8. Sınıf Fen Bilgisi Ders Kitabı - 6. Ünite",
+    "page": "193-195",
+    "unit": "Enerji Dönüşümleri ve Çevre Bilimi",
+    "keywords": ["besin zinciri", "üretici", "tüketici", "ayrıştırıcı", "enerji akışı"]
+  },
+  "besin_agi": {
+    "answer": "Birden fazla besin zincirinin birleşmesiyle oluşan karmaşık beslenme ilişkileridir. Bir canlı birden fazla canlıyla beslenebilir veya birden fazla canlının besini olabilir.",
+    "source": "MEB 8. Sınıf Fen Bilgisi Ders Kitabı - 6. Ünite",
+    "page": "195-196",
+    "unit": "Enerji Dönüşümleri ve Çevre Bilimi",
+    "keywords": ["besin ağı", "ekosistem", "beslenme ilişkisi"]
+  },
+  "ekoloji_piramidi": {
+    "answer": "Enerji, biyokütle veya birey sayısına göre düzenlenmiş beslenme basamaklarını gösterir. Tabanında üreticiler, üst basamaklarında tüketiciler bulunur. Enerjinin yaklaşık %10'u bir üst basamağa aktarılır.",
+    "source": "MEB 8. Sınıf Fen Bilgisi Ders Kitabı - 6. Ünite",
+    "page": "196-197",
+    "unit": "Enerji Dönüşümleri ve Çevre Bilimi",
+    "keywords": ["ekoloji piramidi", "biyokütle", "enerji aktarımı", "beslenme basamağı"]
+  },
+  "biyolojik_birikim": {
+    "answer": "Zararlı maddelerin besin zincirinde birikerek üst basamaklardaki canlılarda yoğunlaşmasıdır. Pestisitler, ağır metaller gibi maddeler biyolojik birikime örnektir.",
+    "source": "MEB 8. Sınıf Fen Bilgisi Ders Kitabı - 6. Ünite",
+    "page": "197",
+    "unit": "Enerji Dönüşümleri ve Çevre Bilimi",
+    "keywords": ["biyolojik birikim", "zehirli madde", "besin zinciri", "pestisit"]
+  },
+  "fotosentez": {
+    "answer": "Üretici canlıların güneş ışığı, su ve karbondioksit kullanarak besin (glikoz) ve oksijen üretmesidir. Kloroplast ve klorofil gereklidir. Denklem: 6CO₂ + 6H₂O + ışık → C₆H₁₂O₆ + 6O₂",
+    "source": "MEB 8. Sınıf Fen Bilgisi Ders Kitabı - 6. Ünite",
+    "page": "201-202",
+    "unit": "Enerji Dönüşümleri ve Çevre Bilimi",
+    "keywords": ["fotosentez", "klorofil", "kloroplast", "glikoz", "oksijen"]
+  },
+  "fotosentez_hizini_etkileyen_faktorler": {
+    "answer": "Işık şiddeti, ışık rengi, karbondioksit miktarı, sıcaklık ve su miktarı fotosentez hızını etkiler. Kırmızı ve mavi ışık en verimli, yeşil ışık en az verimlidir.",
+    "source": "MEB 8. Sınıf Fen Bilgisi Ders Kitabı - 6. Ünite",
+    "page": "202-205",
+    "unit": "Enerji Dönüşümleri ve Çevre Bilimi",
+    "keywords": ["fotosentez hızı", "ışık şiddeti", "CO₂", "sıcaklık", "su"]
+  },
+  "solunum": {
+    "answer": "Canlıların besinleri parçalayarak enerji (ATP) elde etmesidir. Oksijenli solunum (mitokondride), oksijensiz solunum (sitoplazmada) ve fermantasyon olarak üçe ayrılır.",
+    "source": "MEB 8. Sınıf Fen Bilgisi Ders Kitabı - 6. Ünite",
+    "page": "205-206",
+    "unit": "Enerji Dönüşümleri ve Çevre Bilimi",
+    "keywords": ["solunum", "ATP", "oksijenli solunum", "oksijensiz solunum", "fermantasyon"]
+  },
+  "fermantasyon": {
+    "answer": "Oksijensiz ortamda enzimlerle besinlerin parçalanarak enerji elde edilmesidir. Laktik asit fermantasyonu (yoğurt) ve etil alkol fermantasyonu (hamur mayası) örnekleridir.",
+    "source": "MEB 8. Sınıf Fen Bilgisi Ders Kitabı - 6. Ünite",
+    "page": "206",
+    "unit": "Enerji Dönüşümleri ve Çevre Bilimi",
+    "keywords": ["fermantasyon", "laktik asit", "alkol", "maya", "oksijensiz"]
+  },
+  "madde_donguleri": {
+    "answer": "Su, oksijen, azot ve karbon gibi maddelerin canlı ve cansız çevre arasında sürekli dolaşımıdır. Doğal dengeyi korur.",
+    "source": "MEB 8. Sınıf Fen Bilgisi Ders Kitabı - 6. Ünite",
+    "page": "209-212",
+    "unit": "Enerji Dönüşümleri ve Çevre Bilimi",
+    "keywords": ["madde döngüsü", "su", "oksijen", "azot", "karbon"]
+  },
+  "kuresel_isinma": {
+    "answer": "Sera gazlarının artması sonucu dünya yüzeyinin ortalama sıcaklığının yükselmesidir. Buzulların erimesi, iklim değişikliği ve ekosistemlerin bozulmasına yol açar.",
+    "source": "MEB 8. Sınıf Fen Bilgisi Ders Kitabı - 6. Ünite",
+    "page": "213-217",
+    "unit": "Enerji Dönüşümleri ve Çevre Bilimi",
+    "keywords": ["küresel ısınma", "sera gazı", "iklim değişikliği", "fosil yakıt"]
+  },
+  "surdurulebilir_kalkinma": {
+    "answer": "Bugünün ihtiyaçlarını, gelecek nesillerin ihtiyaçlarını tehlikeye atmadan karşılamaktır. Enerji tasarrufu, geri dönüşüm ve yenilenebilir enerji kaynakları önemlidir.",
+    "source": "MEB 8. Sınıf Fen Bilgisi Ders Kitabı - 6. Ünite",
+    "page": "220-223",
+    "unit": "Enerji Dönüşümleri ve Çevre Bilimi",
+    "keywords": ["sürdürülebilirlik", "geri dönüşüm", "enerji tasarrufu", "yenilenebilir enerji"]
+  },
+  "geri_donusum": {
+    "answer": "Atık malzemelerin işlenerek yeniden kullanılmasıdır. Doğal kaynakların korunması, enerji tasarrufu ve çevre kirliliğinin azaltılmasını sağlar.",
+    "source": "MEB 8. Sınıf Fen Bilgisi Ders Kitabı - 6. Ünite",
+    "page": "223-225",
+    "unit": "Enerji Dönüşümleri ve Çevre Bilimi",
+    "keywords": ["geri dönüşüm", "atık yönetimi", "kâğıt", "cam", "plastik", "metal"]
+  },
+  "ekolojik_ayak_izi": {
+    "answer": "Bir bireyin veya topluluğun tükettiği kaynakları üretmek ve atıkları yok etmek için gereken toprak ve su alanıdır. Çevre bilincini artırmak için kullanılır.",
+    "source": "MEB 8. Sınıf Fen Bilgisi Ders Kitabı - 6. Ünite",
+    "page": "217",
+    "unit": "Enerji Dönüşümleri ve Çevre Bilimi",
+    "keywords": ["ekolojik ayak izi", "kaynak tüketimi", "sürdürülebilirlik"]
+  }
+}

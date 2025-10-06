@@ -1,0 +1,135 @@
+{
+  "basınç": {
+    "answer": "Birim yüzeye uygulanan dik kuvvettir. Katı, sıvı ve gazlar temas ettikleri yüzeylere basınç uygular. Birimi Pascal'dır (Pa).",
+    "source": "MEB 8. Sınıf Fen Bilimleri Ders Kitabı - 3. Ünite",
+    "page": 90,
+    "unit": "Basınç",
+    "keywords": ["kuvvet", "birim yüzey", "Pascal", "katı-sıvı-gaz"]
+  },
+  "katı_basıncı": {
+    "answer": "Katı cisimlerin ağırlıkları nedeniyle temas ettikleri yüzeye uyguladıkları basınçtır. Basınç = Kuvvet / Yüzey Alanı formülü ile hesaplanır.",
+    "source": "MEB 8. Sınıf Fen Bilimleri Ders Kitabı - 3. Ünite",
+    "page": 91,
+    "unit": "Basınç",
+    "keywords": ["ağırlık", "yüzey alanı", "kuvvet", "ters orantı"]
+  },
+  "sıvı_basıncı": {
+    "answer": "Sıvıların ağırlıkları nedeniyle kabın tabanına ve yan yüzeylerine uyguladığı basınçtır. Derinlik ve yoğunlukla doğru orantılıdır.",
+    "source": "MEB 8. Sınıf Fen Bilimleri Ders Kitabı - 3. Ünite",
+    "page": 93,
+    "unit": "Basınç",
+    "keywords": ["derinlik", "yoğunluk", "Pascal prensibi", "sıvı basıncı formülü"]
+  },
+  "gaz_basıncı": {
+    "answer": "Gazların ağırlıkları nedeniyle temas ettikleri yüzeylere uyguladıkları basınçtır. Açık hava basıncı veya atmosfer basıncı olarak da bilinir.",
+    "source": "MEB 8. Sınıf Fen Bilimleri Ders Kitabı - 3. Ünite",
+    "page": 95,
+    "unit": "Basınç",
+    "keywords": ["atmosfer", "açık hava basıncı", "barometre", "Torricelli"]
+  },
+  "açık_hava_basıncı": {
+    "answer": "Atmosferdeki gazların ağırlığı nedeniyle yeryüzündeki birim yüzeye uyguladığı dik kuvvettir. Deniz seviyesinde yaklaşık 101.325 Pa'dır.",
+    "source": "MEB 8. Sınıf Fen Bilimleri Ders Kitabı - 3. Ünite",
+    "page": 95,
+    "unit": "Basınç",
+    "keywords": ["atmosfer basıncı", "deniz seviyesi", "yükseklik", "hava ağırlığı"]
+  },
+  "Pascal_prensibi": {
+    "answer": "Kapalı bir kaptaki sıvıya uygulanan basınç, sıvı tarafından her yöne aynı büyüklükte iletilir. Hidrolik sistemlerin temelini oluşturur.",
+    "source": "MEB 8. Sınıf Fen Bilimleri Ders Kitabı - 3. Ünite",
+    "page": 98,
+    "unit": "Basınç",
+    "keywords": ["hidrolik", "basınç iletimi", "Blaise Pascal", "su cenderesi"]
+  },
+  "basıncı_etkileyen_değişkenler": {
+    "answer": "Katı basıncını etkileyen değişkenler: kuvvet (ağırlık) ve yüzey alanı. Sıvı basıncını etkileyen değişkenler: derinlik ve sıvının yoğunluğu.",
+    "source": "MEB 8. Sınıf Fen Bilimleri Ders Kitabı - 3. Ünite",
+    "page": 91,
+    "unit": "Basınç",
+    "keywords": ["kuvvet", "yüzey alanı", "derinlik", "yoğunluk"]
+  },
+  "bileşik_kaplar": {
+    "answer": "Aynı seviyede birleştirilmiş kaplardır. Aynı cins sıvı konulduğunda tüm kollardaki sıvı seviyeleri eşit olur.",
+    "source": "MEB 8. Sınıf Fen Bilimleri Ders Kitabı - 3. Ünite",
+    "page": 95,
+    "unit": "Basınç",
+    "keywords": ["sıvı seviyesi", "eşit basınç", "hidrolik denge", "su seviyesi"]
+  },
+  "Torricelli_deneyi": {
+    "answer": "Evangelista Torricelli tarafından yapılan, cıva kullanarak açık hava basıncını ölçen deneydir. 76 cm cıva sütunu = 1 atm.",
+    "source": "MEB 8. Sınıf Fen Bilimleri Ders Kitabı - 3. Ünite",
+    "page": 95,
+    "unit": "Basınç",
+    "keywords": ["cıva", "barometre", "76 cm", "atmosfer basıncı ölçümü"]
+  },
+  "hidrolik_sistemler": {
+    "answer": "Pascal prensibine dayanan, küçük kuvvetlerle büyük yüklerin kaldırılmasını sağlayan sistemlerdir. Hidrolik fren, pres, lift örnekleridir.",
+    "source": "MEB 8. Sınıf Fen Bilimleri Ders Kitabı - 3. Ünite",
+    "page": 98,
+    "unit": "Basınç",
+    "keywords": ["hidrolik fren", "pres", "vinç", "kaldırma kuvveti"]
+  },
+  "basıncın_günlük_uygulamaları": {
+    "answer": "Bıçak, çivi, enjeksiyon iğnesi (basıncı artırır); paletli iş makineleri, kar ayakkabısı, geniş tekerlekli kamyonlar (basıncı azaltır).",
+    "source": "MEB 8. Sınıf Fen Bilimleri Ders Kitabı - 3. Ünite",
+    "page": 97,
+    "unit": "Basınç",
+    "keywords": ["kesici aletler", "palet", "kar ayakkabısı", "tasarım"]
+  },
+  "barometre": {
+    "answer": "Açık hava basıncını ölçmek için kullanılan alettir. Cıvalı ve aneroid (metal) olmak üzere iki çeşidi vardır.",
+    "source": "MEB 8. Sınıf Fen Bilimleri Ders Kitabı - 3. Ünite",
+    "page": 95,
+    "unit": "Basınç",
+    "keywords": ["basınç ölçer", "hava tahmini", "cıvalı barometre", "aneroid"]
+  },
+  "vantuz": {
+    "answer": "Açık hava basıncından yararlanarak yüzeye yapışan araçlardır. İçindeki hava boşaltılır, dış basınç etkisiyle tutunur.",
+    "source": "MEB 8. Sınıf Fen Bilimleri Ders Kitabı - 3. Ünite",
+    "page": 96,
+    "unit": "Basınç",
+    "keywords": ["tutunma", "hava boşluğu", "basınç farkı", "askı"]
+  },
+  "şırınga": {
+    "answer": "Pistonla içindeki havayı boşaltarak sıvı çekmeye yarayan araçtır. Açık hava basıncı sayesinde çalışır.",
+    "source": "MEB 8. Sınıf Fen Bilimleri Ders Kitabı - 3. Ünite",
+    "page": 96,
+    "unit": "Basınç",
+    "keywords": ["enjeksiyon", "hava boşaltma", "sıvı çekme", "tıp"]
+  },
+  "elektrikli_süpürge": {
+    "answer": "İçindeki havayı dışarı atarak basıncı düşürür ve dışarıdan havayla birlikte tozu içine çeker.",
+    "source": "MEB 8. Sınıf Fen Bilimleri Ders Kitabı - 3. Ünite",
+    "page": 96,
+    "unit": "Basınç",
+    "keywords": ["fan", "basınç düşürme", "toz emme", "hava akışı"]
+  },
+  "palet": {
+    "answer": "Geniş yüzey alanı sayesinde ağır araçların yere uyguladığı basıncı azaltarak batmayı önler.",
+    "source": "MEB 8. Sınıf Fen Bilimleri Ders Kitabı - 3. Ünite",
+    "page": 97,
+    "unit": "Basınç",
+    "keywords": ["iş makineleri", "batmama", "geniş yüzey", "toprak"]
+  },
+  "krampon": {
+    "answer": "Sporcularda yere daha fazla basınç uygulayarak kaymayı önleyen, tabanı çivili ayakkabıdır.",
+    "source": "MEB 8. Sınıf Fen Bilimleri Ders Kitabı - 3. Ünite",
+    "page": 100,
+    "unit": "Basınç",
+    "keywords": ["spor", "kayma önleme", "çivili taban", "sürtünme"]
+  },
+  "enjeksiyon_iğnesi": {
+    "answer": "Sivri ucu sayesinde küçük yüzey alanında büyük basınç oluşturarak deriye kolayca girer.",
+    "source": "MEB 8. Sınıf Fen Bilimleri Ders Kitabı - 3. Ünite",
+    "page": 105,
+    "unit": "Basınç",
+    "keywords": ["tıp", "aşı", "sivri uç", "basınç artışı"]
+  },
+  "yangın_söndürme_tüpü": {
+    "answer": "İçindeki gaz basıncı sayesinde kimyasal maddeyi püskürterek yangını söndürür.",
+    "source": "MEB 8. Sınıf Fen Bilimleri Ders Kitabı - 3. Ünite",
+    "page": 99,
+    "unit": "Basınç",
+    "keywords": ["gaz basıncı", "püskürtme", "yangın", "güvenlik"]
+  }
+}

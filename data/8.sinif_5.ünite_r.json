@@ -1,0 +1,79 @@
+{
+  "basit_makineler": {
+    "answer": "İş yapmayı kolaylaştıran, az parçadan oluşan ve genellikle tek bir kuvvetle çalışan düzeneklere basit makineler denir. Kuvvetin yönünü, doğrultusunu veya büyüklüğünü değiştirerek iş kolaylığı sağlarlar. Enerji veya işten kazanç sağlamazlar.",
+    "source": "MEB 8. Sınıf Fen Bilgisi Ders Kitabı - 5. Ünite",
+    "page": 170-171,
+    "unit": "Basit Makineler",
+    "keywords": ["kuvvet", "iş kolaylığı", "giriş kuvveti", "çıkış kuvveti"]
+  },
+  "sabit_makara": {
+    "answer": "Sabit bir yere bağlı olan, sadece dönme hareketi yapan makaralardır. Kuvvetin yönünü değiştirir, kuvvetten veya yoldan kazanç sağlamaz. Kuvvet = Yük, Yol = Yük yolu.",
+    "source": "MEB 8. Sınıf Fen Bilgisi Ders Kitabı - 5. Ünite",
+    "page": 172-173,
+    "unit": "Basit Makineler",
+    "keywords": ["dönme", "yön değiştirme", "kuvvet eşit", "bayrak direği"]
+  },
+  "hareketli_makara": {
+    "answer": "Yükün makaranın eksenine asıldığı makaralardır. Kuvvetten kazanç sağlar, yoldan kayıp olur. Kuvvet = Yük / 2, Yol = 2 × Yük yolu.",
+    "source": "MEB 8. Sınıf Fen Bilgisi Ders Kitabı - 5. Ünite",
+    "page": 172-173,
+    "unit": "Basit Makineler",
+    "keywords": ["kuvvet kazancı", "yol kaybı", "vinç", "palanga"]
+  },
+  "palanga": {
+    "answer": "Sabit ve hareketli makaraların birlikte kullanıldığı sistemdir. Hem kuvvetten kazanç sağlar hem de kuvvetin yönünü değiştirir. Hareketli makara sayısı arttıkça kuvvet kazancı artar.",
+    "source": "MEB 8. Sınıf Fen Bilgisi Ders Kitabı - 5. Ünite",
+    "page": 173,
+    "unit": "Basit Makineler",
+    "keywords": ["makara sistemi", "kuvvet kazancı", "yön değişimi", "inşaat"]
+  },
+  "kaldıraç": {
+    "answer": "Sabit bir destek etrafında dönebilen çubuk sistemidir. Kuvvet kolu ve yük kolu uzunluklarına göre kuvvetten veya yoldan kazanç sağlar. Üç türü vardır: desteğin arada, yükün arada, kuvvetin arada.",
+    "source": "MEB 8. Sınıf Fen Bilgisi Ders Kitabı - 5. Ünite",
+    "page": 174-177,
+    "unit": "Basit Makineler",
+    "keywords": ["destek", "kuvvet kolu", "yük kolu", "kriko", "makas"]
+  },
+  "kaldıraç_tipleri": {
+    "answer": "1. Desteğin arada: Tahterevalli, makas, kriko. 2. Yükün arada: El arabası, ceviz kıracağı. 3. Kuvvetin arada: Maşa, cımbız, tenis raketi.",
+    "source": "MEB 8. Sınıf Fen Bilgisi Ders Kitabı - 5. Ünite",
+    "page": 176-177,
+    "unit": "Basit Makineler",
+    "keywords": ["desteğin arada", "yükün arada", "kuvvetin arada", "denge"]
+  },
+  "egik_duzlem": {
+    "answer": "Yüksekliği sabit, eğimli yüzeylerdir. Kuvvetten kazanç sağlar, yoldan kayıp olur. Eğik düzlemin boyu arttıkça kuvvet ihtiyacı azalır.",
+    "source": "MEB 8. Sınıf Fen Bilgisi Ders Kitabı - 5. Ünite",
+    "page": 178-180,
+    "unit": "Basit Makineler",
+    "keywords": ["rampa", "yükseklik", "eğim", "kuvvet kazancı", "engelli rampası"]
+  },
+  "cikrik": {
+    "answer": "Aynı eksenli farklı yarıçaplı silindirlerden oluşur. Kuvvet büyük silindire, yük küçük silindire uygulanır. Kuvvetten kazanç sağlar. Örnek: Kuyu düzeneği, kapı anahtarı.",
+    "source": "MEB 8. Sınıf Fen Bilgisi Ders Kitabı - 5. Ünite",
+    "page": 181,
+    "unit": "Basit Makineler",
+    "keywords": ["silindir", "kuyu", "dönme", "kuvvet kolu", "tornavida"]
+  },
+  "vida": {
+    "answer": "Silindir etrafına sarılmış eğik düzlemden oluşur. Dönme hareketi ile ilerler. Kuvvetten kazanç sağlar. Örnek: Vida, ampul, şişe kapağı.",
+    "source": "MEB 8. Sınıf Fen Bilgisi Ders Kitabı - 5. Ünite",
+    "page": 182,
+    "unit": "Basit Makineler",
+    "keywords": ["eğik düzlem", "dönme", "sarmal", "sıkıştırma"]
+  },
+  "bilesik_makine": {
+    "answer": "Birden fazla basit makinenin birleşmesiyle oluşur. Örnek: Bisiklet (kaldıraç, dişli, tekerlek, çıkrık), vinç, olta makinesi.",
+    "source": "MEB 8. Sınıf Fen Bilgisi Ders Kitabı - 5. Ünite",
+    "page": 182,
+    "unit": "Basit Makineler",
+    "keywords": ["vinç", "bisiklet", "olta", "tasarım"]
+  },
+  "is_enerji_iliskisi": {
+    "answer": "Basit makineler iş veya enerjiden kazanç sağlamaz; sadece iş yapmayı kolaylaştırır. Kuvvetten kazanç varsa yoldan kayıp, yoldan kazanç varsa kuvvetten kayıp olur.",
+    "source": "MEB 8. Sınıf Fen Bilgisi Ders Kitabı - 5. Ünite",
+    "page": 182,
+    "unit": "Basit Makineler",
+    "keywords": ["iş", "enerji", "kuvvet-yol trade-off", "verim"]
+  }
+}
