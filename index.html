@@ -383,39 +383,18 @@
         let currentUnit = 'all';
         let availableUnits = new Set();
         let stats = { classes: 0, units: 0, topics: 0 };
-        
-        // DEMO VERİSİ (JSON dosyaları yüklenene kadar)
-        const DEMO_DATA = {
-            5: {
-                1: {
-                    "güneş sistemi": {
-                        "answer": "Güneş sistemi, Güneş'in etrafında dönen 8 gezegen, uydular, asteroitler, kuyruklu yıldızlar ve diğer gök cisimlerinden oluşan sistemdir. Gezegenler Güneş'e yakınlıktan uzaklığa göre: Merkür, Venüs, Dünya, Mars, Jüpiter, Satürn, Uranüs ve Neptün'dür.",
-                        "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı",
-                        "page": 20,
-                        "unit": "Gökyüzündeki Komşularımız",
-                        "keywords": ["güneş", "gezegen", "merkür", "venüs"]
-                    },
-                    "ay": {
-                        "answer": "Ay, Dünya'nın doğal uydusudur. Ay'ın şekli küreye benzer ve Dünya'ya en yakın gök cismidir. Ay ile Dünya arasındaki mesafe yaklaşık 384.400 kilometredir.",
-                        "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı",
-                        "page": 27,
-                        "unit": "Gökyüzündeki Komşularımız",
-                        "keywords": ["ay", "uydu", "küre"]
-                    }
-                }
-            },
-            6: {
-                1: {
-                    "genleşme": {
-                        "answer": "Isı etkisiyle maddenin hacminin artmasına genleşme denir. Isı alan maddelerde tanecikler arasındaki mesafe artar ve maddenin hacmi büyür.",
-                        "source": "MEB 6. Sınıf Fen Bilgisi Ders Kitabı",
-                        "page": 17,
-                        "unit": "Maddenin Ayırt Edici Özellikleri",
-                        "keywords": ["genleşme", "ısı", "hacim"]
-                    }
-                }
-            }
-        };
+
+        // Türkçe karakter normalizasyonu
+        function normalizeTurkish(text) {
+            if (!text) return '';
+            return text.toLowerCase()
+                .replace(/ğ/g, 'g')
+                .replace(/ü/g, 'u')
+                .replace(/ş/g, 's')
+                .replace(/ı/g, 'i')
+                .replace(/ö/g, 'o')
+                .replace(/ç/g, 'c');
+        }
 
         async function loadData() {
             try {
@@ -423,42 +402,22 @@
                 const classes = [5, 6, 7, 8];
                 const maxUnits = 10;
                 let loadedFiles = 0;
-                let attemptedFiles = [];
                 
-                // Önce demo veriyi yükle
-                console.log('📦 Demo veri yükleniyor...');
-                fenBilgisiDB = JSON.parse(JSON.stringify(DEMO_DATA));
-                
-                // Proje kök dizinini bul
                 const basePath = window.location.pathname.includes('/fen-asistan') 
                     ? '/fen-asistan' 
                     : '';
                 
-                // Gerçek dosyaları yüklemeyi dene
                 for (const cls of classes) {
-                    if (!fenBilgisiDB[cls]) fenBilgisiDB[cls] = {};
+                    fenBilgisiDB[cls] = {};
                     
                     for (let unit = 1; unit <= maxUnits; unit++) {
-                        // Eğer demo veride varsa atla
-                        if (fenBilgisiDB[cls][unit]) {
-                            console.log(`✅ Demo veriden yüklendi: ${cls}. Sınıf - ${unit}. Ünite`);
-                            availableUnits.add(unit);
-                            loadedFiles++;
-                            continue;
-                        }
-                        
                         const possiblePaths = [
-                            // Kullanıcının dosya formatı (nokta ve ü ile)
                             `${basePath}/data/${cls}.sinif_${unit}.ünite_r.json`,
                             `data/${cls}.sinif_${unit}.ünite_r.json`,
-                            `./${cls}.sinif_${unit}.ünite_r.json`,
-                            // Alt tire yerine nokta
                             `${basePath}/data/${cls}.sinif_${unit}.unite_r.json`,
                             `data/${cls}.sinif_${unit}.unite_r.json`,
-                            // Standart format (noktasız)
                             `${basePath}/data/${cls}sinif_${unit}.unite_r.json`,
-                            `data/${cls}sinif_${unit}.unite_r.json`,
-                            `./${cls}sinif_${unit}.unite_r.json`
+                            `data/${cls}sinif_${unit}.unite_r.json`
                         ];
                         
                         for (const filePath of possiblePaths) {
@@ -471,13 +430,11 @@
                                     fenBilgisiDB[cls][unit] = data;
                                     availableUnits.add(unit);
                                     loadedFiles++;
-                                    console.log(`✅ JSON'dan yüklendi: ${cls}. Sınıf - ${unit}. Ünite`);
+                                    console.log(`✅ Yüklendi: ${cls}. Sınıf - ${unit}. Ünite`);
                                     break;
-                                } else {
-                                    attemptedFiles.push(`${filePath} (${response.status})`);
                                 }
                             } catch (error) {
-                                attemptedFiles.push(`${filePath} (${error.message})`);
+                                // Sessizce devam et
                             }
                         }
                     }
@@ -491,40 +448,14 @@
                 updateUnitSelector();
                 dataLoaded = true;
                 
-                if (loadedFiles === 0) {
-                    console.warn('⚠️ Sadece demo veri kullanılıyor');
-                    showDemoWarning();
-                } else {
-                    console.log(`🎉 Toplam ${loadedFiles} veri yüklendi (demo dahil)`);
-                    showWelcomeMessage();
-                }
+                console.log(`🎉 Toplam ${loadedFiles} dosya yüklendi`);
+                showWelcomeMessage();
                 
             } catch (error) {
-                console.error('❌ Veri yükleme hatası:', error);
-                fenBilgisiDB = JSON.parse(JSON.stringify(DEMO_DATA));
-                calculateStats();
-                updateUnitSelector();
+                console.error('❌ Hata:', error);
                 dataLoaded = true;
-                showDemoWarning();
+                showWelcomeMessage();
             }
-        }
-        
-        function showDemoWarning() {
-            document.getElementById('resultContainer').innerHTML = `
-                <div class="no-result">
-                    <span class="emoji">⚠️</span>
-                    <strong>Şu anda DEMO verisi ile çalışıyorsunuz!</strong><br><br>
-                    <div style="text-align: left; background: #fff3cd; padding: 15px; border-radius: 10px; color: #856404; font-size: 0.9em; margin-top: 15px;">
-                        <strong>📋 Tam veri için yapmanız gerekenler:</strong><br><br>
-                        1️⃣ GitHub reponuzda <code>data/</code> klasörü oluşturun<br>
-                        2️⃣ JSON dosyalarınızı <code>data/</code> klasörüne yükleyin<br>
-                        3️⃣ Dosya formatı: <code>5sinif_1.unite_r.json</code><br>
-                        4️⃣ Sayfayı yenileyin<br><br>
-                        <strong>💡 Şimdilik demo konuları deneyebilirsiniz:</strong><br>
-                        "güneş sistemi", "ay", "genleşme"
-                    </div>
-                </div>
-            `;
         }
 
         function calculateStats() {
@@ -562,20 +493,15 @@
                 document.getElementById('resultContainer').innerHTML = `
                     <div class="no-result">
                         <span class="emoji">⚠️</span>
-                        Veri dosyaları bulunamadı!<br>
-                        <small style="color: #a0aec0; margin-top: 10px; display: block;">
-                            Lütfen data klasörüne şu formatta dosyalar ekleyin:<br>
-                            5sinif_1.unite_r.json, 5sinif_2.unite_r.json, vb.
-                        </small>
+                        Veri dosyaları bulunamadı! Lütfen JSON dosyalarını data/ klasörüne yükleyin.
                     </div>
                 `;
             } else {
                 document.getElementById('resultContainer').innerHTML = `
                     <div class="no-result">
                         <span class="emoji">🤖</span>
-                        Merhaba! Ben senin fen bilgisi asistanınım.<br>
-                        Sistemde <strong>${stats.classes} sınıfa</strong> ait <strong>${stats.topics} konu</strong> bulunuyor.<br>
-                        Yukarıdaki arama kutusuna merak ettiğin konuları yazabilirsin! 🔍
+                        Merhaba! Sistemde <strong>${stats.topics} konu</strong> bulunuyor.<br>
+                        Yukarıdaki arama kutusuna merak ettiğin konuları yaz! 🔍
                     </div>
                 `;
             }
@@ -599,11 +525,11 @@
 
         function searchAnswer() {
             if (!dataLoaded) {
-                showNoResult("Veriler henüz yüklenmedi, lütfen bekleyin...");
+                showNoResult("Veriler henüz yüklenmedi...");
                 return;
             }
             
-            const query = document.getElementById('searchInput').value.trim().toLowerCase();
+            const query = document.getElementById('searchInput').value.trim();
             
             if (!query) {
                 showNoResult("Lütfen bir konu yazın! 😊");
@@ -620,7 +546,10 @@
 
         function findAnswers(query) {
             const results = [];
+            const normalizedQuery = normalizeTurkish(query);
             const classesToSearch = currentClass === 'all' ? Object.keys(fenBilgisiDB) : [currentClass];
+            
+            console.log('🔍 Arama:', query, '→', normalizedQuery);
             
             classesToSearch.forEach(cls => {
                 if (!fenBilgisiDB[cls]) return;
@@ -632,49 +561,63 @@
                     
                     for (let topic in fenBilgisiDB[cls][unit]) {
                         const data = fenBilgisiDB[cls][unit][topic];
-                        const topicLower = topic.toLowerCase();
-                        const answerLower = data.answer.toLowerCase();
-                        const keywordsLower = (data.keywords || []).join(' ').toLowerCase();
+                        const normalizedTopic = normalizeTurkish(topic);
+                        const normalizedAnswer = normalizeTurkish(data.answer || '');
+                        const normalizedKeywords = normalizeTurkish((data.keywords || []).join(' '));
                         
-                        if (topicLower.includes(query) || 
-                            answerLower.includes(query) ||
-                            keywordsLower.includes(query) ||
-                            query.split(' ').some(word => topicLower.includes(word))) {
-                            
+                        const queryWords = normalizedQuery.split(' ').filter(w => w.length > 2);
+                        let matched = false;
+                        
+                        if (normalizedTopic.includes(normalizedQuery) || normalizedQuery.includes(normalizedTopic)) {
+                            matched = true;
+                        }
+                        
+                        if (!matched) {
+                            for (let word of queryWords) {
+                                if (normalizedTopic.includes(word) || 
+                                    normalizedAnswer.includes(word) ||
+                                    normalizedKeywords.includes(word)) {
+                                    matched = true;
+                                    break;
+                                }
+                            }
+                        }
+                        
+                        if (matched) {
                             results.push({
                                 topic: topic,
                                 data: data,
                                 class: cls,
                                 unit: unit,
-                                relevance: calculateRelevance(query, topic, data)
+                                relevance: calculateRelevance(normalizedQuery, normalizedTopic, data)
                             });
+                            console.log('✅ Bulundu:', topic);
                         }
                     }
                 });
             });
             
+            console.log('📊 Sonuç sayısı:', results.length);
             return results.sort((a, b) => b.relevance - a.relevance).slice(0, 10);
         }
 
         function calculateRelevance(query, topic, data) {
             let score = 0;
-            const topicLower = topic.toLowerCase();
-            const answerLower = data.answer.toLowerCase();
-            const queryLower = query.toLowerCase();
+            const answerNormalized = normalizeTurkish(data.answer || '');
             
-            if (topicLower === queryLower) score += 100;
-            else if (topicLower.includes(queryLower)) score += 60;
-            else if (queryLower.includes(topicLower)) score += 50;
+            if (topic === query) score += 100;
+            else if (topic.includes(query)) score += 60;
+            else if (query.includes(topic)) score += 50;
             
-            const queryWords = queryLower.split(' ').filter(w => w.length > 2);
+            const queryWords = query.split(' ').filter(w => w.length > 2);
             queryWords.forEach(word => {
-                if (topicLower.includes(word)) score += 20;
-                if (answerLower.includes(word)) score += 5;
+                if (topic.includes(word)) score += 20;
+                if (answerNormalized.includes(word)) score += 5;
             });
             
             if (data.keywords) {
                 data.keywords.forEach(keyword => {
-                    if (queryLower.includes(keyword.toLowerCase())) score += 15;
+                    if (query.includes(normalizeTurkish(keyword))) score += 15;
                 });
             }
             
@@ -685,7 +628,7 @@
             const resultContainer = document.getElementById('resultContainer');
             
             if (results.length === 0) {
-                showNoResult(`"${query}" için sonuç bulunamadı. Farklı kelimelerle deneyebilirsin! 🤔`);
+                showNoResult(`"${query}" için sonuç bulunamadı. Farklı kelimelerle dene! 🤔`);
                 return;
             }
             
@@ -736,10 +679,8 @@
         });
 
         window.addEventListener('DOMContentLoaded', function() {
-            loadData().then(() => {
-                console.log('✅ Sistem hazır!');
-                document.getElementById('searchInput').focus();
-            });
+            loadData();
+            document.getElementById('searchInput').focus();
         });
     </script>
 </body>
