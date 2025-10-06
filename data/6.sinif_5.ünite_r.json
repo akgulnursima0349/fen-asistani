@@ -1,0 +1,282 @@
+{
+  "genleşme": {
+    "answer": "Genleşme, maddelerin ısı etkisiyle hacimlerinin artmasıdır. Isı alan maddelerde genellikle genleşme görülür. Madde tanecikleri arasındaki mesafe artar ve maddenin hacmi büyür. Genleşme, maddelerin ayırt edici özelliklerinden biridir.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 2. Kitap",
+    "page": 23,
+    "unit": "Maddenin Ayırt Edici Özellikleri",
+    "keywords": ["genleşme", "ısı etkisi", "hacim artması", "madde tanecikleri", "ayırt edici özellik"]
+  },
+  "büzülme": {
+    "answer": "Büzülme, maddelerin ısı etkisiyle hacimlerinin azalmasıdır. Isı veren maddelerde genellikle büzülme görülür. Madde tanecikleri arasındaki mesafe azalır ve maddenin hacmi küçülür. Büzülme ve genleşme olayları birbirinin tersi olaylardır.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 2. Kitap",
+    "page": 23,
+    "unit": "Maddenin Ayırt Edici Özellikleri",
+    "keywords": ["büzülme", "ısı verme", "hacim azalması", "tanecik mesafesi", "tersi olay"]
+  },
+  "ısı ve madde etkileşimi": {
+    "answer": "Isı alışverişi sonucu madde tanecikleri arasındaki mesafeler değişebilir. Madde hâl değiştirmese bile ısı etkisiyle hacminde değişiklikler olur. Isı alan maddeler genleşir, ısı veren maddeler büzülür. Bu olaylar günlük hayatta sıkça gözlemlenir.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 2. Kitap",
+    "page": 16-17,
+    "unit": "Maddenin Ayırt Edici Özellikleri",
+    "keywords": ["ısı alışverişi", "tanecik mesafesi", "hacim değişimi", "hâl değişimi", "günlük hayat"]
+  },
+  "termometre çalışma prensibi": {
+    "answer": "Termometre, genleşme ve büzülme prensibine göre çalışır. Sıcaklığın artmasıyla termometre içindeki sıvı genleşir ve sıvı seviyesi yükselir. Sıcaklığın azalmasıyla sıvı büzülür ve sıvı seviyesi düşer. Bu sayede sıcaklık ölçümü yapılabilir.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 2. Kitap",
+    "page": 19,
+    "unit": "Maddenin Ayırt Edici Özellikleri",
+    "keywords": ["termometre", "sıvı genleşmesi", "sıcaklık ölçümü", "seviye yükselme", "çalışma prensibi"]
+  },
+  "günlük hayatta genleşme": {
+    "answer": "Günlük hayatta genleşme olaylarına çok rastlanır: tren raylarında genleşme payı bırakılması, elektrik tellerinin yaz aylarında uzaması, sıkışan kavanoz kapağının sıcak suda açılması, metal köprülerde esneme payı bırakılması bu örneklerdendir.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 2. Kitap",
+    "page": 19-20,
+    "unit": "Maddenin Ayırt Edici Özellikleri",
+    "keywords": ["tren rayları", "elektrik telleri", "kavanoz kapağı", "köprü", "esneme payı"]
+  },
+  "günlük hayatta büzülme": {
+    "answer": "Günlük hayatta büzülme olayları: elektrik tellerinin kış aylarında kısalması, soğuk ortamda bekletilen balonun küçülmesi, araç lastiklerinin kışın hacminin azalması, metal çerçeveli gözlüklerin soğukta büzülmesi gibi örneklerle görülür.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 2. Kitap",
+    "page": 19-20,
+    "unit": "Maddenin Ayırt Edici Özellikleri",
+    "keywords": ["elektrik teli kısalma", "balon küçülme", "araç lastiği", "gözlük çerçevesi", "soğuk ortam"]
+  },
+  "termostat": {
+    "answer": "Termostatlar, maddelerin ısı etkisiyle genleşme ve büzülme özelliğinden faydalanılarak yapılan araçlardır. Sıcaklık değişimlerine duyarlı olan termostatlar ütü, fırın, buzdolabı, elektrikli ısıtıcılar ve otomobil gibi araçlarda kullanılır.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 2. Kitap",
+    "page": 23,
+    "unit": "Maddenin Ayırt Edici Özellikleri",
+    "keywords": ["termostat", "sıcaklık duyarlı", "ütü", "fırın", "buzdolabı", "otomobil"]
+  },
+  "metal yapılarda genleşme": {
+    "answer": "Metal yapılar inşa edilirken genleşme ve büzülme olayları göz önünde bulundurulur. Özel bağlantı elemanları kullanılır ve esneme payı bırakılır. Eiffel Kulesi yaz sıcaklarında 15 santimetre kadar uzayabilir. Köprülerde de genleşme payları vardır.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 2. Kitap",
+    "page": 23,
+    "unit": "Maddenin Ayırt Edici Özellikleri",
+    "keywords": ["metal yapı", "eiffel kulesi", "15 santimetre", "köprü", "bağlantı elemanı"]
+  },
+  "saf madde": {
+    "answer": "Saf madde, aynı cins taneciklerden oluşan maddelerdir. Su, oksijen, karbon dioksit, altın, bakır, demir, şeker, tuz gibi maddeler saf maddelere örnektir. Saf maddelerin erime, donma ve kaynama noktaları ayırt edici özelliklerdir.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 2. Kitap",
+    "page": 35,
+    "unit": "Maddenin Ayırt Edici Özellikleri",
+    "keywords": ["saf madde", "aynı tanecik", "su", "altın", "erime noktası", "ayırt edici"]
+  },
+  "saf olmayan madde": {
+    "answer": "Saf olmayan madde, iki veya daha fazla farklı cins taneciklerden oluşan maddelerdir. Şekerli su, tuzlu su, salata, toprak, limonata gibi maddeler saf olmayan maddelere örnektir. Karışım olarak da adlandırılır.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 2. Kitap",
+    "page": 35,
+    "unit": "Maddenin Ayırt Edici Özellikleri",
+    "keywords": ["saf olmayan", "farklı tanecik", "karışım", "şekerli su", "salata", "toprak"]
+  },
+  "erime noktası": {
+    "answer": "Erime noktası (erime sıcaklığı), katı hâldeki saf bir maddenin sıvı hâle geçmeye başladığı sıcaklıktır. Saf maddelerin sıcaklığı erime süresince sabit kalır. Erime noktası, saf maddeler için ayırt edici bir özelliktir.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 2. Kitap",
+    "page": 35,
+    "unit": "Maddenin Ayırt Edici Özellikleri",
+    "keywords": ["erime noktası", "katıdan sıvıya", "sıcaklık sabit", "ayırt edici özellik", "saf madde"]
+  },
+  "donma noktası": {
+    "answer": "Donma noktası (donma sıcaklığı), sıvı hâldeki saf bir maddenin katı hâle geçmeye başladığı sıcaklıktır. Saf maddelerin sıcaklığı donma süresince sabit kalır. Aynı saf maddenin erime ve donma noktaları birbirine eşittir.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 2. Kitap",
+    "page": 35,
+    "unit": "Maddenin Ayırt Edici Özellikleri",
+    "keywords": ["donma noktası", "sıvıdan katıya", "sıcaklık sabit", "erime eşit", "saf madde"]
+  },
+  "kaynama noktası": {
+    "answer": "Kaynama noktası (kaynama sıcaklığı), saf bir sıvının her yerinde buharlaşma olayının başladığı sıcaklıktır. Kaynama süresince saf maddelerin sıcaklığı sabit kalır. Suyun kaynama noktası 100°C, etil alkolün 78°C'dir.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 2. Kitap",
+    "page": 35,
+    "unit": "Maddenin Ayırt Edici Özellikleri",
+    "keywords": ["kaynama noktası", "buharlaşma", "100°C su", "78°C etil alkol", "sıcaklık sabit"]
+  },
+  "buzun erime sıcaklığı": {
+    "answer": "Buzun erime sıcaklığı 0°C'dir. Buz erirken sıcaklığı sabit kalır ve 0°C'ta sıvı suya dönüşür. Bu sıcaklık aynı zamanda suyun donma sıcaklığıdır. Saf maddelerde erime ve donma sıcaklıkları her zaman eşittir.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 2. Kitap",
+    "page": 29-31,
+    "unit": "Maddenin Ayırt Edici Özellikleri",
+    "keywords": ["buz", "0°C", "erime", "sıvı su", "donma eşit"]
+  },
+  "parafinin erime sıcaklığı": {
+    "answer": "Parafinin erime sıcaklığı 43-65°C arasındadır. Parafin erirken sıcaklığı sabit kalır. Parafinin erime ve donma sıcaklıkları birbirine eşittir. Bu özellik parafini diğer maddelerden ayırt etmeye yarar.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 2. Kitap",
+    "page": 30-32,
+    "unit": "Maddenin Ayırt Edici Özellikleri",
+    "keywords": ["parafin", "43-65°C", "erime donma eşit", "sabit sıcaklık", "ayırt etme"]
+  },
+  "suyun kaynama sıcaklığı": {
+    "answer": "Suyun kaynama sıcaklığı 100°C'dir. Su kaynarken sıcaklığı sabit kalır ve su buharına dönüşür. Bu özellik suyun ayırt edici özelliklerinden biridir ve su kaynakladığında her yerinde buharlaşma olayı başlar.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 2. Kitap",
+    "page": 33,
+    "unit": "Maddenin Ayırt Edici Özellikleri",
+    "keywords": ["su", "100°C", "kaynama", "su buharı", "her yerinde buharlaşma"]
+  },
+  "etil alkolün kaynama sıcaklığı": {
+    "answer": "Etil alkolün kaynama sıcaklığı 78°C'dir. Bu sıcaklık suyun kaynama sıcaklığından (100°C) düşüktür. Etil alkol kaynarken sıcaklığı sabit kalır. Farklı saf maddelerin farklı kaynama noktaları vardır.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 2. Kitap",
+    "page": 33,
+    "unit": "Maddenin Ayırt Edici Özellikleri",
+    "keywords": ["etil alkol", "78°C", "sudan düşük", "farklı noktalar", "sabit sıcaklık"]
+  },
+  "yoğunluk": {
+    "answer": "Yoğunluk, bir maddenin birim hacimdeki madde miktarıdır. Yoğunluk = Kütle/Hacim formülü ile hesaplanır. Birimi gram/santimetreküp (g/cm³)'tür. Yoğunluk, maddelerin ayırt edici özelliklerinden biridir.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 2. Kitap",
+    "page": 44,
+    "unit": "Maddenin Ayırt Edici Özellikleri",
+    "keywords": ["yoğunluk", "birim hacim", "kütle/hacim", "g/cm³", "ayırt edici özellik"]
+  },
+  "kütle": {
+    "answer": "Kütle, bir cismin içerdiği madde miktarıdır. Maddelerin kütlesi eşit kollu terazi ile ölçülür. Kütlenin gram (g) ve kilogram (kg) gibi ölçüm birimleri vardır. Kütle, maddelerin ortak özelliklerinden biridir.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 2. Kitap",
+    "page": 38,
+    "unit": "Maddenin Ayırt Edici Özellikleri",
+    "keywords": ["kütle", "madde miktarı", "eşit kollu terazi", "gram", "kilogram"]
+  },
+  "hacim": {
+    "answer": "Hacim, maddenin boşlukta kapladığı yerdir. Hacmin santimetreküp (cm³), mililitre (mL), litre (L) gibi birimleri vardır. Hacim ölçümlerinde dereceli silindir, beherglas veya ölçülü kap kullanılabilir.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 2. Kitap",
+    "page": 38,
+    "unit": "Maddenin Ayırt Edici Özellikleri",
+    "keywords": ["hacim", "boşlukta yer", "cm³", "mL", "dereceli silindir"]
+  },
+  "katı hacim ölçümü": {
+    "answer": "Katı cisimlerin hacmi su ile ölçülür. Dereceli silindire su konur, cisim bırakılır ve su seviyesindeki yükselme ölçülür. Su seviyesindeki yükselme cismin hacmine eşittir. Taşırma kabı yöntemi de kullanılabilir.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 2. Kitap",
+    "page": 40-41,
+    "unit": "Maddenin Ayırt Edici Özellikleri",
+    "keywords": ["katı hacim", "su seviyesi", "yükselme", "taşırma kabı", "dereceli silindir"]
+  },
+  "sıvı hacim ölçümü": {
+    "answer": "Sıvı maddelerin hacmi dereceli silindir ile ölçülür. Sıvı dereceli silindire dökülür ve sıvı seviyesinin denk geldiği sayı değerine bakılarak hacim belirlenir. 1 mililitre = 1 santimetreküptür.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 2. Kitap",
+    "page": 38,
+    "unit": "Maddenin Ayırt Edici Özellikleri",
+    "keywords": ["sıvı hacim", "dereceli silindir", "sıvı seviyesi", "1mL=1cm³", "ölçüm"]
+  },
+  "suyun yoğunluğu": {
+    "answer": "Suyun yoğunluğu 1 g/cm³'tür. Bu değer suyun önemli ayırt edici özelliklerinden biridir. Su miktarı değişse bile yoğunluğu hep aynı kalır. Su, yoğunluk karşılaştırmalarında referans madde olarak kullanılır.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 2. Kitap",
+    "page": 46,
+    "unit": "Maddenin Ayırt Edici Özellikleri",
+    "keywords": ["su yoğunluğu", "1 g/cm³", "referans madde", "sabit değer", "ayırt edici"]
+  },
+  "etil alkolün yoğunluğu": {
+    "answer": "Etil alkolün yoğunluğu 0,8 g/cm³'tür. Bu değer suyun yoğunluğundan (1 g/cm³) küçüktür. Bu nedenle etil alkol su üzerinde yüzer. Farklı maddelerin farklı yoğunlukları vardır.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 2. Kitap",
+    "page": 44-46,
+    "unit": "Maddenin Ayırt Edici Özellikleri",
+    "keywords": ["etil alkol", "0,8 g/cm³", "sudan küçük", "su üzerinde yüzer", "farklı yoğunluk"]
+  },
+  "demirin yoğunluğu": {
+    "answer": "Demirin yoğunluğu 7,8 g/cm³'tür. Bu değer suyun yoğunluğundan çok büyüktür. Bu nedenle demir su içinde batar. Demirin yoğunluğu onu diğer metallerden ayırt etmeye yarar.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 2. Kitap",
+    "page": 46,
+    "unit": "Maddenin Ayırt Edici Özellikleri",
+    "keywords": ["demir", "7,8 g/cm³", "suda batar", "sudan büyük", "metal ayırma"]
+  },
+  "cıvanın yoğunluğu": {
+    "answer": "Cıvanın yoğunluğu 13,6 g/cm³'tür. Bu çok yüksek bir yoğunluk değeridir. Cıva oda sıcaklığında sıvı halde bulunan tek metaldir. Yüksek yoğunluğu nedeniyle birçok metal cıva üzerinde yüzer.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 2. Kitap",
+    "page": 46,
+    "unit": "Maddenin Ayırt Edici Özellikleri",
+    "keywords": ["cıva", "13,6 g/cm³", "yüksek yoğunluk", "sıvı metal", "metal yüzer"]
+  },
+  "yoğunluk ve batma-yüzme": {
+    "answer": "Katı bir cisim çözünmediği sıvıya atıldığında: cismin yoğunluğu sıvının yoğunluğundan büyükse batar, eşitse askıda kalır, küçükse yüzer. Bu prensip gemi yapımında ve yoğunluk karşılaştırmalarında kullanılır.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 2. Kitap",
+    "page": 50-51,
+    "unit": "Maddenin Ayırt Edici Özellikleri",
+    "keywords": ["batma", "yüzme", "askıda kalma", "yoğunluk karşılaştırma", "gemi yapımı"]
+  },
+  "sıvıların katmanlaşması": {
+    "answer": "Birbiri içinde çözünmeyen sıvılar aynı kap içerisine konulduğunda yoğunluğa göre katmanlaşır. Yoğunluğu büyük olan sıvı altta, küçük olan üstte konumlanır. Su ve yağ karışımında yağ üstte kalır.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 2. Kitap",
+    "page": 49,
+    "unit": "Maddenin Ayırt Edici Özellikleri",
+    "keywords": ["katmanlaşma", "çözünmeyen sıvılar", "yoğunluk sırası", "su yağ", "üst alt"]
+  },
+  "yoğunluk hesaplama": {
+    "answer": "Yoğunluk hesaplanırken kütle hacme bölünür. Formül: Yoğunluk = Kütle/Hacim. Kütle gram (g), hacim santimetreküp (cm³) cinsinden alındığında yoğunluk birimi g/cm³ olur. Hesaplamalarda dikkatli olmak gerekir.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 2. Kitap",
+    "page": 44,
+    "unit": "Maddenin Ayırt Edici Özellikleri",
+    "keywords": ["yoğunluk hesaplama", "kütle/hacim", "gram", "santimetreküp", "formül"]
+  },
+  "ayırt edici özellikler": {
+    "answer": "Ayırt edici özellikler, maddelerin diğer maddelerden farklı olduğunu anlamaya yarayan özelliklerdir. Erime noktası, donma noktası, kaynama noktası, yoğunluk ve genleşme ayırt edici özelliklerdir. Bu özellikler madde miktarına bağlı değildir.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 2. Kitap",
+    "page": 24,
+    "unit": "Maddenin Ayırt Edici Özellikleri",
+    "keywords": ["ayırt edici", "madde tanıma", "erime noktası", "yoğunluk", "miktara bağlı değil"]
+  },
+  "ortak özellikler": {
+    "answer": "Ortak özellikler, tüm maddelerde bulunan özelliklerdir. Kütle ve hacim maddelerin ortak özellikleridir. Bu özellikler madde miktarına bağlıdır. Sadece kütle veya hacmi ölçerek maddeleri ayırt edemeyiz.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 2. Kitap",
+    "page": 44,
+    "unit": "Maddenin Ayırt Edici Özellikleri",
+    "keywords": ["ortak özellik", "kütle", "hacim", "miktara bağlı", "ayırt edemez"]
+  },
+  "metal çifti deneyi": {
+    "answer": "Metal çifti deneyi, farklı metallerin ısı etkisiyle genleşme miktarlarının farklı olduğunu gösterir. İki farklı metal birleştirilip ısıtıldığında, daha fazla genleşen metal çiftin eğilmesine neden olur. Bu, termostat yapımında kullanılır.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 2. Kitap",
+    "page": 24,
+    "unit": "Maddenin Ayırt Edici Özellikleri",
+    "keywords": ["metal çifti", "farklı genleşme", "eğilme", "termostat", "ısıtma"]
+  },
+  "gravzant halkası deneyi": {
+    "answer": "Gravzant halkası deneyi, maddelerin ısı etkisiyle genleştiğini gösterir. Metal küre başlangıçta halkadan geçer, ısıtıldığında genleşerek geçemez, soğutulduğunda tekrar geçer. Bu, genleşme ve büzülmenin tersinir olduğunu kanıtlar.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 2. Kitap",
+    "page": 22,
+    "unit": "Maddenin Ayırt Edici Özellikleri",
+    "keywords": ["gravzant halkası", "metal küre", "ısıtma", "soğutma", "tersinir"]
+  },
+  "madde tanecikleri": {
+    "answer": "Maddeler taneciklerden oluşur ve tanecikler arasında mesafeler vardır. Isı etkisiyle bu mesafeler değişebilir. Tanecikler arasındaki mesafe artarsa madde genleşir, azalırsa büzülür. Bu model madde davranışlarını açıklar.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 2. Kitap",
+    "page": 17,
+    "unit": "Maddenin Ayırt Edici Özellikleri",
+    "keywords": ["madde tanecikleri", "tanecik mesafesi", "ısı etkisi", "model", "davranış açıklama"]
+  },
+  "1 mililitre 1 santimetreküp": {
+    "answer": "1 mililitre (mL) = 1 santimetreküp (cm³)'tür. Bu eşitlik hacim ölçümlerinde önemli bir dönüşümdür. Sıvı hacim ölçümlerinde mililitre, katı hacim hesaplamalarında santimetreküp birimi kullanılır.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 2. Kitap",
+    "page": 40,
+    "unit": "Maddenin Ayırt Edici Özellikleri",
+    "keywords": ["mililitre", "santimetreküp", "hacim dönüşümü", "sıvı", "katı"]
+  },
+  "taşırma kabı yöntemi": {
+    "answer": "Taşırma kabı yöntemi, düzensiz şekilli katıların hacmini ölçmek için kullanılır. Kap taşma seviyesine kadar su ile doldurulur, cisim bırakılır ve taşan suyun hacmi ölçülür. Taşan su hacmi cismin hacmine eşittir.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 2. Kitap",
+    "page": 41,
+    "unit": "Maddenin Ayırt Edici Özellikleri",
+    "keywords": ["taşırma kabı", "düzensiz şekil", "taşma seviyesi", "taşan su", "cisim hacmi"]
+  },
+  "sıvı kütlesi hesaplama": {
+    "answer": "Sıvının kütlesi = Sıvıyla dolu beherglasın kütlesi - Boş beherglasın kütlesi formülü ile hesaplanır. Önce boş kap tartılır, sonra sıvıyla dolu kap tartılır ve aradaki fark sıvının kütlesini verir.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 2. Kitap",
+    "page": 39,
+    "unit": "Maddenin Ayırt Edici Özellikleri",
+    "keywords": ["sıvı kütlesi", "dolu kap", "boş kap", "fark", "hesaplama"]
+  },
+  "farklı maddelerin yoğunlukları": {
+    "answer": "Farklı saf maddelerin yoğunlukları birbirinden farklıdır. Su: 1 g/cm³, etil alkol: 0,8 g/cm³, demir: 7,8 g/cm³, cıva: 13,6 g/cm³. Bu farklılık maddeleri tanımamızı sağlar.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 2. Kitap",
+    "page": 46,
+    "unit": "Maddenin Ayırt Edici Özellikleri",
+    "keywords": ["farklı yoğunluklar", "su 1", "etil alkol 0,8", "demir 7,8", "cıva 13,6"]
+  },
+  "aynı maddenin yoğunluğu": {
+    "answer": "Aynı saf maddenin miktarı değişse bile yoğunluğu sabit kalır. Bir bardak su ile bir sürahi suyun yoğunluğu aynıdır. Kütle ve hacim aynı oranda arttığı için yoğunluk değişmez. Bu yoğunluğun ayırt edici özellik olmasını sağlar.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 2. Kitap",
+    "page": 47,
+    "unit": "Maddenin Ayırt Edici Özellikleri",
+    "keywords": ["aynı madde", "sabit yoğunluk", "bardak sürahi", "aynı oran", "ayırt edici"]
+  },
+  "çevre kirliliği ve atık yağ": {
+    "answer": "Sıvı yağların lavaboya dökülmesi çevre kirliliğine neden olur. Atık yağlar çevre lisanslı geri kazanım tesisleri aracılığıyla geri dönüştürülmelidir. Yağın suda üstte kalması su canlılarının oksijen almasını engeller.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 2. Kitap",
+    "page": 49,
+    "unit": "Maddenin Ayırt Edici Özellikleri",
+    "keywords": ["çevre kirliliği", "atık yağ", "geri dönüşüm", "su canlıları", "oksijen"]
+  }
+  

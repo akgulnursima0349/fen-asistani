@@ -1,0 +1,170 @@
+{
+  "biyoçeşitlilik": {
+    "answer": "Biyoçeşitlilik, Dünya'daki tüm canlı türlerinin çeşitliliği ve zenginliğidir. Farklı ekosistemler, türler ve genler arasındaki çeşitliliği kapsar. Biyoçeşitlilik doğal dengenin korunması ve ekosistemlerin sağlıklı işleyişi için hayati önem taşır.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 2. Kitap",
+    "page": 101,
+    "unit": "Sürdürülebilir Yaşam ve Etkileşim",
+    "keywords": ["biyoçeşitlilik", "canlı türleri", "ekosistem", "doğal denge", "hayati önem"]
+  },
+  "tür çeşitliliği": {
+    "answer": "Tür çeşitliliği, bir bölgede yaşayan farklı canlı türlerinin sayısı ve çeşitliliğidir. Bitki, hayvan, mantar ve mikroorganizma türlerinin zenginliğini ifade eder. Tür çeşitliliği ne kadar fazlaysa ekosistem o kadar sağlıklı ve kararlıdır.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 2. Kitap",
+    "page": 101,
+    "unit": "Sürdürülebilir Yaşam ve Etkileşim",
+    "keywords": ["tür çeşitliliği", "bitki hayvan", "mantar", "mikroorganizma", "sağlıklı ekosistem"]
+  },
+  "gen çeşitliliği": {
+    "answer": "Gen çeşitliliği, aynı tür içindeki bireylerin sahip olduğu farklı genlerdir. Bu çeşitlilik türlerin çevresel değişikliklere uyum sağlamasını kolaylaştırır. Gen çeşitliliği azaldığında türler çevresel tehditlere karşı daha savunmasız hale gelir.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 2. Kitap",
+    "page": 101,
+    "unit": "Sürdürülebilir Yaşam ve Etkileşim",
+    "keywords": ["gen çeşitliliği", "aynı tür", "çevresel uyum", "değişiklik", "savunmasızlık"]
+  },
+  "ekosistem çeşitliliği": {
+    "answer": "Ekosistem çeşitliliği, farklı yaşam alanlarının ve habitatların çeşitliliğidir. Orman, çöl, sulak alan, deniz gibi farklı ekosistemlerin varlığını ifade eder. Her ekosistem kendine özgü canlıları barındırır ve farklı işlevlere sahiptir.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 2. Kitap",
+    "page": 101,
+    "unit": "Sürdürülebilir Yaşam ve Etkileşim",
+    "keywords": ["ekosistem çeşitliliği", "yaşam alanı", "orman çöl", "sulak alan", "özgü canlılar"]
+  },
+  "biyoçeşitliliği tehdit eden faktörler": {
+    "answer": "Biyoçeşitliliği tehdit eden başlıca faktörler: habitat kaybı, iklim değişikliği, kirlilik, aşırı avcılık, istilacı türler ve insan faaliyetleridir. Bu faktörler canlı türlerinin sayısının azalmasına ve doğal dengenin bozulmasına neden olur.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 2. Kitap",
+    "page": 108,
+    "unit": "Sürdürülebilir Yaşam ve Etkileşim",
+    "keywords": ["tehdit faktörleri", "habitat kaybı", "iklim değişikliği", "kirlilik", "aşırı avcılık"]
+  },
+  "habitat kaybı": {
+    "answer": "Habitat kaybı, canlıların yaşam alanlarının yok olması veya bozulmasıdır. Ormanların kesilmesi, sulak alanların kurutulması, şehirleşme habitat kaybına neden olur. Bu durum canlıların beslenme, barınma ve üreme alanlarını elinden alır.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 2. Kitap",
+    "page": 108,
+    "unit": "Sürdürülebilir Yaşam ve Etkileşim",
+    "keywords": ["habitat kaybı", "yaşam alanı", "orman kesimi", "şehirleşme", "beslenme barınma"]
+  },
+  "iklim değişikliği": {
+    "answer": "İklim değişikliği, küresel sıcaklık artışı ve hava olaylarının değişmesidir. Buzulların erimesi, deniz seviyesinin yükselmesi, kuraklık gibi olaylarla biyoçeşitliliği etkiler. Canlılar değişen koşullara uyum sağlayamayabilir.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 2. Kitap",
+    "page": 108,
+    "unit": "Sürdürülebilir Yaşam ve Etkileşim",
+    "keywords": ["iklim değişikliği", "sıcaklık artışı", "buzul erimesi", "deniz seviyesi", "kuraklık"]
+  },
+  "kirlilik": {
+    "answer": "Çevre kirliliği biyoçeşitliliği ciddi şekilde tehdit eder. Hava, su ve toprak kirliliği canlıların yaşam alanlarını zehirler. Plastik atıklar, kimyasal maddeler ve fossil yakıt emisyonları ekosistemler için zararlıdır.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 2. Kitap",
+    "page": 108,
+    "unit": "Sürdürülebilir Yaşam ve Etkileşim",
+    "keywords": ["kirlilik", "hava su toprak", "plastik atık", "kimyasal madde", "fossil yakıt"]
+  },
+  "aşırı avcılık": {
+    "answer": "Aşırı avcılık, canlıların doğal üreme hızından fazla avlanmasıdır. Balık stokları, orman hayvanları ve deniz canlıları aşırı avcılıktan zarar görür. Bu durum türlerin neslinin tükenmesine yol açabilir.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 2. Kitap",
+    "page": 108,
+    "unit": "Sürdürülebilir Yaşam ve Etkileşim",
+    "keywords": ["aşırı avcılık", "üreme hızı", "balık stoku", "nesil tükenmesi", "doğal denge"]
+  },
+  "istilacı türler": {
+    "answer": "İstilacı türler, doğal olmayan çevrelere insan faaliyetleri sonucu taşınan ve yerel türlere zarar veren canlılardır. Bu türler yerel ekosistemleri bozar, besin zincirini etkiler ve yerel türlerle rekabet eder.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 2. Kitap",
+    "page": 108,
+    "unit": "Sürdürülebilir Yaşam ve Etkileşim",
+    "keywords": ["istilacı türler", "doğal olmayan", "yerel türler", "ekosistem bozma", "rekabet"]
+  },
+  "fosil yakıtlar": {
+    "answer": "Fosil yakıtlar, kömür, petrol ve doğalgaz gibi enerji kaynaklarıdır. Milyonlarca yıl önce ölen canlıların kalıntılarından oluşmuştur. Fosil yakıtlar yenilenemeyen enerji kaynaklarıdır ve yanma sırasında zararlı gazlar çıkarır.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 2. Kitap",
+    "page": 116,
+    "unit": "Sürdürülebilir Yaşam ve Etkileşim",
+    "keywords": ["fosil yakıt", "kömür petrol", "doğalgaz", "yenilenemeyen", "zararlı gaz"]
+  },
+  "yenilenebilir enerji": {
+    "answer": "Yenilenebilir enerji kaynakları güneş, rüzgar, su, jeotermal ve biyomas enerjisidir. Bu kaynaklar doğada sürekli yenilenir ve çevre dostu enerji üretimi sağlar. Fosil yakıtlara alternatif olarak sürdürülebilir kalkınmayı destekler.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 2. Kitap",
+    "page": 116,
+    "unit": "Sürdürülebilir Yaşam ve Etkileşim",
+    "keywords": ["yenilenebilir enerji", "güneş rüzgar", "su jeotermal", "çevre dostu", "sürdürülebilir"]
+  },
+  "sera etkisi": {
+    "answer": "Sera etkisi, atmosferdeki sera gazlarının güneş ışınlarını tutarak Dünya'nın ısınmasına neden olan doğal olaydır. Ancak insan faaliyetleri sera gazı miktarını artırarak küresel ısınmaya yol açar. Bu durum iklim değişikliğinin ana nedenidir.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 2. Kitap",
+    "page": 120,
+    "unit": "Sürdürülebilir Yaşam ve Etkileşim",
+    "keywords": ["sera etkisi", "sera gazları", "küresel ısınma", "iklim değişikliği", "atmosfer"]
+  },
+  "sera gazları": {
+    "answer": "Sera gazları, atmosferde ısıyı tutan gazlardır. Başlıcaları karbondioksit (CO₂), metan (CH₄), azot oksit (N₂O) ve fluor gazlarıdır. Fosil yakıt yakılması, ormansızlaşma ve endüstriyel faaliyetler sera gazı salınımını artırır.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 2. Kitap",
+    "page": 120,
+    "unit": "Sürdürülebilir Yaşam ve Etkileşim",
+    "keywords": ["sera gazları", "karbondioksit", "metan", "azot oksit", "ormansızlaşma"]
+  },
+  "hava kirliliği": {
+    "answer": "Hava kirliliği, atmosfere zararlı maddelerin karışmasıdır. Fabrikalar, araç emisyonları, fosil yakıt yakılması başlıca nedenlerdir. Hava kirliliği solunum hastalıklarına neden olur ve asit yağmurları oluşturur.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 2. Kitap",
+    "page": 120,
+    "unit": "Sürdürülebilir Yaşam ve Etkileşim",
+    "keywords": ["hava kirliliği", "zararlı madde", "fabrika emisyon", "solunum hastalığı", "asit yağmuru"]
+  },
+  "su kirliliği": {
+    "answer": "Su kirliliği, su kaynaklarına zararlı maddelerin karışmasıdır. Endüstriyel atıklar, evsel atık sular, tarımsal kimyasallar ve plastik atıklar su kirliliğine neden olur. Su canlıları ve insan sağlığını tehdit eder.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 2. Kitap",
+    "page": 120,
+    "unit": "Sürdürülebilir Yaşam ve Etkileşim",
+    "keywords": ["su kirliliği", "endüstriyel atık", "evsel atık", "tarımsal kimyasal", "su canlıları"]
+  },
+  "toprak kirliliği": {
+    "answer": "Toprak kirliliği, toprağa zararlı kimyasalların karışmasıdır. Aşırı gübre kullanımı, pestisitler, endüstriyel atıklar toprak kirliliğine neden olur. Toprak verimliliğini azaltır ve besin zincirini etkiler.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 2. Kitap",
+    "page": 120,
+    "unit": "Sürdürülebilir Yaşam ve Etkileşim",
+    "keywords": ["toprak kirliliği", "zararlı kimyasal", "gübre pestisit", "verimlilik", "besin zinciri"]
+  },
+  "gürültü kirliliği": {
+    "answer": "Gürültü kirliliği, çevredeki istenmeyen ve rahatsız edici seslerin yoğunluğudur. Trafik, endüstri, inşaat ve havacılık gürültü kirliliğine neden olur. İnsan sağlığını ve hayvan davranışlarını olumsuz etkiler.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 2. Kitap",
+    "page": 120,
+    "unit": "Sürdürülebilir Yaşam ve Etkileşim",
+    "keywords": ["gürültü kirliliği", "istenmeyen ses", "trafik endüstri", "insan sağlığı", "hayvan davranışı"]
+  },
+  "sürdürülebilir kalkınma": {
+    "answer": "Sürdürülebilir kalkınma, bugünün ihtiyaçlarını gelecek nesillerin ihtiyaçlarını tehlikeye atmadan karşılamaktır. Çevreyi korurken ekonomik gelişmeyi sağlamayı hedefler. Doğal kaynakların akılcı kullanımını öngörür.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 2. Kitap",
+    "page": 101,
+    "unit": "Sürdürülebilir Yaşam ve Etkileşim",
+    "keywords": ["sürdürülebilir kalkınma", "gelecek nesil", "çevre koruma", "ekonomik gelişme", "akılcı kullanım"]
+  },
+  "geri dönüşüm": {
+    "answer": "Geri dönüşüm, kullanılmış malzemelerin yeniden işlenerek tekrar kullanılabilir hale getirilmesidir. Kağıt, plastik, cam, metal geri dönüştürülebilir. Doğal kaynakları korur ve atık miktarını azaltır.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 2. Kitap",
+    "page": 120,
+    "unit": "Sürdürülebilir Yaşam ve Etkileşim",
+    "keywords": ["geri dönüşüm", "yeniden işleme", "kağıt plastik", "cam metal", "doğal kaynak"]
+  },
+  "enerji tasarrufu": {
+    "answer": "Enerji tasarrufu, enerji tüketimini azaltarak kaynakları verimli kullanmaktır. LED ampul kullanımı, elektronik cihazları kapatma, yalıtım enerji tasarrufu sağlar. Çevre koruma ve ekonomik fayda sağlar.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 2. Kitap",
+    "page": 116,
+    "unit": "Sürdürülebilir Yaşam ve Etkileşim",
+    "keywords": ["enerji tasarrufu", "verimli kullanım", "LED ampul", "yalıtım", "çevre koruma"]
+  },
+  "karbon ayak izi": {
+    "answer": "Karbon ayak izi, bir kişinin veya faaliyetin atmosfere saldığı sera gazı miktarıdır. Ulaşım, enerji kullanımı, beslenme şekli karbon ayak izini etkiler. Karbon ayak izini azaltmak iklim değişikliğiyle mücadelede önemlidir.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 2. Kitap",
+    "page": 120,
+    "unit": "Sürdürülebilir Yaşam ve Etkileşim",
+    "keywords": ["karbon ayak izi", "sera gazı", "ulaşım enerji", "beslenme", "iklim mücadelesi"]
+  },
+  "organik tarım": {
+    "answer": "Organik tarım, kimyasal gübre ve pestisit kullanmadan yapılan tarımdır. Doğal yöntemlerle toprak verimliliğini korur ve zararlılarla mücadele eder. Çevre ve insan sağlığı için daha güvenlidir.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 2. Kitap",
+    "page": 120,
+    "unit": "Sürdürülebilir Yaşam ve Etkileşim",
+    "keywords": ["organik tarım", "kimyasal gübre", "pestisit", "doğal yöntem", "insan sağlığı"]
+  },
+  "biyoçeşitlilik koruma": {
+    "answer": "Biyoçeşitliliği korumak için milli parklar kurulur, nesli tükenmekte olan türler korunur, habitat restorasyonu yapılır. Uluslararası anlaşmalar ve yerel koruma projeleri önemlidir. Herkesin bireysel katkısı gereklidir.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 2. Kitap",
+    "page": 108,
+    "unit": "Sürdürülebilir Yaşam ve Etkileşim",
+    "keywords": ["biyoçeşitlilik koruma", "milli park", "nesil tükenmesi", "habitat restorasyonu", "bireysel katkı"]
+  }
+}
