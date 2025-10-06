@@ -1,0 +1,205 @@
+{
+  "hücre": {
+    "answer": "Hücre, tüm canlıların yapı ve işlev birimidir. Canlılar tek hücreli veya çok hücreli olabilir. Hücrenin temel bölümleri hücre zarı, sitoplazma ve çekirdektir.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 1. Kitap",
+    "page": 103,
+    "unit": "Canlıların Yapısına Yolculuk",
+    "keywords": ["hücre", "canlı", "yapı", "işlev", "hücre zarı", "sitoplazma", "çekirdek", "tek hücreli", "çok hücreli"]
+  },
+  "hücre zarı": {
+    "answer": "Hücre zarı, hücrenin en dış tabakasıdır. Hücreyi çevreler ve hücrenin içeriğini korur. Hücre zarı, maddelerin hücreye girip çıkmasını kontrol eder.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 1. Kitap",
+    "page": 104,
+    "unit": "Canlıların Yapısına Yolculuk",
+    "keywords": ["hücre zarı", "dış tabaka", "koruma", "kontrol", "madde geçişi"]
+  },
+  "sitoplazma": {
+    "answer": "Sitoplazma, hücre zarı ile çekirdek arasında bulunan jel benzeri maddedir. Hücrenin yaşamsal faaliyetlerinin büyük bir kısmı sitoplazma içinde gerçekleşir.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 1. Kitap",
+    "page": 104,
+    "unit": "Canlıların Yapısına Yolculuk",
+    "keywords": ["sitoplazma", "jel benzeri", "yaşamsal faaliyet", "hücre zarı", "çekirdek"]
+  },
+  "çekirdek": {
+    "answer": "Çekirdek, hücrenin kontrol merkezidir. Hücrenin büyümesi, gelişmesi ve üremesi gibi yaşamsal faaliyetleri çekirdek tarafından kontrol edilir. Çekirdek içinde kalıtsal bilgiler bulunur.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 1. Kitap",
+    "page": 104,
+    "unit": "Canlıların Yapısına Yolculuk",
+    "keywords": ["çekirdek", "kontrol merkezi", "büyüme", "gelişme", "üreme", "kalıtsal bilgi"]
+  },
+  "bitki hücresi": {
+    "answer": "Bitki hücreleri, hayvan hücrelerinden farklı olarak hücre duvarı, kloroplast ve büyük koful içerir. Hücre duvarı bitkiye destek sağlar, kloroplast fotosentez yapar, koful ise su ve besin depolar.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 1. Kitap",
+    "page": 104,
+    "unit": "Canlıların Yapısına Yolculuk",
+    "keywords": ["bitki hücresi", "hücre duvarı", "kloroplast", "koful", "fotosentez", "destek", "su depolama"]
+  },
+  "hayvan hücresi": {
+    "answer": "Hayvan hücreleri, bitki hücrelerinden farklı olarak hücre duvarı ve kloroplast içermez. Hayvan hücrelerinde sentrozom bulunur ve kofulleri bitki hücrelerine göre daha küçük ve sayıca fazladır.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 1. Kitap",
+    "page": 104,
+    "unit": "Canlıların Yapısına Yolculuk",
+    "keywords": ["hayvan hücresi", "sentrozom", "koful küçük", "hücre duvarı yok", "kloroplast yok"]
+  },
+  "hücre duvarı": {
+    "answer": "Hücre duvarı, bitki hücrelerinde bulunan ve hücre zarının dışını saran katı yapıdır. Hücre duvarı bitkiye destek sağlar ve hücrenin şeklini korur. Hayvan hücrelerinde hücre duvarı bulunmaz.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 1. Kitap",
+    "page": 104,
+    "unit": "Canlıların Yapısına Yolculuk",
+    "keywords": ["hücre duvarı", "bitki hücresi", "katı yapı", "destek", "şekil koruma"]
+  },
+  "kloroplast": {
+    "answer": "Kloroplast, bitki hücrelerinde bulunan ve fotosentez olayını gerçekleştiren organeldir. Kloroplast sayesinde bitkiler güneş ışığını kullanarak besin üretir. Hayvan hücrelerinde kloroplast bulunmaz.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 1. Kitap",
+    "page": 104,
+    "unit": "Canlıların Yapısına Yolculuk",
+    "keywords": ["kloroplast", "fotosentez", "güneş ışığı", "besin üretimi", "bitki hücresi"]
+  },
+  "koful": {
+    "answer": "Koful, hücre içinde su ve besin maddelerini depolayan keseciklerdir. Bitki hücrelerinde büyük koful bulunur, hayvan hücrelerinde ise küçük ve sayıca fazla koful vardır.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 1. Kitap",
+    "page": 104,
+    "unit": "Canlıların Yapısına Yolculuk",
+    "keywords": ["koful", "su depolama", "besin depolama", "kesecik", "büyük koful", "küçük koful"]
+  },
+  "sentrozom": {
+    "answer": "Sentrozom, hayvan hücrelerinde bulunan ve hücre bölünmesi sırasında önemli rol oynayan organeldir. Bitki hücrelerinde sentrozom bulunmaz.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 1. Kitap",
+    "page": 104,
+    "unit": "Canlıların Yapısına Yolculuk",
+    "keywords": ["sentrozom", "hayvan hücresi", "hücre bölünmesi", "organel"]
+  },
+  "tek hücreli canlılar": {
+    "answer": "Tek hücreli canlılar, vücudu tek bir hücreden oluşan canlılardır. Bu canlılar tüm yaşamsal faaliyetlerini tek hücre ile gerçekleştirir. Bakteri ve amip tek hücreli canlı örnekleridir.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 1. Kitap",
+    "page": 103,
+    "unit": "Canlıların Yapısına Yolculuk",
+    "keywords": ["tek hücreli", "bakteri", "amip", "yaşamsal faaliyet", "tek hücre"]
+  },
+  "çok hücreli canlılar": {
+    "answer": "Çok hücreli canlılar, vücudu birden fazla hücreden oluşan canlılardır. Bu canlılarda hücreler özelleşerek farklı görevler üstlenir. İnsan, bitki ve hayvanlar çok hücreli canlı örnekleridir.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 1. Kitap",
+    "page": 103,
+    "unit": "Canlıların Yapısına Yolculuk",
+    "keywords": ["çok hücreli", "özelleşme", "farklı görev", "insan", "bitki", "hayvan"]
+  },
+  "doku": {
+    "answer": "Aynı işlevi yapan hücreler bir araya gelerek dokuyu oluşturur. Dokular organ, organlar sistem, sistemler ise organizmayı oluşturur. Hücre-Doku-Organ-Sistem-Organizma şeklinde bir hiyerarşi vardır.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 1. Kitap",
+    "page": 115,
+    "unit": "Canlıların Yapısına Yolculuk",
+    "keywords": ["doku", "organ", "sistem", "organizma", "hücre", "hiyerarşi", "aynı işlev"]
+  },
+  "organ": {
+    "answer": "Organlar, aynı işlevi yapan dokuların bir araya gelmesiyle oluşur. Kalp, akciğer, böbrek, karaciğer organ örnekleridir. Organlar belirli görevleri yerine getirir.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 1. Kitap",
+    "page": 115,
+    "unit": "Canlıların Yapısına Yolculuk",
+    "keywords": ["organ", "doku", "kalp", "akciğer", "böbrek", "karaciğer", "görev"]
+  },
+  "sistem": {
+    "answer": "Sistemler, aynı işlevi yapan organların bir araya gelmesiyle oluşur. Solunum sistemi, dolaşım sistemi, sindirim sistemi gibi sistemler vardır. Sistemler organizmadaki yaşamsal faaliyetleri yürütür.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 1. Kitap",
+    "page": 115,
+    "unit": "Canlıların Yapısına Yolculuk",
+    "keywords": ["sistem", "solunum sistemi", "dolaşım sistemi", "sindirim sistemi", "yaşamsal faaliyet"]
+  },
+  "organizma": {
+    "answer": "Organizma, tüm sistemlerin bir araya gelmesiyle oluşan canlı varlıktır. İnsan, hayvan ve bitkiler birer organizmadır. Organizma en karmaşık yaşam düzeyidir.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 1. Kitap",
+    "page": 115,
+    "unit": "Canlıların Yapısına Yolculuk",
+    "keywords": ["organizma", "canlı varlık", "insan", "hayvan", "bitki", "yaşam düzeyi"]
+  },
+  "hiyerarşi": {
+    "answer": "Canlıların organizasyon düzeyi Hücre-Doku-Organ-Sistem-Organizma şeklinde bir hiyerarşi oluşturur. Her düzey bir öncekinden daha karmaşık yapıdadır.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 1. Kitap",
+    "page": 115,
+    "unit": "Canlıların Yapısına Yolculuk",
+    "keywords": ["hiyerarşi", "organizasyon düzeyi", "karmaşık yapı", "düzey"]
+  },
+  "destek sistemi": {
+    "answer": "Destek sistemi iskelet sisteminden oluşur. İskelet sistemi kemik ve kıkırdaklardan meydana gelir. Bu sistem vücudun şeklini korur, iç organları korur ve hareket etmemizi sağlar.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 1. Kitap",
+    "page": 121,
+    "unit": "Canlıların Yapısına Yolculuk",
+    "keywords": ["destek sistemi", "iskelet sistemi", "kemik", "kıkırdak", "koruma", "hareket", "vücut şekli"]
+  },
+  "hareket sistemi": {
+    "answer": "Hareket sistemi kaslardan oluşur. Kaslar kasılıp gevşeyerek vücudumuzun hareket etmesini sağlar. Kaslar kemiklere bağlıdır ve birlikte çalışırlar.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 1. Kitap",
+    "page": 121,
+    "unit": "Canlıların Yapısına Yolculuk",
+    "keywords": ["hareket sistemi", "kas", "kasılma", "gevşeme", "kemik", "hareket", "birlikte çalışma"]
+  },
+  "iskelet sistemi": {
+    "answer": "İskelet sistemi kemik ve kıkırdaklardan oluşur. İskelet sistemi vücudun şeklini korur, iç organları korur, hareket etmemizi sağlar ve kan hücrelerinin üretildiği yer olan kemik iliğini barındırır.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 1. Kitap",
+    "page": 121,
+    "unit": "Canlıların Yapısına Yolculuk",
+    "keywords": ["iskelet sistemi", "kemik", "kıkırdak", "vücut şekli", "organ koruması", "kemik iliği"]
+  },
+  "kemik": {
+    "answer": "Kemikler, iskelet sisteminin temel yapı taşlarıdır. Kemikler sert yapılardır ve vücuda destek sağlar. Kemikler içinde kemik iliği bulunur ve burada kan hücreleri üretilir.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 1. Kitap",
+    "page": 121,
+    "unit": "Canlıların Yapısına Yolculuk",
+    "keywords": ["kemik", "sert yapı", "destek", "kemik iliği", "kan hücresi üretimi"]
+  },
+  "kıkırdak": {
+    "answer": "Kıkırdak, kemikten daha esnek olan destek dokusudur. Kıkırdak eklemlerde bulunan ve hareketleri kolaylaştıran yapıdır. Kulağımızın ve burnumuzun ucunda kıkırdak bulunur.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 1. Kitap",
+    "page": 121,
+    "unit": "Canlıların Yapısına Yolculuk",
+    "keywords": ["kıkırdak", "esnek", "eklem", "hareket kolaylaştırma", "kulak", "burun"]
+  },
+  "kas": {
+    "answer": "Kaslar, hareket sisteminin temel yapılarıdır. Kaslar kasılıp gevşeyerek vücudumuzun hareket etmesini sağlar. Kaslar kemiklere bağlıdır ve birlikte çalışarak hareketi oluştururlar.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 1. Kitap",
+    "page": 121,
+    "unit": "Canlıların Yapısına Yolculuk",
+    "keywords": ["kas", "kasılma", "gevşeme", "hareket", "kemik bağlantısı"]
+  },
+  "kasılma": {
+    "answer": "Kasılma, kasların kısalması hareketidir. Kaslar kasıldığında kemikleri hareket ettirir ve vücut hareketini sağlar. Kasılma isteğimizle kontrol edilebilir.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 1. Kitap",
+    "page": 121,
+    "unit": "Canlıların Yapısına Yolculuk",
+    "keywords": ["kasılma", "kısalma", "kemik hareketi", "kontrol", "isteğimizle"]
+  },
+  "gevşeme": {
+    "answer": "Gevşeme, kasların uzaması hareketidir. Kaslar gevşediğinde kemikler eski konumlarına döner. Kasılma ve gevşeme birlikte çalışarak hareketi oluşturur.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 1. Kitap",
+    "page": 121,
+    "unit": "Canlıların Yapısına Yolculuk",
+    "keywords": ["gevşeme", "uzama", "eski konum", "birlikte çalışma"]
+  },
+  "eklem": {
+    "answer": "Eklemler, kemiklerin birleştiği yerlerdir. Eklemler sayesinde vücudumuz hareket edebilir. Eklemlerde kıkırdak bulunur ve bu yapı hareketleri kolaylaştırır.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 1. Kitap",
+    "page": 122,
+    "unit": "Canlıların Yapısına Yolculuk",
+    "keywords": ["eklem", "kemik birleşimi", "hareket", "kıkırdak", "hareket kolaylaştırma"]
+  },
+  "destek hareket sistemi sağlığı": {
+    "answer": "Destek ve hareket sisteminin sağlığı için düzenli egzersiz yapmak, dengeli beslenme, kalsiyum ve D vitamini almak, doğru duruş sergilemek ve ağır yük kaldırırken dikkat etmek gerekir.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 1. Kitap",
+    "page": 133,
+    "unit": "Canlıların Yapısına Yolculuk",
+    "keywords": ["sistem sağlığı", "egzersiz", "dengeli beslenme", "kalsiyum", "D vitamini", "doğru duruş"]
+  },
+  "kalsiyum": {
+    "answer": "Kalsiyum, kemiklerin sağlıklı olması için gerekli olan önemli bir mineraldir. Süt ve süt ürünleri, yeşil yapraklı sebzeler kalsiyum açısından zengin besinlerdir.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 1. Kitap",
+    "page": 133,
+    "unit": "Canlıların Yapısına Yolculuk",
+    "keywords": ["kalsiyum", "mineral", "kemik sağlığı", "süt", "süt ürünleri", "yeşil sebze"]
+  },
+  "d vitamini": {
+    "answer": "D vitamini, kalsiyumun vücutta kullanılması için gerekli olan vitamindir. Güneş ışığı D vitamini sentezi için önemlidir. D vitamini eksikliği kemik sağlığını olumsuz etkiler.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 1. Kitap",
+    "page": 133,
+    "unit": "Canlıların Yapısına Yolculuk",
+    "keywords": ["D vitamini", "kalsiyum kullanımı", "güneş ışığı", "sentez", "kemik sağlığı"]
+  }
+}

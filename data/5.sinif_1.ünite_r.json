@@ -1,0 +1,205 @@
+{
+  "güneş sistemi": {
+    "answer": "Güneş sistemi, Güneş'in etrafında dönen 8 gezegen, uydular, asteroitler, kuyruklu yıldızlar ve diğer gök cisimlerinden oluşan sistemdir. Gezegenler Güneş'e yakınlıktan uzaklığa göre: Merkür, Venüs, Dünya, Mars, Jüpiter, Satürn, Uranüs ve Neptün'dür.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 1. Kitap",
+    "page": 20,
+    "unit": "Gökyüzündeki Komşularımız ve Biz",
+    "keywords": ["güneş", "gezegen", "merkür", "venüs", "dünya", "mars", "jüpiter", "satürn", "uranüs", "neptün", "uydu", "asteroid"]
+  },
+  "güneş": {
+    "answer": "Güneş, Dünya'nın ısı ve ışık kaynağıdır. Güneş de bir yıldızdır ve milyarlarca yıldız arasından Dünya'ya en yakın olanıdır. Güneş'in geometrik şekli küreye benzer ve katmanlardan oluşur. Güneş, kendi ekseni etrafında saat yönünün tersi yönde döner.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 1. Kitap",
+    "page": 21,
+    "unit": "Gökyüzündeki Komşularımız ve Biz",
+    "keywords": ["güneş", "yıldız", "ışık kaynağı", "ısı kaynağı", "küre", "katman", "dönme"]
+  },
+  "güneş lekeleri": {
+    "answer": "Güneş lekeleri, Güneş'in yüzeyinde görünen koyu renkli bölgelerdir. Güneş'in kendi ekseni etrafında döndüğünü Galileo Galilei, Güneş lekelerini gözlemleyerek ispatlamıştır.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 1. Kitap",
+    "page": 22,
+    "unit": "Gökyüzündeki Komşularımız ve Biz",
+    "keywords": ["güneş lekesi", "galileo galilei", "teleskop", "gözlem"]
+  },
+  "güneş yapısı": {
+    "answer": "Güneş, sıcak gazlardan ve katmanlardan oluşur. Güneş'in geometrik şekli küreye benzer. Dünya'dan çok daha büyüktür ancak Dünya'dan çok uzakta olduğu için küçük görünmektedir.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 1. Kitap",
+    "page": 22,
+    "unit": "Gökyüzündeki Komşularımız ve Biz",
+    "keywords": ["güneş", "katman", "sıcak gaz", "küre", "yapı"]
+  },
+  "ay": {
+    "answer": "Ay, Dünya'nın doğal uydusudur. Ay'ın şekli küreye benzer ve Dünya'ya en yakın gök cismidir. Ay ile Dünya arasındaki mesafe yaklaşık 384.400 kilometredir. Ay, ışık kaynağı değildir ancak Güneş'ten aldığı ışığı yansıtır.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 1. Kitap",
+    "page": 27,
+    "unit": "Gökyüzündeki Komşularımız ve Biz",
+    "keywords": ["ay", "uydu", "küre", "yansıtma", "384400 kilometre"]
+  },
+  "ay yüzeyi": {
+    "answer": "Ay'ın yüzeyinde kaya, taş, kum ve toz bulunur. Koyu renkli görünen bölümler genellikle geniş düzlüklerin bulunduğu alanlardır. Açık renkli görünen bölümler ise genellikle engebeli ve yüksek alanlardır. Ay'da sıcaklık gece -174°C'u, gündüz ise 125°C'u bulabilir.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 1. Kitap",
+    "page": 32,
+    "unit": "Gökyüzündeki Komşularımız ve Biz",
+    "keywords": ["ay yüzeyi", "kaya", "taş", "kum", "toz", "sıcaklık", "düzlük", "engebeli"]
+  },
+  "krater": {
+    "answer": "Ay yüzeyine gök taşlarının düşmesi sonucunda oluşan irili ufaklı çukurlara krater adı verilir. Ay'ın atmosferi yok denecek kadar ince olduğu için gök taşlarının büyük kısmı atmosferi geçip yüzeye düşer.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 1. Kitap",
+    "page": 32,
+    "unit": "Gökyüzündeki Komşularımız ve Biz",
+    "keywords": ["krater", "gök taşı", "çukur", "atmosfer", "düşme"]
+  },
+  "ay atmosferi": {
+    "answer": "Ay'ın atmosferi yok denecek kadar incedir. Bu yüzden Ay'da rüzgâr ve yağış gibi hava olayları gerçekleşmez. Bu sebeple Ay'da araştırma yapan astronotların ayak izleri ve uzay araçlarının tekerlek izleri uzun yıllar boyunca değişmeden kalır.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 1. Kitap",
+    "page": 32,
+    "unit": "Gökyüzündeki Komşularımız ve Biz",
+    "keywords": ["ay", "atmosfer", "hava olayları", "astronot", "ayak izi"]
+  },
+  "ay hareketleri": {
+    "answer": "Ay, dönme ve dolanma hareketleri yapan bir gök cismidir. Ay'ın dönme hareketi ile Dünya etrafındaki dolanma hareketini tamamlama süreleri neredeyse birbirine eşittir. Bu nedenle Dünya'dan bakıldığında Ay'ın hep aynı yüzeyi görünür. Ay'ın dönme ve dolanma hareketleri saatin dönme yönünün tersine gerçekleşir.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 1. Kitap",
+    "page": 33,
+    "unit": "Gökyüzündeki Komşularımız ve Biz",
+    "keywords": ["ay", "dönme", "dolanma", "hareket", "saat yönü tersi"]
+  },
+  "ay evreleri": {
+    "answer": "Ay'ın farklı şekillerde görünmesine Ay'ın evreleri denir. Ay'ın yeni ay, ilk dördün, dolunay ve son dördün olmak üzere dört ana evresi vardır. Hilal ve şişkin ay ise Ay'ın ara evreleridir. Ay'ın evrelerinin tamamlanma süresi yaklaşık 29,5 gündür.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 1. Kitap",
+    "page": 35,
+    "unit": "Gökyüzündeki Komşularımız ve Biz",
+    "keywords": ["ay evreleri", "yeni ay", "ilk dördün", "dolunay", "son dördün", "hilal", "şişkin ay", "29.5 gün"]
+  },
+  "yeni ay": {
+    "answer": "Yeni ay, Ay'ın Güneş ve Dünya arasında olduğu evredir. Bu evrede Ay'ın Dünya tarafındaki yüzeyi ışık almaz ve Dünya'dan görülmez.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 1. Kitap",
+    "page": 38,
+    "unit": "Gökyüzündeki Komşularımız ve Biz",
+    "keywords": ["yeni ay", "evre", "güneş", "dünya", "ışık"]
+  },
+  "ilk dördün": {
+    "answer": "İlk dördün, Dünya'dan bakıldığında Ay'ın 'D' harfi gibi göründüğü evredir. Yeni ay evresinden bir hafta sonra görünür.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 1. Kitap",
+    "page": 38,
+    "unit": "Gökyüzündeki Komşularımız ve Biz",
+    "keywords": ["ilk dördün", "D harfi", "evre", "hafta"]
+  },
+  "dolunay": {
+    "answer": "Dolunay, Dünya'nın Güneş ve Ay arasında olduğu evredir. Ay'ın Dünya'ya bakan yüzeyi tamamen aydınlıktır ve tam daire şeklinde görünür.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 1. Kitap",
+    "page": 38,
+    "unit": "Gökyüzündeki Komşularımız ve Biz",
+    "keywords": ["dolunay", "evre", "aydınlık", "daire", "tam"]
+  },
+  "son dördün": {
+    "answer": "Son dördün, Dünya'dan bakıldığında Ay'ın 'ters D' harfi gibi göründüğü evredir. Dolunay evresinden bir hafta sonra görünür.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 1. Kitap",
+    "page": 38,
+    "unit": "Gökyüzündeki Komşularımız ve Biz",
+    "keywords": ["son dördün", "ters D harfi", "evre", "dolunay"]
+  },
+  "hilal": {
+    "answer": "Hilal, Ay'ın ara evrelerinden biridir. Yeni ay evresinden sonraki evrede Ay 'ters C' harfi gibi görünür, yeni ay evresinden önceki evrede ise 'C' harfi gibi görünür.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 1. Kitap",
+    "page": 38,
+    "unit": "Gökyüzündeki Komşularımız ve Biz",
+    "keywords": ["hilal", "ara evre", "C harfi", "ters C"]
+  },
+  "şişkin ay": {
+    "answer": "Şişkin ay, Ay'ın ara evrelerinden biridir. İlk dördün evresinden dolunay evresine geçerken ve dolunay evresinden son dördün evresine geçerken görülen ara evredir.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 1. Kitap",
+    "page": 38,
+    "unit": "Gökyüzündeki Komşularımız ve Biz",
+    "keywords": ["şişkin ay", "ara evre", "geçiş", "dolunay"]
+  },
+  "uydu": {
+    "answer": "Uydular, gezegenlerin etrafında belirli yörüngelerde hareket eden gök cisimleridir. Ay da Dünya'nın etrafında belirli bir yörüngede hareket eder. Yani Ay, Dünya'nın doğal uydusudur. Dünya'nın Ay'dan başka doğal uydusu yoktur.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 1. Kitap",
+    "page": 31,
+    "unit": "Gökyüzündeki Komşularımız ve Biz",
+    "keywords": ["uydu", "yörünge", "gezegen", "doğal", "hareket"]
+  },
+  "hacim": {
+    "answer": "Maddelerin ve cisimlerin uzayda (boşlukta) kapladıkları yer hacim olarak tanımlanmaktadır. Birimi cm³ (santimetreküp) veya m³'tür (metreküp). Güneş, Dünya'dan hacimsel olarak çok daha büyüktür. Dünya da Ay'dan daha büyük bir gök cismidir.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 1. Kitap",
+    "page": 46,
+    "unit": "Gökyüzündeki Komşularımız ve Biz",
+    "keywords": ["hacim", "uzay", "boşluk", "santimetreküp", "metreküp"]
+  },
+  "dönme hareketi": {
+    "answer": "Güneş, Dünya ve Ay'ın kendi eksenleri etrafında yaptıkları harekete dönme hareketi denir. Bu hareket saatin dönme yönünün tersinedir. Dünya'nın dönme hareketi 24 saatte tamamlanır.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 1. Kitap",
+    "page": 47,
+    "unit": "Gökyüzündeki Komşularımız ve Biz",
+    "keywords": ["dönme", "eksen", "saat yönü tersi", "24 saat"]
+  },
+  "dolanma hareketi": {
+    "answer": "Dünya'nın Güneş etrafında, Ay'ın Dünya etrafında yaptığı harekete dolanma hareketi denir. Dünya'nın Güneş etrafındaki dolanma hareketi yaklaşık 365 gün 6 saatte tamamlanır. Ay'ın Dünya etrafındaki dolanma hareketi yaklaşık 27,3 günde tamamlanır.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 1. Kitap",
+    "page": 47,
+    "unit": "Gökyüzündeki Komşularımız ve Biz",
+    "keywords": ["dolanma", "güneş", "365 gün", "27.3 gün"]
+  },
+  "saat yönü": {
+    "answer": "Güneş, Dünya ve Ay'ın dönme ve dolanma hareketlerinin yönü, saatin dönme yönünden yararlanılarak açıklanır. Bu gök cisimlerinin dönme ve dolanma hareketleri saatin dönme yönünün tersi yönündedir.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 1. Kitap",
+    "page": 47,
+    "unit": "Gökyüzündeki Komşularımız ve Biz",
+    "keywords": ["saat yönü", "hareket yönü", "dönme", "dolanma"]
+  },
+  "terminatör": {
+    "answer": "Ay'ın aydınlık ve karanlık bölgesini ayıran çizgiye Terminatör denir. Bu çizgi Ay'ın evreleri sırasında konumunu değiştirir.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 1. Kitap",
+    "page": 42,
+    "unit": "Gökyüzündeki Komşularımız ve Biz",
+    "keywords": ["terminatör", "aydınlık", "karanlık", "çizgi"]
+  },
+  "süper ay": {
+    "answer": "Ay'ın Dünya'ya yakın olduğu anda, yeni ay ve dolunay evresine denk gelirse Ay daha büyük görünür ve Ay'ın bu görünümüne Süper Ay denir.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 1. Kitap",
+    "page": 42,
+    "unit": "Gökyüzündeki Komşularımız ve Biz",
+    "keywords": ["süper ay", "yakın", "büyük", "dolunay", "yeni ay"]
+  },
+  "galileo galilei": {
+    "answer": "Galileo Galilei, yüzyıllar önce geliştirdiği teleskobuyla Güneş lekelerini gözlemlemiş ve Güneş'in kendi ekseni etrafında saat yönünün tersi yönde döndüğünü kanıtlamıştır.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 1. Kitap",
+    "page": 24,
+    "unit": "Gökyüzündeki Komşularımız ve Biz",
+    "keywords": ["galileo galilei", "teleskop", "güneş lekeleri", "bilim insanı"]
+  },
+  "uluğ bey": {
+    "answer": "Uluğ Bey, matematik ve astronomiye ilgi duyan bir Türk hükümdarıdır. Semerkant'a yaptırdığı rasathane ile gök bilimi alanında çalışmalar yürütmüş ve bir yılın 365 gün 6 saat 10 dakika 8 saniye olduğunu belirlemiştir.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 1. Kitap",
+    "page": 48,
+    "unit": "Gökyüzündeki Komşularımız ve Biz",
+    "keywords": ["uluğ bey", "rasathane", "astronomi", "türk bilim insanı", "semerkant"]
+  },
+  "ali kuşçu": {
+    "answer": "Ali Kuşçu, gezegenlerin Güneş etrafında belirli yörüngelerde hareket ettiği fikrini ortaya atmış ve Ay'ın ilk haritasını çıkarmıştır. Bu çalışmalarından dolayı Ay'ın bir bölgesine 'Ali Kuşçu' adı verilmiştir.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 1. Kitap",
+    "page": 53,
+    "unit": "Gökyüzündeki Komşularımız ve Biz",
+    "keywords": ["ali kuşçu", "ay haritası", "yörünge", "türk bilim insanı"]
+  },
+  "parker uzay aracı": {
+    "answer": "Parker uzay aracı, Güneş'e en çok yaklaşan insan yapımı nesnedir. Bu araç, Güneş'i incelemek için özel olarak yapılmıştır. 2018'de uzaya gönderilen Parker, Güneş'e yaklaşarak Güneş ile ilgili veriler toplamıştır.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 1. Kitap",
+    "page": 24,
+    "unit": "Gökyüzündeki Komşularımız ve Biz",
+    "keywords": ["parker", "uzay aracı", "güneş", "araştırma", "veri"]
+  },
+  "millî uzay programı": {
+    "answer": "Türkiye, uzay alanındaki yeteneklerini ve teknolojik kapasitesini artırmak amacıyla 2021'de Millî Uzay Programı'nı başlatmıştır. Bu program millî imkânlarla geliştirilen uzay aracımızın ilk olarak Ay'ın yörüngesine gönderilmesini kapsamaktadır.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 1. Kitap",
+    "page": 33,
+    "unit": "Gökyüzündeki Komşularımız ve Biz",
+    "keywords": ["millî uzay programı", "türkiye", "uzay aracı", "ay", "teknoloji"]
+  },
+  "türkiye uzay ajansı": {
+    "answer": "Türkiye Uzay Ajansı (TUA), Millî Uzay Programı'nı yürüten kurumdur. Bu program ile birlikte uzay ile ilgili daha birçok alanda başarı sağlanması hedeflenmektedir.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 1. Kitap",
+    "page": 33,
+    "unit": "Gökyüzündeki Komşularımız ve Biz",
+    "keywords": ["türkiye uzay ajansı", "tua", "uzay programı", "başarı"]
+  }
+}
