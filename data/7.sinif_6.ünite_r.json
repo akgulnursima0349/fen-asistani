@@ -1,0 +1,226 @@
+{
+  "üreme": {
+    "answer": "Canlıların kendine benzer yeni bireyler meydana getirmesidir. Neslin devamını sağlar.",
+    "source": "MEB 7. Sınıf Fen Bilimleri Ders Kitabı - 6. Ünite",
+    "page": 182,
+    "unit": "Canlılarda Üreme, Büyüme ve Gelişme",
+    "keywords": ["nesil", "devamlılık", "yavru"]
+  },
+  "eşeyli_üreme": {
+    "answer": "Dişi ve erkek üreme hücrelerinin birleşmesiyle gerçekleşir. Genetik çeşitlilik sağlar.",
+    "source": "MEB 7. Sınıf Fen Bilimleri Ders Kitabı - 6. Ünite",
+    "page": 189,
+    "unit": "Canlılarda Üreme, Büyüme ve Gelişme",
+    "keywords": ["sperm", "yumurta", "zigot", "genetik çeşitlilik"]
+  },
+  "eşeysiz_üreme": {
+    "answer": "Tek bir ata canlıdan yavruların oluşmasıdır. Genetik çeşitlilik olmaz.",
+    "source": "MEB 7. Sınıf Fen Bilimleri Ders Kitabı - 6. Ünite",
+    "page": 187,
+    "unit": "Canlılarda Üreme, Büyüme ve Gelişme",
+    "keywords": ["klon", "genetik kopya", "tek ebeveyn"]
+  },
+  "vejetatif_üreme": {
+    "answer": "Bitkilerin dal, yaprak, kök gibi kısımlarından yeni bitkilerin oluşmasıdır.",
+    "source": "MEB 7. Sınıf Fen Bilimleri Ders Kitabı - 6. Ünite",
+    "page": 187,
+    "unit": "Canlılarda Üreme, Büyüme ve Gelişme",
+    "keywords": ["dal", "yaprak", "köklendirme", "çelik"]
+  },
+  "bölünerek_üreme": {
+    "answer": "Tek hücreli canlıların ikiye bölünerek çoğalmasıdır.",
+    "source": "MEB 7. Sınıf Fen Bilimleri Ders Kitabı - 6. Ünite",
+    "page": 188,
+    "unit": "Canlılarda Üreme, Büyüme ve Gelişme",
+    "keywords": ["amip", "bakteri", "ikiye bölünme"]
+  },
+  "tomurcuklanarak_üreme": {
+    "answer": "Ana canlıdan tomurcuk şeklinde çıkan yavrunun gelişmesiyle olur.",
+    "source": "MEB 7. Sınıf Fen Bilimleri Ders Kitabı - 6. Ünite",
+    "page": 188,
+    "unit": "Canlılarda Üreme, Büyüme ve Gelişme",
+    "keywords": ["hidra", "maya", "tomurcuk"]
+  },
+  "rejenerasyonla_üreme": {
+    "answer": "Vücuttan kopan parçadan yeni bireyin oluşmasıdır.",
+    "source": "MEB 7. Sınıf Fen Bilimleri Ders Kitabı - 6. Ünite",
+    "page": 188,
+    "unit": "Canlılarda Üreme, Büyüme ve Gelişme",
+    "keywords": ["deniz yıldızı", "planarya", "yenilenme"]
+  },
+  "sperm": {
+    "answer": "Erkek üreme hücresidir. Küçük, hareketli ve kamçılıdır.",
+    "source": "MEB 7. Sınıf Fen Bilimleri Ders Kitabı - 6. Ünite",
+    "page": 182,
+    "unit": "Canlılarda Üreme, Büyüme ve Gelişme",
+    "keywords": ["erkek", "kamçı", "hareketli"]
+  },
+  "yumurta": {
+    "answer": "Dişi üreme hücresidir. Büyük, hareketsiz ve besin deposu içerir.",
+    "source": "MEB 7. Sınıf Fen Bilimleri Ders Kitabı - 6. Ünite",
+    "page": 182,
+    "unit": "Canlılarda Üreme, Büyüme ve Gelişme",
+    "keywords": ["dişi", "besin deposu", "büyük hücre"]
+  },
+  "zigot": {
+    "answer": "Sperm ve yumurtanın birleşmesiyle oluşan ilk hücredir.",
+    "source": "MEB 7. Sınıf Fen Bilimleri Ders Kitabı - 6. Ünite",
+    "page": 183,
+    "unit": "Canlılarda Üreme, Büyüme ve Gelişme",
+    "keywords": ["döllenme", "ilk hücre", "2n kromozom"]
+  },
+  "embriyo": {
+    "answer": "Zigotun mitoz bölünmelerle oluşturduğu çok hücreli yapıdır.",
+    "source": "MEB 7. Sınıf Fen Bilimleri Ders Kitabı - 6. Ünite",
+    "page": 183,
+    "unit": "Canlılarda Üreme, Büyüme ve Gelişme",
+    "keywords": ["mitoz", "çok hücreli", "gelişim"]
+  },
+  "fetüs": {
+    "answer": "Embriyonun organları belirginleşmiş halidir.",
+    "source": "MEB 7. Sınıf Fen Bilimleri Ders Kitabı - 6. Ünite",
+    "page": 184,
+    "unit": "Canlılarda Üreme, Büyüme ve Gelişme",
+    "keywords": ["organ", "belirgin", "gebelik"]
+  },
+  "testis": {
+    "answer": "Erkekte sperm üretiminden sorumlu organdır.",
+    "source": "MEB 7. Sınıf Fen Bilimleri Ders Kitabı - 6. Ünite",
+    "page": 183,
+    "unit": "Canlılarda Üreme, Büyüme ve Gelişme",
+    "keywords": ["sperm", "erkek", "üreme organı"]
+  },
+  "yumurtalık": {
+    "answer": "Dişide yumurta üretiminden sorumlu organdır.",
+    "source": "MEB 7. Sınıf Fen Bilimleri Ders Kitabı - 6. Ünite",
+    "page": 182,
+    "unit": "Canlılarda Üreme, Büyüme ve Gelişme",
+    "keywords": ["yumurta", "dişi", "ovaryum"]
+  },
+  "rahim": {
+    "answer": "Embriyonun yerleşip geliştiği dişi üreme organıdır.",
+    "source": "MEB 7. Sınıf Fen Bilimleri Ders Kitabı - 6. Ünite",
+    "page": 182,
+    "unit": "Canlılarda Üreme, Büyüme ve Gelişme",
+    "keywords": ["döl yatağı", "embriyo", "gebelik"]
+  },
+  "polen": {
+    "answer": "Bitkilerin erkek üreme hücresidir. Çiçek tozu olarak bilinir.",
+    "source": "MEB 7. Sınıf Fen Bilimleri Ders Kitabı - 6. Ünite",
+    "page": 190,
+    "unit": "Canlılarda Üreme, Büyüme ve Gelişme",
+    "keywords": ["çiçek tozu", "erkek", "bitki"]
+  },
+  "tozlaşma": {
+    "answer": "Polenin dişi organ tepeciğine taşınması olayıdır.",
+    "source": "MEB 7. Sınıf Fen Bilimleri Ders Kitabı - 6. Ünite",
+    "page": 190,
+    "unit": "Canlılarda Üreme, Büyüme ve Gelişme",
+    "keywords": ["polen", "tepecik", "taşınma"]
+  },
+  "döllenme": {
+    "answer": "Sperm ile yumurtanın birleşmesi olayıdır.",
+    "source": "MEB 7. Sınıf Fen Bilimleri Ders Kitabı - 6. Ünite",
+    "page": 183,
+    "unit": "Canlılarda Üreme, Büyüme ve Gelişme",
+    "keywords": ["birleşme", "sperm", "yumurta"]
+  },
+  "tohum": {
+    "answer": "Bitkilerin neslini devam ettiren yapıdır. Embriyo ve besi dokudan oluşur.",
+    "source": "MEB 7. Sınıf Fen Bilimleri Ders Kitabı - 6. Ünite",
+    "page": 191,
+    "unit": "Canlılarda Üreme, Büyüme ve Gelişme",
+    "keywords": ["embriyo", "besi doku", "kabuk"]
+  },
+  "çimlenme": {
+    "answer": "Tohumun uygun koşullarda fide haline gelmesidir.",
+    "source": "MEB 7. Sınıf Fen Bilimleri Ders Kitabı - 6. Ünite",
+    "page": 193,
+    "unit": "Canlılarda Üreme, Büyüme ve Gelişme",
+    "keywords": ["fide", "su", "sıcaklık", "oksijen"]
+  },
+  "fide": {
+    "answer": "Tohumun çimlenmesiyle oluşan genç bitkidir.",
+    "source": "MEB 7. Sınıf Fen Bilimleri Ders Kitabı - 6. Ünite",
+    "page": 194,
+    "unit": "Canlılarda Üreme, Büyüme ve Gelişme",
+    "keywords": ["genç bitki", "kök", "gövde"]
+  },
+  "başkalaşım": {
+    "answer": "Bazı hayvanların yumurtadan çıktıktan sonra geçirdiği yapısal değişikliklerdir.",
+    "source": "MEB 7. Sınıf Fen Bilimleri Ders Kitabı - 6. Ünite",
+    "page": 194,
+    "unit": "Canlılarda Üreme, Büyüme ve Gelişme",
+    "keywords": ["metamorfoz", "kelebek", "kurbağa"]
+  },
+  "larva": {
+    "answer": "Başkalaşım geçiren hayvanların yumurtadan çıkan erken evresidir.",
+    "source": "MEB 7. Sınıf Fen Bilimleri Ders Kitabı - 6. Ünite",
+    "page": 194,
+    "unit": "Canlılarda Üreme, Büyüme ve Gelişme",
+    "keywords": ["tırtıl", "iribaş", "erken evre"]
+  },
+  "pupa": {
+    "answer": "Larvanın ergin hale geçmek için girdiği hareketsiz evredir.",
+    "source": "MEB 7. Sınıf Fen Bilimleri Ders Kitabı - 6. Ünite",
+    "page": 194,
+    "unit": "Canlılarda Üreme, Büyüme ve Gelişme",
+    "keywords": ["koza", "hareketsiz", "dönüşüm"]
+  },
+  "büyüme": {
+    "answer": "Canlının hacim ve kütlece artış göstermesidir.",
+    "source": "MEB 7. Sınıf Fen Bilimleri Ders Kitabı - 6. Ünite",
+    "page": 195,
+    "unit": "Canlılarda Üreme, Büyüme ve Gelişme",
+    "keywords": ["hacim", "kütle", "artış"]
+  },
+  "gelişme": {
+    "answer": "Canlının yapısal olgunlaşma sürecidir.",
+    "source": "MEB 7. Sınıf Fen Bilimleri Ders Kitabı - 6. Ünite",
+    "page": 195,
+    "unit": "Canlılarda Üreme, Büyüme ve Gelişme",
+    "keywords": ["olgunlaşma", "farklılaşma", "yapısal"]
+  },
+  "iç_döllenme": {
+    "answer": "Döllenmenin dişi vücudu içinde gerçekleşmesidir.",
+    "source": "MEB 7. Sınıf Fen Bilimleri Ders Kitabı - 6. Ünite",
+    "page": 195,
+    "unit": "Canlılarda Üreme, Büyüme ve Gelişme",
+    "keywords": ["vücut içi", "sürüngen", "kuş", "memeli"]
+  },
+  "dış_döllenme": {
+    "answer": "Döllenmenin su gibi dış ortamda gerçekleşmesidir.",
+    "source": "MEB 7. Sınıf Fen Bilimleri Ders Kitabı - 6. Ünite",
+    "page": 195,
+    "unit": "Canlılarda Üreme, Büyüme ve Gelişme",
+    "keywords": ["su", "balık", "kurbağa", "dış ortam"]
+  },
+  "yumurtlayarak_üreme": {
+    "answer": "Yavrunun yumurta içinde gelişip dünyaya gelmesidir.",
+    "source": "MEB 7. Sınıf Fen Bilimleri Ders Kitabı - 6. Ünite",
+    "page": 195,
+    "unit": "Canlılarda Üreme, Büyüme ve Gelişme",
+    "keywords": ["yumurta", "kabuk", "kuş", "sürüngen"]
+  },
+  "doğurarak_üreme": {
+    "answer": "Yavrunun anne vücudunda gelişip doğmasıdır.",
+    "source": "MEB 7. Sınıf Fen Bilimleri Ders Kitabı - 6. Ünite",
+    "page": 195,
+    "unit": "Canlılarda Üreme, Büyüme ve Gelişme",
+    "keywords": ["anne", "vücut", "memeli", "doğum"]
+  },
+  "genetik_çeşitlilik": {
+    "answer": "Eşeyli üreme sonucu oluşan farklı gen kombinasyonlarıdır.",
+    "source": "MEB 7. Sınıf Fen Bilimleri Ders Kitabı - 6. Ünite",
+    "page": 189,
+    "unit": "Canlılarda Üreme, Büyüme ve Gelişme",
+    "keywords": ["farklılık", "gen", "kombinasyon"]
+  },
+  "yaşam_döngüsü": {
+    "answer": "Canlının doğumdan ölüme kadar geçirdiği evreler bütünüdür.",
+    "source": "MEB 7. Sınıf Fen Bilimleri Ders Kitabı - 6. Ünite",
+    "page": 193,
+    "unit": "Canlılarda Üreme, Büyüme ve Gelişme",
+    "keywords": ["evre", "döngü", "doğum", "ölüm"]
+  }
+}

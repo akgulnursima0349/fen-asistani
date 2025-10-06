@@ -1,0 +1,170 @@
+{
+  "uzay araştırmaları": {
+    "answer": "Uzay araştırmaları, Güneş sisteminin ve gezegenlerin araştırılıp incelenmesi, Dünya dışında yaşam olup olmadığının araştırılması, galaksiler, yıldızlar ve diğer uzay cisimlerinin incelenmesi amacıyla yapılır. Bu amaçlarla teleskop, uzay roketi, uzay mekiği, uzay sondası gibi teknolojik araçlar geliştirilir.",
+    "source": "MEB 7. Sınıf Fen Bilimleri Ders Kitabı",
+    "page": 21,
+    "unit": "Güneş Sistemi ve Ötesi",
+    "keywords": ["uzay", "araştırma", "teknoloji", "teleskop", "uzay mekiği", "sonda"]
+  },
+  "yapay uydu": {
+    "answer": "Uzayda kendisinden daha büyük bir gök cisminin çevresinde dolanan ve insanlar tarafından üretilen araçlara yapay uydu denir. Yapay uydular televizyon yayınlarını ve telefon konuşmalarını dünyanın belli yerlerine ulaştırır, hava durumu tahminleri yapar, navigasyon hizmeti sağlar.",
+    "source": "MEB 7. Sınıf Fen Bilimleri Ders Kitabı",
+    "page": 21,
+    "unit": "Güneş Sistemi ve Ötesi",
+    "keywords": ["yapay uydu", "haberleşme", "meteoroloji", "navigasyon", "gözlem"]
+  },
+  "uzay giysileri": {
+    "answer": "Uzay giysileri, uzayda hava olmadığından astronotları yaşamda tutmak için özel tasarlanmış giyeceklerdir. Astronotları uzaydaki parçacıklardan korumak için çok katlı ve dayanıklı malzemeden yapılır. Astronotun oksijen ihtiyacını karşılar, onu uzaydaki çok düşük ve çok yüksek sıcaklıktan korur.",
+    "source": "MEB 7. Sınıf Fen Bilimleri Ders Kitabı",
+    "page": "21-22",
+    "unit": "Güneş Sistemi ve Ötesi",
+    "keywords": ["uzay giysisi", "astronot", "koruma", "oksijen", "sıcaklık"]
+  },
+  "uzay istasyonu": {
+    "answer": "Uzay istasyonu, içinde astronotların yaşayıp araştırma yapabileceği donanıma sahip uzay aracıdır. Uzay istasyonu belli bir yörüngeye yerleştirildikten sonra astronotlar giderek orada araştırmalar ve bilimsel deneyler yaparlar. Uzay istasyonlarında yer çekimi yoktur.",
+    "source": "MEB 7. Sınıf Fen Bilimleri Ders Kitabı",
+    "page": 22,
+    "unit": "Güneş Sistemi ve Ötesi",
+    "keywords": ["uzay istasyonu", "astronot", "araştırma", "yer çekimi", "bilimsel deney"]
+  },
+  "uzay mekiği": {
+    "answer": "Uzay mekiği, uyduları fırlatmak, insanları ve malzemeleri uzay istasyonuna taşımak için tasarlanmış; kısmen yeniden kullanılabilir roketle fırlatılan bir uzay aracıdır. İlk defa 1961 yılında kullanılmaya başlanmıştır. Fırlatılan ilk mekik 'Vostok 1' adı verilen uzay aracıdır.",
+    "source": "MEB 7. Sınıf Fen Bilimleri Ders Kitabı",
+    "page": 22,
+    "unit": "Güneş Sistemi ve Ötesi",
+    "keywords": ["uzay mekiği", "fırlatma", "yeniden kullanılabilir", "vostok 1"]
+  },
+  "uzay sondası": {
+    "answer": "Uzay sondası, dünyadan yönetilen insansız uzay aracıdır. Uzay sondasının çok uzaktaki gezegenlere varması yıllar sürer. Amerikan uzay sondası Voyager ikinci yolculuğuna 1977 yılında başlamış, Güneş sisteminin sonuna ulaşması 37 yıl kadar sürmüştür.",
+    "source": "MEB 7. Sınıf Fen Bilimleri Ders Kitabı",
+    "page": 22,
+    "unit": "Güneş Sistemi ve Ötesi",
+    "keywords": ["uzay sondası", "insansız", "voyager", "güneş sistemi"]
+  },
+  "türkiye uzay uyduları": {
+    "answer": "Türkiye'nin uzaydaki haberleşme uyduları: Türksat 3A, Türksat 4A, Türksat 4B, Türksat 5A ve Türksat 5B'dir. Gözlem ve keşif uyduları ise Göktürk-2, Göktürk-1 ve İmece'dir. Türksat 6A ise Türkiye'nin ilk yerli ve millî uydu projesidir.",
+    "source": "MEB 7. Sınıf Fen Bilimleri Ders Kitabı",
+    "page": 23,
+    "unit": "Güneş Sistemi ve Ötesi",
+    "keywords": ["türksat", "göktürk", "imece", "haberleşme", "gözlem", "yerli uydu"]
+  },
+  "uzay kirliliği": {
+    "answer": "Uzayda böyle insan yapımı gereksiz maddelerin birikmesiyle uzay kirliliği meydana gelir. İşe yaramayan bu cisimler, roket parçaları, görevi biten uydular, yakıt tankları ve uzay aracı artıkları Dünya çevresinde bir çeşit hurda birikimi oluşturur.",
+    "source": "MEB 7. Sınıf Fen Bilimleri Ders Kitabı",
+    "page": 24,
+    "unit": "Güneş Sistemi ve Ötesi",
+    "keywords": ["uzay kirliliği", "roket parçası", "uydu artığı", "hurda"]
+  },
+  "uzay teknolojisinin günlük yaşam katkıları": {
+    "answer": "Uzay teknolojileri günlük yaşamımızda birçok alanda kullanılır: hafif malzemeler (alüminyum folyo), mikroçip, dondurulmuş besinler, dayanıklı gözlük camları, dijital termometreler, kablosuz aletler, GPS navigasyon, su filtreleri, güneş enerji panelleri.",
+    "source": "MEB 7. Sınıf Fen Bilimleri Ders Kitabı",
+    "page": "25-26",
+    "unit": "Güneş Sistemi ve Ötesi",
+    "keywords": ["teknoloji", "mikroçip", "gps", "güneş paneli", "su filtresi"]
+  },
+  "teleskop": {
+    "answer": "İlk teleskobu 1608 yılında Hollandalı Hans Lippershey bulmuş, Galileo Galilei tarafından gökyüzünü incelemek için ilk kez 1609 yılında kullanılmıştır. Isaac Newton da 1668 yılında aynalı teleskobu tasarlamıştır. Teleskopların çeşitleri: optik, radyo, X ışını, ultraviyole, kızılötesi teleskoplardır.",
+    "source": "MEB 7. Sınıf Fen Bilimleri Ders Kitabı",
+    "page": 27,
+    "unit": "Güneş Sistemi ve Ötesi",
+    "keywords": ["teleskop", "galileo", "newton", "optik", "radyo"]
+  },
+  "ışık kirliliği": {
+    "answer": "Işık kirliliği, yanlış yerde, yanlış yönde, yanlış zamanda aşırı ışık kullanılması ya da aydınlatma yapılmasıyla oluşur. Bu durum hem insanları ve karanlıkta aktif olan hayvanları olumsuz etkiler hem de enerji israfına neden olur. Gök cisimlerini incelerken karşılaşılan sorunlardan biridir.",
+    "source": "MEB 7. Sınıf Fen Bilimleri Ders Kitabı",
+    "page": 28,
+    "unit": "Güneş Sistemi ve Ötesi",
+    "keywords": ["ışık kirliliği", "enerji israfı", "gözlem", "aşırı aydınlatma"]
+  },
+  "gözlemevi": {
+    "answer": "Sabit teleskoplar kullanılarak gökyüzüyle ilgili araştırma ve çalışmaların yapıldığı yerlere gözlemevi (rasathane) denir. Gözlemevleri kent merkezlerinden uzağa, ışık kirliliğinden uzak, fay hatlarından uzak, ulaşımı kolay yerlere kurulur.",
+    "source": "MEB 7. Sınıf Fen Bilimleri Ders Kitabı",
+    "page": "28-29",
+    "unit": "Güneş Sistemi ve Ötesi",
+    "keywords": ["gözlemevi", "rasathane", "lokasyon", "teleskop"]
+  },
+  "türk islam gök bilimcileri": {
+    "answer": "Harizmi yıldızlar kataloğu hazırlamış; İbn-i Firnas Güneş, Ay, yıldızların hareketlerini gösteren düzenek hazırlamış; Caca Bey dünyanın ilk gök bilimleri okulunu kurmuş; Uluğ Bey ilk kapsamlı yıldızlar cetvelini hazırlamış; Ali Kuşçu Ay'ın ilk haritasını çıkarmıştır.",
+    "source": "MEB 7. Sınıf Fen Bilimleri Ders Kitabı",
+    "page": 30,
+    "unit": "Güneş Sistemi ve Ötesi",
+    "keywords": ["harizmi", "ibn-i firnas", "caca bey", "uluğ bey", "ali kuşçu"]
+  },
+  "yıldız oluşumu": {
+    "answer": "Uzaydaki bulutsu adı verilen gaz ve toz yığınları, kütle çekim kuvvetinin etkisiyle bir araya gelerek sıkışır. Sıkıştıkça küçük parçalara ayrılarak ısı ve ışık yayan gök cisimlerine dönüşür. Bu değişimlerin başlaması yıldızın doğuşu olarak kabul edilir.",
+    "source": "MEB 7. Sınıf Fen Bilimleri Ders Kitabı",
+    "page": 33,
+    "unit": "Güneş Sistemi ve Ötesi",
+    "keywords": ["yıldız oluşumu", "bulutsu", "gaz", "toz", "kütle çekim"]
+  },
+  "yıldız": {
+    "answer": "Kendiliğinden ısı ve ışık yayan doğal gök cisimleri yıldız olarak adlandırılır. Yıldızlar, merkezlerinde meydana gelen tepkimeler sonucu enerji üreterek çevrelerine ısı ve ışık yayar. Yıldızların renkleri sıcaklıklarına bağlı olarak farklıdır.",
+    "source": "MEB 7. Sınıf Fen Bilimleri Ders Kitabı",
+    "page": 35,
+    "unit": "Güneş Sistemi ve Ötesi",
+    "keywords": ["yıldız", "ısı", "ışık", "tepkime", "enerji", "renk"]
+  },
+  "ışık yılı": {
+    "answer": "Işık yılı ışığın boşlukta bir yılda aldığı yoldur. Işığın boşluktaki hızı yaklaşık olarak saniyede 300.000 kilometredir. 1 ışık yılı yaklaşık 9,5 trilyon kilometre kadardır. Evrendeki uzaklıkları ölçmek için kullanılan birimdir.",
+    "source": "MEB 7. Sınıf Fen Bilimleri Ders Kitabı",
+    "page": 35,
+    "unit": "Güneş Sistemi ve Ötesi",
+    "keywords": ["ışık yılı", "uzaklık birimi", "300000 km/s", "9.5 trilyon km"]
+  },
+  "takımyıldız": {
+    "answer": "Birbirine yakın görünen birden fazla yıldızın oluşturduğu yıldız kümesine takımyıldız denir. Takımyıldızlarını oluşturan yıldızlar birbirinden çok uzaktadır. Burçlar olarak da bilinen takımyıldızların görüntüleri bitkilere, hayvanlara, günlük yaşamda kullanılan eşyalara benzetilir.",
+    "source": "MEB 7. Sınıf Fen Bilimleri Ders Kitabı",
+    "page": 36,
+    "unit": "Güneş Sistemi ve Ötesi",
+    "keywords": ["takımyıldız", "burç", "yıldız kümesi", "büyükayı", "küçükayı"]
+  },
+  "kuyruklu yıldız": {
+    "answer": "Yapısında donmuş hâlde buz, gaz, taş, toz gibi maddeler bulunan gök cisimleridir. Kuyruklu yıldızlar, Güneş çevresinde dolanırken Güneş'e yaklaştıklarında içerdikleri buz eriyince toz ve taş parçaları serbest kalır. Bunlar Güneş'in tersi yönünde bir iz bırakır.",
+    "source": "MEB 7. Sınıf Fen Bilimleri Ders Kitabı",
+    "page": 36,
+    "unit": "Güneş Sistemi ve Ötesi",
+    "keywords": ["kuyruklu yıldız", "buz", "gaz", "taş", "toz", "iz"]
+  },
+  "galaksi": {
+    "answer": "Gök ada da denilen galaksi, kütle çekimi kuvvetiyle birbirine bağlı yıldızlar, yıldızlar arası gazlar, tozlar ve karanlık maddeden oluşan sistemdir. Galaksilerde on milyonla bir trilyon arasında yıldız bulunur. Galaksiler eliptik, sarmal, düzensiz ve çubuklu sarmal şeklinde sınıflandırılır.",
+    "source": "MEB 7. Sınıf Fen Bilimleri Ders Kitabı",
+    "page": 37,
+    "unit": "Güneş Sistemi ve Ötesi",
+    "keywords": ["galaksi", "gök ada", "yıldız", "eliptik", "sarmal", "düzensiz"]
+  },
+  "samanyolu galaksisi": {
+    "answer": "Çevresinde gezegenler ve çeşitli cisimler bulunan Güneş, Samanyolu Galaksisi'ndeki yıldızlardan biridir. Dünya'nın Samanyolu Galaksisi'ndeki konumu: Samanyolu → Orion (Avcı) Bulutsusu → Güneş sistemi → Dünya şeklindedir.",
+    "source": "MEB 7. Sınıf Fen Bilimleri Ders Kitabı",
+    "page": 37,
+    "unit": "Güneş Sistemi ve Ötesi",
+    "keywords": ["samanyolu", "güneş", "orion bulutsusu", "dünya konumu"]
+  },
+  "andromeda galaksisi": {
+    "answer": "Samanyoluna en yakın galaksi, Samanyolu'na 2,5 milyon ışık yılı uzaklıktaki Andromeda adı verilen galaksidir. Andromeda'da bir trilyon kadar yıldız vardır.",
+    "source": "MEB 7. Sınıf Fen Bilimleri Ders Kitabı",
+    "page": 37,
+    "unit": "Güneş Sistemi ve Ötesi",
+    "keywords": ["andromeda", "2.5 milyon ışık yılı", "trilyon yıldız"]
+  },
+  "evren": {
+    "answer": "Evreni, uzaydaki Dünya, gökyüzü, galaksiler ve diğer tüm gök cisimleri oluşturur. Kâinat, cihan, âlem gibi sözcüklerle de ifade edilebilen içinde bulunduğumuz evren, aradaki boşluklarla birlikte gök cisimlerinin tümüdür.",
+    "source": "MEB 7. Sınıf Fen Bilimleri Ders Kitabı",
+    "page": 37,
+    "unit": "Güneş Sistemi ve Ötesi",
+    "keywords": ["evren", "kâinat", "gök cisimleri", "galaksi", "boşluk"]
+  },
+  "büyük patlama": {
+    "answer": "Evrenin oluşumunu açıklamaya çalışan teoriler içinde bilimsel anlayışa en uygun olanı Büyük Patlama ya da Big Bang modelidir. Bu modele göre evrenin yaklaşık 13,8 milyar yıl önce genişlemeye başlamasıyla oluşmuştur.",
+    "source": "MEB 7. Sınıf Fen Bilimleri Ders Kitabı",
+    "page": 37,
+    "unit": "Güneş Sistemi ve Ötesi",
+    "keywords": ["büyük patlama", "big bang", "13.8 milyar yıl", "genişleme"]
+  },
+  "kara delik": {
+    "answer": "Uzayda olağanüstü çekim gücüyle çekim alanına giren her varlığı kendine çekip yok eden, belli bir biçimi olmayan, varsayımsal gök cismi kara delik olarak adlandırılır. Kara delik, ışığı bile çeken çok güçlü çekim gücüne sahiptir.",
+    "source": "MEB 7. Sınıf Fen Bilimleri Ders Kitabı",
+    "page": 33,
+    "unit": "Güneş Sistemi ve Ötesi",
+    "keywords": ["kara delik", "çekim gücü", "ışık", "yok etme"]
+  }
+}
