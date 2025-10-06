@@ -383,6 +383,39 @@
         let currentUnit = 'all';
         let availableUnits = new Set();
         let stats = { classes: 0, units: 0, topics: 0 };
+        
+        // DEMO VERİSİ (JSON dosyaları yüklenene kadar)
+        const DEMO_DATA = {
+            5: {
+                1: {
+                    "güneş sistemi": {
+                        "answer": "Güneş sistemi, Güneş'in etrafında dönen 8 gezegen, uydular, asteroitler, kuyruklu yıldızlar ve diğer gök cisimlerinden oluşan sistemdir. Gezegenler Güneş'e yakınlıktan uzaklığa göre: Merkür, Venüs, Dünya, Mars, Jüpiter, Satürn, Uranüs ve Neptün'dür.",
+                        "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı",
+                        "page": 20,
+                        "unit": "Gökyüzündeki Komşularımız",
+                        "keywords": ["güneş", "gezegen", "merkür", "venüs"]
+                    },
+                    "ay": {
+                        "answer": "Ay, Dünya'nın doğal uydusudur. Ay'ın şekli küreye benzer ve Dünya'ya en yakın gök cismidir. Ay ile Dünya arasındaki mesafe yaklaşık 384.400 kilometredir.",
+                        "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı",
+                        "page": 27,
+                        "unit": "Gökyüzündeki Komşularımız",
+                        "keywords": ["ay", "uydu", "küre"]
+                    }
+                }
+            },
+            6: {
+                1: {
+                    "genleşme": {
+                        "answer": "Isı etkisiyle maddenin hacminin artmasına genleşme denir. Isı alan maddelerde tanecikler arasındaki mesafe artar ve maddenin hacmi büyür.",
+                        "source": "MEB 6. Sınıf Fen Bilgisi Ders Kitabı",
+                        "page": 17,
+                        "unit": "Maddenin Ayırt Edici Özellikleri",
+                        "keywords": ["genleşme", "ısı", "hacim"]
+                    }
+                }
+            }
+        };
 
         async function loadData() {
             try {
@@ -390,32 +423,61 @@
                 const classes = [5, 6, 7, 8];
                 const maxUnits = 10;
                 let loadedFiles = 0;
+                let attemptedFiles = [];
                 
+                // Önce demo veriyi yükle
+                console.log('📦 Demo veri yükleniyor...');
+                fenBilgisiDB = JSON.parse(JSON.stringify(DEMO_DATA));
+                
+                // Proje kök dizinini bul
+                const basePath = window.location.pathname.includes('/fen-asistan') 
+                    ? '/fen-asistan' 
+                    : '';
+                
+                // Gerçek dosyaları yüklemeyi dene
                 for (const cls of classes) {
-                    fenBilgisiDB[cls] = {};
+                    if (!fenBilgisiDB[cls]) fenBilgisiDB[cls] = {};
                     
                     for (let unit = 1; unit <= maxUnits; unit++) {
-                        const possibleNames = [
-                            `./data/${cls}sinif_${unit}.unite_r.json`,
-                            `./data/${cls}sinif_${unit}unite_r.json`,
-                            `./data/${cls}sinif.${unit}.unite_r.json`,
+                        // Eğer demo veride varsa atla
+                        if (fenBilgisiDB[cls][unit]) {
+                            console.log(`✅ Demo veriden yüklendi: ${cls}. Sınıf - ${unit}. Ünite`);
+                            availableUnits.add(unit);
+                            loadedFiles++;
+                            continue;
+                        }
+                        
+                        const possiblePaths = [
+                            // Kullanıcının dosya formatı (nokta ve ü ile)
+                            `${basePath}/data/${cls}.sinif_${unit}.ünite_r.json`,
+                            `data/${cls}.sinif_${unit}.ünite_r.json`,
+                            `./${cls}.sinif_${unit}.ünite_r.json`,
+                            // Alt tire yerine nokta
+                            `${basePath}/data/${cls}.sinif_${unit}.unite_r.json`,
+                            `data/${cls}.sinif_${unit}.unite_r.json`,
+                            // Standart format (noktasız)
+                            `${basePath}/data/${cls}sinif_${unit}.unite_r.json`,
                             `data/${cls}sinif_${unit}.unite_r.json`,
-                            `${cls}sinif_${unit}.unite_r.json`
+                            `./${cls}sinif_${unit}.unite_r.json`
                         ];
                         
-                        for (const fileName of possibleNames) {
+                        for (const filePath of possiblePaths) {
                             try {
-                                const response = await fetch(fileName);
+                                console.log(`🔍 Deneniyor: ${filePath}`);
+                                const response = await fetch(filePath);
+                                
                                 if (response.ok) {
                                     const data = await response.json();
                                     fenBilgisiDB[cls][unit] = data;
                                     availableUnits.add(unit);
                                     loadedFiles++;
-                                    console.log(`✅ Yüklendi: ${cls}. Sınıf - ${unit}. Ünite`);
+                                    console.log(`✅ JSON'dan yüklendi: ${cls}. Sınıf - ${unit}. Ünite`);
                                     break;
+                                } else {
+                                    attemptedFiles.push(`${filePath} (${response.status})`);
                                 }
                             } catch (error) {
-                                // Sessizce devam et
+                                attemptedFiles.push(`${filePath} (${error.message})`);
                             }
                         }
                     }
@@ -428,15 +490,41 @@
                 calculateStats();
                 updateUnitSelector();
                 dataLoaded = true;
-                showWelcomeMessage();
                 
-                console.log(`🎉 Toplam ${loadedFiles} dosya başarıyla yüklendi`);
+                if (loadedFiles === 0) {
+                    console.warn('⚠️ Sadece demo veri kullanılıyor');
+                    showDemoWarning();
+                } else {
+                    console.log(`🎉 Toplam ${loadedFiles} veri yüklendi (demo dahil)`);
+                    showWelcomeMessage();
+                }
                 
             } catch (error) {
                 console.error('❌ Veri yükleme hatası:', error);
+                fenBilgisiDB = JSON.parse(JSON.stringify(DEMO_DATA));
+                calculateStats();
+                updateUnitSelector();
                 dataLoaded = true;
-                showWelcomeMessage();
+                showDemoWarning();
             }
+        }
+        
+        function showDemoWarning() {
+            document.getElementById('resultContainer').innerHTML = `
+                <div class="no-result">
+                    <span class="emoji">⚠️</span>
+                    <strong>Şu anda DEMO verisi ile çalışıyorsunuz!</strong><br><br>
+                    <div style="text-align: left; background: #fff3cd; padding: 15px; border-radius: 10px; color: #856404; font-size: 0.9em; margin-top: 15px;">
+                        <strong>📋 Tam veri için yapmanız gerekenler:</strong><br><br>
+                        1️⃣ GitHub reponuzda <code>data/</code> klasörü oluşturun<br>
+                        2️⃣ JSON dosyalarınızı <code>data/</code> klasörüne yükleyin<br>
+                        3️⃣ Dosya formatı: <code>5sinif_1.unite_r.json</code><br>
+                        4️⃣ Sayfayı yenileyin<br><br>
+                        <strong>💡 Şimdilik demo konuları deneyebilirsiniz:</strong><br>
+                        "güneş sistemi", "ay", "genleşme"
+                    </div>
+                </div>
+            `;
         }
 
         function calculateStats() {
