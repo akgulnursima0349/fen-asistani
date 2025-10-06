@@ -1,0 +1,191 @@
+{
+  "atık": {
+    "answer": "Atık, kullanım süreleri bitmiş, ihtiyaç duyulmayan veya artık kullanılamaz hale gelmiş madde ve malzemelerdir. Günlük yaşamımızda ortaya çıkan plastik şişeler, cam kavanozlar, kağıt parçaları, organik artıklar atık örnekleridir.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 2. Kitap",
+    "page": 138,
+    "unit": "Sürdürülebilir Yaşam ve Geri Dönüşüm",
+    "keywords": ["atık", "kullanım süresi bitmiş", "ihtiyaç duyulmuyor", "plastik şişe", "cam kavanoz", "kağıt", "organik artık"]
+  },
+  "evsel atık": {
+    "answer": "Evsel atıklar, evlerde günlük yaşam faaliyetleri sonucunda ortaya çıkan atıklardır. Mutfak artıkları, ambalaj atıkları, kağıt atıkları, plastik atıklar evsel atık örnekleridir. Bu atıklar doğru şekilde ayrıştırılmalı ve bertaraf edilmelidir.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 2. Kitap",
+    "page": 138,
+    "unit": "Sürdürülebilir Yaşam ve Geri Dönüşüm",
+    "keywords": ["evsel atık", "günlük yaşam", "mutfak artığı", "ambalaj atığı", "kağıt atığı", "plastik atık", "ayrıştırma", "bertaraf"]
+  },
+  "atık sınıflandırması": {
+    "answer": "Atıklar türlerine göre organik atıklar, geri dönüştürülebilir atıklar ve diğer atıklar olarak sınıflandırılır. Bu sınıflandırma geri dönüşüm sürecini kolaylaştırır ve çevreye zarar vermeyen atık yönetimi sağlar.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 2. Kitap",
+    "page": 138,
+    "unit": "Sürdürülebilir Yaşam ve Geri Dönüşüm",
+    "keywords": ["atık sınıflandırması", "organik atık", "geri dönüştürülebilir atık", "diğer atık", "geri dönüşüm süreci", "atık yönetimi"]
+  },
+  "organik atık": {
+    "answer": "Organik atıklar, doğada çözünebilen, canlı kaynaklı atıklardır. Meyve ve sebze kabukları, yemek artıkları, yaprak döküntüleri organik atıklardır. Bu atıklar kompost yapımında kullanılabilir ve toprağa faydalıdır.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 2. Kitap",
+    "page": 138,
+    "unit": "Sürdürülebilir Yaşam ve Geri Dönüşüm",
+    "keywords": ["organik atık", "doğada çözünebilir", "canlı kaynaklı", "meyve kabuğu", "sebze kabuğu", "yemek artığı", "kompost", "toprağa faydalı"]
+  },
+  "geri dönüştürülebilir atık": {
+    "answer": "Geri dönüştürülebilir atıklar, işlenerek yeni ürünler haline getirilebilen atıklardır. Kağıt, karton, cam, metal, plastik geri dönüştürülebilir atıklardır. Bu atıkların ayrı toplanması geri dönüşüm için önemlidir.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 2. Kitap",
+    "page": 138,
+    "unit": "Sürdürülebilir Yaşam ve Geri Dönüşüm",
+    "keywords": ["geri dönüştürülebilir atık", "işlenebilir", "yeni ürün", "kağıt", "karton", "cam", "metal", "plastik", "ayrı toplama"]
+  },
+  "geri dönüşüm": {
+    "answer": "Geri dönüşüm, kullanılmış malzemelerin işlenerek yeni ürünlere dönüştürülmesi sürecidir. Geri dönüşüm doğal kaynakları korur, enerji tasarrufu sağlar ve çevre kirliliğini azaltır. Atıkların değerlendirilmesi için önemli bir yöntemdir.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 2. Kitap",
+    "page": 138,
+    "unit": "Sürdürülebilir Yaşam ve Geri Dönüşüm",
+    "keywords": ["geri dönüşüm", "işleme", "yeni ürün dönüştürme", "doğal kaynak koruma", "enerji tasarrufu", "çevre kirliliği azaltma"]
+  },
+  "atık azaltma": {
+    "answer": "Atık azaltma, kaynağında daha az atık üretme stratejisidir. Gereksiz ambalajları tercih etmeme, uzun ömürlü ürünler kullanma, ihtiyaç kadar satın alma atık azaltma yöntemleridir. En etkili atık yönetimi yöntemidir.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 2. Kitap",
+    "page": 138,
+    "unit": "Sürdürülebilir Yaşam ve Geri Dönüşüm",
+    "keywords": ["atık azaltma", "kaynak azaltma", "gereksiz ambalaj", "uzun ömürlü ürün", "ihtiyaç kadar", "etkili yöntem"]
+  },
+  "yeniden kullanım": {
+    "answer": "Yeniden kullanım, atık haline gelmemiş malzemelerin aynı veya farklı amaçlarla tekrar kullanılmasıdır. Cam kavanozları saklama kabı olarak kullanma, kağıtların arka yüzünü kullanma yeniden kullanım örnekleridir.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 2. Kitap",
+    "page": 138,
+    "unit": "Sürdürülebilir Yaşam ve Geri Dönüşüm",
+    "keywords": ["yeniden kullanım", "tekrar kullanma", "aynı amaç", "farklı amaç", "cam kavanoz", "saklama kabı", "kağıt arka yüz"]
+  },
+  "kompost": {
+    "answer": "Kompost, organik atıkların doğal süreçlerle çürütülerek toprak iyileştiricisi haline getirilmesidir. Meyve sebze kabukları, yaprak döküntüleri kompost yapımında kullanılır. Kompost toprağın verimliliğini artırır.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 2. Kitap",
+    "page": 138,
+    "unit": "Sürdürülebilir Yaşam ve Geri Dönüşüm",
+    "keywords": ["kompost", "organik atık çürütme", "doğal süreç", "toprak iyileştirici", "meyve kabuğu", "yaprak", "toprak verimliliği"]
+  },
+  "ambalaj atığı": {
+    "answer": "Ambalaj atıkları, ürünlerin korunması ve taşınması için kullanılan malzemelerden oluşan atıklardır. Plastik şişe, cam kavanoz, metal kutu, karton kutu ambalaj atığı örnekleridir. Çoğu ambalaj atığı geri dönüştürülebilir.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 2. Kitap",
+    "page": 138,
+    "unit": "Sürdürülebilir Yaşam ve Geri Dönüşüm",
+    "keywords": ["ambalaj atığı", "ürün koruma", "taşıma", "plastik şişe", "cam kavanoz", "metal kutu", "karton kutu", "geri dönüştürülebilir"]
+  },
+  "plastik geri dönüşümü": {
+    "answer": "Plastik atıklar toplanıp temizlendikten sonra eritilerek yeni plastik ürünler üretilir. Pet şişeler tekstil ürünlerine, plastik poşetler çöp torbasına dönüştürülebilir. Plastik geri dönüşümü petrol tasarrufu sağlar.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 2. Kitap",
+    "page": 138,
+    "unit": "Sürdürülebilir Yaşam ve Geri Dönüşüm",
+    "keywords": ["plastik geri dönüşümü", "toplama temizleme", "eritme", "pet şişe", "tekstil", "plastik poşet", "çöp torbası", "petrol tasarrufu"]
+  },
+  "kağıt geri dönüşümü": {
+    "answer": "Kağıt atıklar hamur haline getirilerek yeni kağıt ürünleri üretilir. Gazete, dergi, karton kutular kağıt geri dönüşümünde kullanılır. Kağıt geri dönüşümü ağaçları ve ormanları korur.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 2. Kitap",
+    "page": 138,
+    "unit": "Sürdürülebilir Yaşam ve Geri Dönüşüm",
+    "keywords": ["kağıt geri dönüşümü", "hamur haline getirme", "yeni kağıt", "gazete", "dergi", "karton kutu", "ağaç koruma", "orman koruma"]
+  },
+  "cam geri dönüşümü": {
+    "answer": "Cam atıklar eritilerek yeni cam ürünler üretilir. Cam şişeler, kavanozlar cam geri dönüşümünde kullanılır. Cam sonsuz kez geri dönüştürülebilir ve kalitesini kaybetmez.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 2. Kitap",
+    "page": 138,
+    "unit": "Sürdürülebilir Yaşam ve Geri Dönüşüm",
+    "keywords": ["cam geri dönüşümü", "eritme", "yeni cam ürün", "cam şişe", "kavanoz", "sonsuz geri dönüşüm", "kalite kaybı yok"]
+  },
+  "metal geri dönüşümü": {
+    "answer": "Metal atıklar eritilerek yeni metal ürünler üretilir. Alüminyum kutu, teneke kutu, demir tel metal geri dönüşümünde kullanılır. Metal geri dönüşümü maden kaynaklarını korur ve enerji tasarrufu sağlar.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 2. Kitap",
+    "page": 138,
+    "unit": "Sürdürülebilir Yaşam ve Geri Dönüşüm",
+    "keywords": ["metal geri dönüşümü", "eritme", "yeni metal ürün", "alüminyum kutu", "teneke kutu", "demir tel", "maden kaynağı koruma", "enerji tasarrufu"]
+  },
+  "atık ayrıştırma": {
+    "answer": "Atık ayrıştırma, farklı türdeki atıkların ayrı ayrı toplanmasıdır. Organik atıklar, geri dönüştürülebilir atıklar ve diğer atıklar ayrı konteynerlarda toplanır. Ayrıştırma geri dönüşümün ilk adımıdır.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 2. Kitap",
+    "page": 138,
+    "unit": "Sürdürülebilir Yaşam ve Geri Dönüşüm",
+    "keywords": ["atık ayrıştırma", "ayrı toplama", "farklı tür", "organik atık", "geri dönüştürülebilir", "ayrı konteyner", "geri dönüşüm ilk adım"]
+  },
+  "atık konteynerleri": {
+    "answer": "Atık konteynerleri farklı renklerde olup her renk farklı atık türü için kullanılır. Mavi konteyner kağıt, sarı konteyner plastik-metal, yeşil konteyner cam, kahverengi konteyner organik atıklar için kullanılır.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 2. Kitap",
+    "page": 138,
+    "unit": "Sürdürülebilir Yaşam ve Geri Dönüşüm",
+    "keywords": ["atık konteyneri", "farklı renk", "mavi kağıt", "sarı plastik metal", "yeşil cam", "kahverengi organik"]
+  },
+  "çevre kirliliği": {
+    "answer": "Atıkların doğaya kontrolsüz bırakılması çevre kirliliğine neden olur. Plastik atıklar toprakta ve denizlerde uzun süre bozunmadan kalır. Atık yönetimi çevre kirliliğini önlemenin önemli yoludur.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 2. Kitap",
+    "page": 138,
+    "unit": "Sürdürülebilir Yaşam ve Geri Dönüşüm",
+    "keywords": ["çevre kirliliği", "kontrolsüz bırakma", "plastik atık", "toprak deniz", "uzun süre bozunmama", "atık yönetimi önleme"]
+  },
+  "sürdürülebilir yaşam": {
+    "answer": "Sürdürülebilir yaşam, doğal kaynakları tüketmeden gelecek nesillere aktararak yaşam tarzı sürdürme anlayışıdır. Atık azaltma, geri dönüşüm, enerji tasarrufu sürdürülebilir yaşam için önemlidir.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 2. Kitap",
+    "page": 138,
+    "unit": "Sürdürülebilir Yaşam ve Geri Dönüşüm",
+    "keywords": ["sürdürülebilir yaşam", "doğal kaynak koruma", "gelecek nesil", "yaşam tarzı", "atık azaltma", "enerji tasarrufu"]
+  },
+  "doğal kaynak koruma": {
+    "answer": "Geri dönüşüm doğal kaynakların korunmasına yardımcı olur. Kağıt geri dönüşümü ormanları, metal geri dönüşümü maden yataklarını, plastik geri dönüşümü petrol kaynaklarını korur.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 2. Kitap",
+    "page": 138,
+    "unit": "Sürdürülebilir Yaşam ve Geri Dönüşüm",
+    "keywords": ["doğal kaynak koruma", "geri dönüşüm faydası", "orman koruma", "maden yatağı", "petrol kaynağı"]
+  },
+  "enerji tasarrufu geri dönüşüm": {
+    "answer": "Geri dönüşüm yoluyla ürün üretmek, hammaddeden üretim yapmaktan daha az enerji harcar. Alüminyum kutunun geri dönüşümü yeni kutu üretiminden %95 daha az enerji kullanır.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 2. Kitap",
+    "page": 138,
+    "unit": "Sürdürülebilir Yaşam ve Geri Dönüşüm",
+    "keywords": ["enerji tasarrufu", "geri dönüşüm üretim", "hammadde üretim", "az enerji", "alüminyum kutu", "%95 tasarruf"]
+  },
+  "atık bertarafi": {
+    "answer": "Atık bertarafi, geri dönüştürülemeyen atıkların çevreye zarar vermeyecek şekilde yok edilmesi işlemidir. Düzenli depolama, yakma ve kompostlama atık bertaraf yöntemleridir.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 2. Kitap",
+    "page": 138,
+    "unit": "Sürdürülebilir Yaşam ve Geri Dönüşüm",
+    "keywords": ["atık bertarafı", "geri dönüştürülemeyen", "çevreye zarar vermeme", "düzenli depolama", "yakma", "kompostlama"]
+  },
+  "bireysel sorumluluk": {
+    "answer": "Her birey atık yönetiminde sorumluluk sahibi olmalıdır. Atıkları doğru şekilde ayrıştırmak, gereksiz tüketimi azaltmak, geri dönüştürülebilir ürünleri tercih etmek bireysel sorumluluklardır.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 2. Kitap",
+    "page": 138,
+    "unit": "Sürdürülebilir Yaşam ve Geri Dönüşüm",
+    "keywords": ["bireysel sorumluluk", "atık yönetimi", "doğru ayrıştırma", "gereksiz tüketim azaltma", "geri dönüştürülebilir ürün tercih"]
+  },
+  "çevre bilinci": {
+    "answer": "Çevre bilinci, doğayı ve çevreyi koruma konusunda farkındalık sahibi olmaktır. Atık azaltma, geri dönüşüm, enerji tasarrufu çevre bilincinin göstergesidir. Eğitim çevre bilincini geliştirir.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 2. Kitap",
+    "page": 138,
+    "unit": "Sürdürülebilir Yaşam ve Geri Dönüşüm",
+    "keywords": ["çevre bilinci", "doğa koruma", "farkındalık", "eğitim", "çevre bilinci geliştirme"]
+  },
+  "atık yönetimi": {
+    "answer": "Atık yönetimi, atıkların üretiminden bertarafına kadar tüm süreçlerin planlı yönetilmesidir. Atık azaltma, yeniden kullanım, geri dönüşüm ve güvenli bertaraf atık yönetiminin aşamalarıdır.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 2. Kitap",
+    "page": 138,
+    "unit": "Sürdürülebilir Yaşam ve Geri Dönüşüm",
+    "keywords": ["atık yönetimi", "planlı yönetim", "üretimden bertarafa", "atık azaltma aşama", "yeniden kullanım aşama", "güvenli bertaraf"]
+  },
+  "geri dönüşüm sembolleri": {
+    "answer": "Geri dönüşüm sembolleri, ürünlerin geri dönüştürülebilir olduğunu gösteren işaretlerdir. Üç ok işareti, plastik kodları, cam ve metal sembolleri geri dönüşüm sembollerindendir.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 2. Kitap",
+    "page": 138,
+    "unit": "Sürdürülebilir Yaşam ve Geri Dönüşüm",
+    "keywords": ["geri dönüşüm sembolleri", "üç ok işareti", "plastik kodları", "cam sembolü", "metal sembolü", "geri dönüştürülebilir işaret"]
+  },
+  "ekonomik fayda": {
+    "answer": "Geri dönüşüm ekonomik fayda sağlar. Ham madde maliyetlerini azaltır, yeni iş alanları oluşturur, enerji tasarrufu sağlar. Geri dönüşüm sektörü önemli bir ekonomik faaliyet alanıdır.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 2. Kitap",
+    "page": 138,
+    "unit": "Sürdürülebilir Yaşam ve Geri Dönüşüm",
+    "keywords": ["ekonomik fayda", "ham madde maliyet azaltma", "yeni iş alanı", "geri dönüşüm sektörü", "ekonomik faaliyet"]
+  },
+  "okul atık yönetimi": {
+    "answer": "Okullarda atık yönetimi eğitimin bir parçasıdır. Öğrenciler atık ayrıştırma, geri dönüşüm projeleri yaparak çevre bilinci geliştirir. Okul kantinlerinde tek kullanımlık ürünler yerine çevreci alternatifler tercih edilmelidir.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 2. Kitap",
+    "page": 138,
+    "unit": "Sürdürülebilir Yaşam ve Geri Dönüşüm",
+    "keywords": ["okul atık yönetimi", "eğitim parçası", "öğrenci projesi", "okul kantini", "tek kullanımlık", "çevreci alternatif"]
+  }
+}

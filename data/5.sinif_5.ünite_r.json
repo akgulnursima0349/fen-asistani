@@ -1,0 +1,212 @@
+{
+  "madde": {
+    "answer": "Kütlesi olan ve boşlukta yer kaplayan (hacmi olan) her şey maddedir. Demir, tahta, su, ağaç, masa, elma, bardak, kalem ve defter gibi varlıklar maddeye örnek verilebilir. Bu varlıkların ortak özellikleri kütle ve hacimlerinin olmasıdır.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 2. Kitap",
+    "page": 54,
+    "unit": "Maddenin Doğası",
+    "keywords": ["madde", "kütle", "hacim", "yer kaplama", "demir", "tahta", "su", "ortak özellik"]
+  },
+  "maddenin tanecikli yapısı": {
+    "answer": "Tek bir parçaymış gibi görünen maddeler daha küçük taneciklerden oluşur. Madde tanecikleri arasındaki boşluklar değişkenlik gösterebilir. Maddelerin fiziksel hâli taneciklerin düzenlenişi ve aralarındaki boşluklara göre belirlenir.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 2. Kitap",
+    "page": 55,
+    "unit": "Maddenin Doğası",
+    "keywords": ["tanecikli yapı", "küçük tanecik", "boşluk", "fiziksel hal", "düzenleniş"]
+  },
+  "katı madde": {
+    "answer": "Katı maddelerin tanecikleri birbirine çok yakındır. Tanecikler arası boşluk azdır. Tanecikleri sadece titreşim hareketi yapabilir. Katı maddeler sıkıştırılamaz. Maddenin en düzenli hâlidir. Katı maddelerin belirli bir hacmi ve şekli vardır.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 2. Kitap",
+    "page": 58,
+    "unit": "Maddenin Doğası",
+    "keywords": ["katı madde", "tanecik yakın", "titreşim hareketi", "sıkıştırılamaz", "düzenli", "belirli hacim", "belirli şekil"]
+  },
+  "sıvı madde": {
+    "answer": "Sıvı maddelerin tanecikleri arasındaki boşluk katılara göre daha fazla, gazlara göre daha azdır. Sıvılar sıkıştırılamaz. Sıvı maddelerin tanecikleri titreşim, dönme ve öteleme hareketi yapar. Sıvıların belirli bir hacmi vardır. Belirli bir şekilleri yoktur. İçinde bulunduğu kabın kapladığı kısmının şeklini alır.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 2. Kitap",
+    "page": 58,
+    "unit": "Maddenin Doğası",
+    "keywords": ["sıvı madde", "orta boşluk", "sıkıştırılamaz", "titreşim dönme öteleme", "belirli hacim", "şekil değişken", "kap şekli"]
+  },
+  "gaz madde": {
+    "answer": "Tanecikler arası boşluğun en fazla olduğu madde hâlidir. Gaz maddelerin tanecikleri titreşim, dönme ve öteleme hareketi yapar. Gazların belirli bir hacmi ve şekli yoktur. Bulundukları kabın her tarafına dağılır.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 2. Kitap",
+    "page": 58,
+    "unit": "Maddenin Doğası",
+    "keywords": ["gaz madde", "en fazla boşluk", "titreşim dönme öteleme", "belirli hacim yok", "belirli şekil yok", "kaba dağılır"]
+  },
+  "titreşim hareketi": {
+    "answer": "Katı maddelerin tanecikleri sadece titreşim hareketi yapar. Sıvı ve gaz maddelerin tanecikleri ise titreşim, dönme ve öteleme hareketi yapar. Titreşim hareketi, taneciklerin bulundukları konum etrafında salınım yapmasıdır.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 2. Kitap",
+    "page": 57,
+    "unit": "Maddenin Doğası",
+    "keywords": ["titreşim hareketi", "katı madde", "salınım", "konum etrafında", "tanecik hareketi"]
+  },
+  "dönme hareketi": {
+    "answer": "Sıvı ve gaz maddelerin tanecikleri titreşim, dönme ve öteleme hareketi yapar. Dönme hareketi, taneciklerin kendi ekseni etrafında dönmesidir.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 2. Kitap",
+    "page": 57,
+    "unit": "Maddenin Doğası",
+    "keywords": ["dönme hareketi", "sıvı gaz", "kendi ekseni", "dönme", "tanecik hareketi"]
+  },
+  "öteleme hareketi": {
+    "answer": "Sıvı ve gaz maddelerin tanecikleri titreşim, dönme ve öteleme hareketi yapar. Öteleme hareketi sayesinde sıvı ve gaz maddeler akışkan özelliktedir.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 2. Kitap",
+    "page": 57,
+    "unit": "Maddenin Doğası",
+    "keywords": ["öteleme hareketi", "akışkan", "sıvı gaz", "yer değiştirme", "tanecik hareketi"]
+  },
+  "sıkıştırılabilirlik": {
+    "answer": "Gaz maddelerin tanecikleri arasındaki boşluk çok fazla olduğu için gazlar sıkıştırılabilir. Katılar sıkıştırılamaz. Sıvıların ise sıkıştırılamadığı varsayılır. Maddelerin sıkıştırılabilme durumu taneciklerin birbirine yakınlık durumu ile ilgilidir.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 2. Kitap",
+    "page": 56,
+    "unit": "Maddenin Doğası",
+    "keywords": ["sıkıştırılabilirlik", "gaz sıkıştırılabilir", "katı sıkıştırılamaz", "sıvı sıkıştırılamaz", "tanecik yakınlık"]
+  },
+  "akışkanlık": {
+    "answer": "Öteleme hareketi sayesinde sıvı ve gaz maddeler akışkan özelliktedir. Akışkan maddeler bulundukları kabın şeklini alabilir veya kaba dağılabilir.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 2. Kitap",
+    "page": 57,
+    "unit": "Maddenin Doğası",
+    "keywords": ["akışkanlık", "öteleme hareketi", "sıvı gaz", "kap şekli", "dağılma"]
+  },
+  "democritus": {
+    "answer": "Filozof Democritus MÖ 400'lü yıllarda maddelerin taneciklerden oluştuğunu ileri sürmüştür. Democritus görüşünü şu şekilde açıklamıştır: 'Bir elmayı alıp ikiye bölünüz, sonra oluşan yarım elmaları da ikiye bölünüz, bölme işlemine sürekli devam ediniz. Böylece bölmeyi sürdürürseniz sonunda öyle bir an gelecektir ki artık bölemeyeceğiniz kadar küçük bir parça elde edeceksiniz.'",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 2. Kitap",
+    "page": 57,
+    "unit": "Maddenin Doğası",
+    "keywords": ["democritus", "filozof", "MÖ 400", "tanecik teorisi", "elma örneği", "bölemez parça"]
+  },
+  "ısı": {
+    "answer": "Isı, sıcaklık farkı olan maddeler arasında geçen enerjidir. Isı, sıcak maddeden soğuk maddeye doğru geçer. Isının birimi joule (jul) veya kaloridir.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 2. Kitap",
+    "page": 65,
+    "unit": "Maddenin Doğası",
+    "keywords": ["ısı", "enerji", "sıcaklık farkı", "sıcaktan soğuğa", "joule", "kalori"]
+  },
+  "sıcaklık": {
+    "answer": "Sıcaklık, maddenin ne kadar sıcak veya soğuk olduğunu gösteren fiziksel niceliktir. Sıcaklık termometre ile ölçülür. Sıcaklığın birimi Celsius (°C), Kelvin (K) veya Fahrenheit (°F)'tır.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 2. Kitap",
+    "page": 65,
+    "unit": "Maddenin Doğası",
+    "keywords": ["sıcaklık", "fiziksel nicelik", "sıcak soğuk", "termometre", "celsius", "kelvin", "fahrenheit"]
+  },
+  "ısı sıcaklık farkı": {
+    "answer": "Isı ve sıcaklık birbirinden farklı kavramlardır. Sıcaklık maddenin ne kadar sıcak olduğunu gösterirken, ısı maddeler arasında geçen enerjidir. Sıcaklık termometre ile ölçülür, ısı ise kalorimetre ile ölçülür.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 2. Kitap",
+    "page": 65,
+    "unit": "Maddenin Doğası",
+    "keywords": ["ısı sıcaklık farkı", "farklı kavram", "enerji geçişi", "termometre", "kalorimetre"]
+  },
+  "ısı alışverişi": {
+    "answer": "Sıcaklığı farklı olan maddelerin bir araya gelmesi durumunda ısı alışverişi gerçekleşir. Sıcak madde ısı verirken soğuk madde ısı alır. Bu süreç maddelerin sıcaklıkları eşitlenene kadar devam eder.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 2. Kitap",
+    "page": 70,
+    "unit": "Maddenin Doğası",
+    "keywords": ["ısı alışverişi", "sıcaklık farkı", "ısı verme", "ısı alma", "sıcaklık eşitlenmesi"]
+  },
+  "güneş ısı kaynağı": {
+    "answer": "Güneş doğal ısı ve ışık kaynağıdır. Güneş'ten gelen ısı, Dünya'da belirli bir sıcaklık değerinin oluşmasını sağlar. Güneş, Dünya'nın temel enerji kaynağıdır.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 2. Kitap",
+    "page": 65,
+    "unit": "Maddenin Doğası",
+    "keywords": ["güneş", "doğal ısı kaynağı", "ışık kaynağı", "dünya enerji", "sıcaklık değeri"]
+  },
+  "erime": {
+    "answer": "Katı maddelerin ısı alarak sıvı hale geçmesine erime denir. Erime olayında maddenin sıcaklığı sabit kalır, sadece hâli değişir. Her maddenin belirli bir erime noktası vardır.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 2. Kitap",
+    "page": 75,
+    "unit": "Maddenin Doğası",
+    "keywords": ["erime", "katıdan sıvıya", "ısı alma", "erime noktası", "sıcaklık sabit"]
+  },
+  "donma": {
+    "answer": "Sıvı maddelerin ısı vererek katı hale geçmesine donma denir. Donma olayında maddenin sıcaklığı sabit kalır, sadece hâli değişir. Donma noktası erime noktası ile aynıdır.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 2. Kitap",
+    "page": 75,
+    "unit": "Maddenin Doğası",
+    "keywords": ["donma", "sıvıdan katıya", "ısı verme", "donma noktası", "sıcaklık sabit"]
+  },
+  "buharlaşma": {
+    "answer": "Sıvı maddelerin ısı alarak gaz hale geçmesine buharlaşma denir. Buharlaşma yüzeyden ve belirli sıcaklık değerlerinde gerçekleşir. Buharlaşma hızı sıcaklığa bağlıdır.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 2. Kitap",
+    "page": 75,
+    "unit": "Maddenin Doğası",
+    "keywords": ["buharlaşma", "sıvıdan gaza", "ısı alma", "yüzeyden", "sıcaklığa bağlı"]
+  },
+  "yoğuşma": {
+    "answer": "Gaz maddelerin ısı vererek sıvı hale geçmesine yoğuşma denir. Yoğuşma olayında gaz tanecikleri daha düzenli hale gelir ve aralarındaki boşluk azalır.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 2. Kitap",
+    "page": 75,
+    "unit": "Maddenin Doğası",
+    "keywords": ["yoğuşma", "gazdan sıvıya", "ısı verme", "düzenli hale gelme", "boşluk azalması"]
+  },
+  "kaynama": {
+    "answer": "Sıvı maddelerin belirli sıcaklıkta ısı alarak gaz hale geçmesine kaynama denir. Kaynama noktası maddeye özgüdür ve basınca bağlıdır. Kaynama sırasında sıcaklık sabit kalır.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 2. Kitap",
+    "page": 75,
+    "unit": "Maddenin Doğası",
+    "keywords": ["kaynama", "sıvıdan gaza", "kaynama noktası", "basınca bağlı", "sıcaklık sabit"]
+  },
+  "süblimleşme": {
+    "answer": "Katı maddelerin doğrudan gaz hale geçmesine süblimleşme denir. Bu olayda katı madde sıvı hale geçmeden doğrudan gaz olur. Kuru buz (katı karbondioksit) süblimleşme örneğidir.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 2. Kitap",
+    "page": 75,
+    "unit": "Maddenin Doğası",
+    "keywords": ["süblimleşme", "katıdan gaza", "doğrudan geçiş", "kuru buz", "sıvı hali atlama"]
+  },
+  "kırağılaşma": {
+    "answer": "Gaz maddelerin doğrudan katı hale geçmesine kırağılaşma denir. Bu olayda gaz madde sıvı hale geçmeden doğrudan katı olur. Kırağı oluşumu bu olaya örnektir.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 2. Kitap",
+    "page": 75,
+    "unit": "Maddenin Doğası",
+    "keywords": ["kırağılaşma", "gazdan katıya", "doğrudan geçiş", "kırağı", "sıvı hali atlama"]
+  },
+  "hal değişiminde tanecik hareketleri": {
+    "answer": "Katı hâlden sıvı hâle geçen maddenin tanecikleri titreşim hareketinin yanında dönme ve öteleme hareketi yapmaya başlar. Bu durumda taneciklerin hızı ve tanecikler arasındaki boşluk miktarı artar. Sıvı bir madde gaz hâle geçtiğinde ise taneciklerin yaptığı hareket çeşidi değişmezken taneciklerin hızı ve tanecikler arası mesafe artar.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 2. Kitap",
+    "page": 61,
+    "unit": "Maddenin Doğası",
+    "keywords": ["hal değişimi", "tanecik hareketleri", "hız artışı", "boşluk artışı", "hareket çeşidi"]
+  },
+  "ısı iletimi": {
+    "answer": "Maddelerin ısıyı iletme durumuna ısı iletimi denir. Bazı maddeler ısıyı iyi iletirken bazıları ısıyı az iletir. Metaller genellikle iyi ısı iletkenleridir.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 2. Kitap",
+    "page": 86,
+    "unit": "Maddenin Doğası",
+    "keywords": ["ısı iletimi", "ısı iletkenliği", "metaller", "iyi iletken", "ısı geçişi"]
+  },
+  "ısı iletkenliği": {
+    "answer": "Maddelerin ısıyı iyi iletme özelliğine ısı iletkenliği denir. Metaller (bakır, alüminyum, demir) gibi maddeler iyi ısı iletkenleridir. Bu maddeler ısıyı hızla iletir.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 2. Kitap",
+    "page": 86,
+    "unit": "Maddenin Doğası",
+    "keywords": ["ısı iletkenliği", "iyi iletken", "bakır", "alüminyum", "demir", "hızla iletme"]
+  },
+  "ısı yalıtkanlığı": {
+    "answer": "Maddelerin ısıyı az iletme özelliğine ısı yalıtkanlığı denir. Ahşap, plastik, cam gibi maddeler ısı yalıtkanlığı gösterir. Bu maddeler ısıyı az iletir veya hiç iletmez.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 2. Kitap",
+    "page": 86,
+    "unit": "Maddenin Doğası",
+    "keywords": ["ısı yalıtkanlığı", "az iletken", "ahşap", "plastik", "cam", "az iletme"]
+  },
+  "ısı yalıtımı": {
+    "answer": "Isının geçişini engelleme veya azaltma işlemine ısı yalıtımı denir. Evlerde, termos şişelerde ısı yalıtımı yapılır. Isı yalıtımı enerji tasarrufu sağlar.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 2. Kitap",
+    "page": 86,
+    "unit": "Maddenin Doğası",
+    "keywords": ["ısı yalıtımı", "ısı geçişi engelleme", "termos", "ev yalıtımı", "enerji tasarrufu"]
+  },
+  "termometre": {
+    "answer": "Sıcaklık termometre ile ölçülür. Termometre, maddenin sıcaklık değerini belirlemek için kullanılan ölçü aletidir. Farklı türde termometreler vardır.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 2. Kitap",
+    "page": 65,
+    "unit": "Maddenin Doğası",
+    "keywords": ["termometre", "sıcaklık ölçme", "ölçü aleti", "sıcaklık değeri"]
+  },
+  "madde hal değişimi": {
+    "answer": "Maddeler ısı alıp vererek hâl değiştirebilir. Katı madde ısı alarak sıvı, sıvı madde ısı alarak gaz hâline geçebilir. Tersine, gaz madde ısı vererek sıvı, sıvı madde ısı vererek katı hâline geçebilir.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 2. Kitap",
+    "page": 75,
+    "unit": "Maddenin Doğası",
+    "keywords": ["hal değişimi", "ısı alma", "ısı verme", "katı sıvı gaz", "çift yönlü süreç"]
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "ışığın yayılması": {
+    "answer": "Işık her yöne ve doğrusal olarak yayılır. Işığın izlediği yolun gösteriminde ışın adı verilen çizimler kullanılır. Işık ışınlarıyla ışığın ilerleme yönü gösterilir. Işının ok çizilmeyen ucu ışığın kaynaktan çıkan kısmını, ok çizilen ucu ise ışığın ilerlediği yönü belirtir.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 2. Kitap",
+    "page": 21,
+    "unit": "Işığın Dünyası",
+    "keywords": ["ışık yayılması", "doğrusal", "her yön", "ışın", "ilerleme yönü", "ok"]
+  },
+  "ışık ışını": {
+    "answer": "Işığın izlediği yolun gösteriminde ışın adı verilen çizimler kullanılır. Işık ışınlarıyla ışığın ilerleme yönü gösterilir. Işının ok çizilmeyen ucu ışığın kaynaktan çıkan kısmını, ok çizilen ucu ise ışığın ilerlediği yönü belirtir.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 2. Kitap",
+    "page": 21,
+    "unit": "Işığın Dünyası",
+    "keywords": ["ışık ışını", "çizim", "yol gösterimi", "ilerleme yönü", "ok", "kaynak"]
+  },
+  "doğrusal yayılma": {
+    "answer": "Işık doğrusal olarak yayılır. Bu özellik sayesinde bir anahtar deliğinden, bulutların arasından ve stadyumun çatısındaki ışık kaynaklarından çıkan ışık düz bir çizgi halinde ilerler. Gölge olayının gerçekleşmesi ışığın doğrusal olarak yayıldığının bir kanıtıdır.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 2. Kitap",
+    "page": 21,
+    "unit": "Işığın Dünyası",
+    "keywords": ["doğrusal yayılma", "düz çizgi", "anahtar deliği", "bulut", "gölge kanıtı"]
+  },
+  "saydam madde": {
+    "answer": "Işığı geçiren maddelere saydam maddeler adı verilir. Cam, hava ve su gibi bazı sıvılar saydam maddelerdendir. Saydam maddelerin arkasındaki cisimler net bir şekilde görülür. Örneğin akvaryumun içindeki balıklar net bir şekilde görülür.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 2. Kitap",
+    "page": 27,
+    "unit": "Işığın Dünyası",
+    "keywords": ["saydam madde", "ışık geçiren", "cam", "hava", "su", "net görülür", "akvaryum"]
+  },
+  "yarı saydam madde": {
+    "answer": "Işık ışınlarının bir kısmını geçiren, bir kısmını da geçirmeyen maddelere yarı saydam maddeler adı verilir. Buzlu cam, ince tül, şeffaf dosya ve yağlı kâğıt yarı saydam maddelere örnek olarak verilebilir. Yarı saydam maddelerin arkasındaki cisimler net olarak görülmez.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 2. Kitap",
+    "page": 27,
+    "unit": "Işığın Dünyası",
+    "keywords": ["yarı saydam madde", "kısmen geçiren", "buzlu cam", "tül", "şeffaf dosya", "yağlı kâğıt", "bulanık görülür"]
+  },
+  "saydam olmayan madde": {
+    "answer": "Işığı geçirmeyen maddelere saydam olmayan (opak) maddeler adı verilir. Silgi, kitap, ahşap masa ve tuğla saydam olmayan maddelerdendir. Saydam olmayan maddeler ışık ışınlarını geçirmediği için arkasındaki cisimler görülmez.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 2. Kitap",
+    "page": 31,
+    "unit": "Işığın Dünyası",
+    "keywords": ["saydam olmayan madde", "opak madde", "ışık geçirmeyen", "silgi", "kitap", "ahşap", "tuğla", "görülmez"]
+  },
+  "ışık geçirgenliği": {
+    "answer": "Maddelerin ışığı geçirme durumları farklılık gösterebilir. Bazı maddeler ışığı geçirirken bazıları ışığı geçirmez. Bazı maddeler ise ışığın bir kısmını geçirir. Maddeler ışığı geçirme durumlarına göre; saydam maddeler, yarı saydam maddeler ve saydam olmayan maddeler olarak sınıflandırılır.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 2. Kitap",
+    "page": 27,
+    "unit": "Işığın Dünyası",
+    "keywords": ["ışık geçirgenliği", "sınıflandırma", "saydam", "yarı saydam", "opak", "geçirme durumu"]
+  },
+  "kalınlık etkisi": {
+    "answer": "Saydam ve yarı saydam maddelerin kalınlığı artırıldıkça ışık geçirgenliği azalır, kalınlık azaldıkça ışık geçirgenliği artar. Örneğin sisli havalarda yakınımızdaki nesnelerin görünürlüğü daha fazlayken uzaktaki nesnelerin görünürlüğü daha azdır.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 2. Kitap",
+    "page": 27,
+    "unit": "Işığın Dünyası",
+    "keywords": ["kalınlık etkisi", "ışık geçirgenliği", "sis", "görünürlük", "yakın", "uzak"]
+  },
+  "tam gölge": {
+    "answer": "Işık ışınları opak maddelerden geçemez ve opak maddelerin arkasında karanlık bir bölge oluşur. Oluşan bu bölgeye tam gölge denir. Gölge olayının gerçekleşmesi ışığın doğrusal olarak yayıldığının bir kanıtıdır.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 2. Kitap",
+    "page": 39,
+    "unit": "Işığın Dünyası",
+    "keywords": ["tam gölge", "opak madde", "karanlık bölge", "ışık geçemez", "doğrusal yayılma kanıtı"]
+  },
+  "gölge oluşumu": {
+    "answer": "Işık kaynağından çıkan ışık ışınları opak bir cisim üzerine gönderildiğinde ekran üzerinde gölge oluşur. Gölge oluşumu günlük yaşamımızda sıklıkla gözlemlediğimiz bir olaydır.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 2. Kitap",
+    "page": 39,
+    "unit": "Işığın Dünyası",
+    "keywords": ["gölge oluşumu", "ışık kaynağı", "opak cisim", "ekran", "günlük yaşam"]
+  },
+  "gölge büyüklüğü": {
+    "answer": "Bir cismin gölgesinin büyüklüğü, cismin büyüklüğüne ve ışık kaynağı ile cisim arasındaki uzaklığa bağlıdır. Işık kaynağına aynı mesafede olan iki cisimden boyutu büyük olanın gölgesi de büyük olur.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 2. Kitap",
+    "page": 40,
+    "unit": "Işığın Dünyası",
+    "keywords": ["gölge büyüklüğü", "cisim büyüklüğü", "uzaklık", "ışık kaynağı", "mesafe"]
+  },
+  "cisim uzaklığı etkisi": {
+    "answer": "Işık kaynağının yeri sabit tutulup cisim ışık kaynağına yaklaştırıldığında ve uzaklaştırıldığında cismin gölgesinin büyüklüğü değişir. Cisim, ışık kaynağından uzaklaştıkça gölgesinin boyu küçülür.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 2. Kitap",
+    "page": 41,
+    "unit": "Işığın Dünyası",
+    "keywords": ["cisim uzaklığı", "gölge büyüklüğü", "yaklaştırma", "uzaklaştırma", "gölge boyu"]
+  },
+  "ışık kaynağı uzaklığı": {
+    "answer": "Cismin yeri sabit tutulup ışık kaynağının uzaklığı değiştirilirse cismin gölge büyüklüğü değişir. Işık kaynağı, cisme yaklaştıkça cismin gölgesinin boyu büyür.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 2. Kitap",
+    "page": 42,
+    "unit": "Işığın Dünyası",
+    "keywords": ["ışık kaynağı uzaklığı", "gölge büyüklüğü", "yaklaştırma", "gölge boyu büyür"]
+  },
+  "karanlık oda": {
+    "answer": "Karanlık oda (karanlık kutu olarak da bilinir), fotoğraf makinesinin bilinen ilk ve en basit hâli olarak kabul edilir. Işık sızdırmayacak şekilde kapatılmış bir kutunun bir yüzüne küçük bir delik açılır. Kutunun dışındaki objeden gelen ışık delikten geçer ve deliğin karşısındaki yüzeyin üzerinde objenin baş aşağı dönmüş (ters) görüntüsü oluşur.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 2. Kitap",
+    "page": 18,
+    "unit": "Işığın Dünyası",
+    "keywords": ["karanlık oda", "fotoğraf makinesi", "delik", "ters görüntü", "baş aşağı"]
+  },
+  "mozi": {
+    "answer": "MÖ 470-390 yılları arasında yaşayan Çinli filozof Mozi, karanlık odada kullanılan temel ilkenin bilinen ilk tarifini yapmıştır. Daha sonra başka bilginler Mozi'nin bu görüşünü destekler ancak görüşlerini deneylerle kanıtlayarak uygulamalı olarak gösteremezler.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 2. Kitap",
+    "page": 18,
+    "unit": "Işığın Dünyası",
+    "keywords": ["mozi", "çinli filozof", "karanlık oda ilkesi", "ilk tarif", "MÖ 470-390"]
+  },
+  "ibnülheysem": {
+    "answer": "965-1041 yılları arasında yaşayan İbnülheysem, karanlık oda hakkındaki ilk net tanımlamayı yapan bilim insanıdır. Birkaç ışık kaynağıyla yaptığı deneylerde nesneleri karanlık odada ters bir şekilde görüntülemeyi başarmıştır. Böylece bilinen ilk kamera olan 'karanlık oda'yı (lenssiz kamera) icat eden kişi olarak tarihe geçmiştir.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 2. Kitap",
+    "page": 18,
+    "unit": "Işığın Dünyası",
+    "keywords": ["ibnülheysem", "karanlık oda", "lenssiz kamera", "icat", "965-1041", "ters görüntü"]
+  },
+  "ışığın düz hareket etmesi": {
+    "answer": "İbnülheysem; yaptığı deneylerle ışığın düz bir çizgi şeklinde hareket ettiğini, parlak nesnelerden yayılan ışık demetlerinin küçük delikten geçerken dağılmadığını kanıtlamıştır. Böylece deliğe paralel, düz bir yüzey üzerinde cisme göre baş aşağı (ters) bir görüntü oluşturduğunu açıklamıştır.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 2. Kitap",
+    "page": 18,
+    "unit": "Işığın Dünyası",
+    "keywords": ["düz hareket", "ışık demeti", "dağılmama", "paralel", "ters görüntü"]
+  },
+  "cam tarihi": {
+    "answer": "Bundan yaklaşık 5 bin yıl önce Mısırlılar cam yapmayı öğrenmişler ve camdan boncuk üretmeye başlamışlardır. Cam, Romalılar Dönemi'nde fincan ve tabak gibi eşya yapımında kullanılmaya başlanmıştır. Kırılgan olmakla birlikte neredeyse saydam olan cam, günümüzde yaygın olarak kullanılır.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 2. Kitap",
+    "page": 29,
+    "unit": "Işığın Dünyası",
+    "keywords": ["cam tarihi", "mısırlılar", "romalılar", "boncuk", "fincan", "kırılgan"]
+  },
+  "divriği ulu camii": {
+    "answer": "Sivas'ta bulunan Divriği Ulu Camii ve Darüşşifası'nda iki farklı kapısında belli zamanlarda iki farklı insan silueti oluşmaktadır. Mayıs ve eylül aylarında güneş ışınlarının geliş açısına göre doğu kapısında saat 07.00 sıralarında kadın silueti, batı kapısında ise ikindi vaktinde erkek silueti görülmektedir.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 2. Kitap",
+    "page": 38,
+    "unit": "Işığın Dünyası",
+    "keywords": ["divriği ulu camii", "siluet", "güneş ışınları", "kadın silueti", "erkek silueti", "sivas"]
+  },
+  "ışık kaynakları": {
+    "answer": "Işık kaynakları doğal ve yapay olmak üzere iki türe ayrılır. Güneş doğal ışık kaynağıdır. Mum, ampul, el feneri gibi araçlar yapay ışık kaynaklarıdır. Işık kaynakları aydınlatma teknolojilerinde kullanılır.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 2. Kitap",
+    "page": 16,
+    "unit": "Işığın Dünyası",
+    "keywords": ["ışık kaynakları", "doğal", "yapay", "güneş", "mum", "ampul", "aydınlatma"]
+  },
+  "doğal ışık kaynağı": {
+    "answer": "Güneş doğal ışık kaynağıdır. Yıldızlar da doğal ışık kaynaklarına örnek verilebilir. Doğal ışık kaynakları kendi ışığını üretir ve çevresine ışık yayar.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 2. Kitap",
+    "page": 16,
+    "unit": "Işığın Dünyası",
+    "keywords": ["doğal ışık kaynağı", "güneş", "yıldız", "kendi ışığı", "ışık yaymak"]
+  },
+  "yapay ışık kaynağı": {
+    "answer": "Mum, ampul, el feneri, araba farları gibi araçlar yapay ışık kaynaklarıdır. İnsanlar tarafından üretilen bu kaynaklar aydınlatma amacıyla kullanılır.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 2. Kitap",
+    "page": 16,
+    "unit": "Işığın Dünyası",
+    "keywords": ["yapay ışık kaynağı", "mum", "ampul", "el feneri", "araba farları", "aydınlatma"]
+  },
+  "perde çeşitleri": {
+    "answer": "Evlerde gece, gündüz ve ihtiyaç durumlarına göre farklı perde türleri tek başlarına veya birlikte kullanılır. Camın perdelerini açtığımızda dışarıdaki güzel manzara rahatlıkla görülebilir. Evin içerisinin görünmesini istemediğimiz durumlarda ise tül ya da kalın perdeler tercih ederiz.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 2. Kitap",
+    "page": 30,
+    "unit": "Işığın Dünyası",
+    "keywords": ["perde çeşitleri", "tül perde", "kalın perde", "manzara", "gizlilik"]
+  },
+  "görüntü netligi": {
+    "answer": "Bir maddenin ışık geçirgenlik özelliği, maddenin arkasındaki nesnelerin görünme durumunu etkiler. Camın arkasındaki cisimler net bir şekilde görülebilir. İnce tülün arkasındaki cisimler net bir şekilde görülmez. Duvarın arkasında kalan kısımlar görülmez.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 2. Kitap",
+    "page": 31,
+    "unit": "Işığın Dünyası",
+    "keywords": ["görüntü netligi", "ışık geçirgenlik", "net görme", "bulanık görme", "görülmeme"]
+  },
+  "tangram": {
+    "answer": "Tangram, geometrik şekil parçalarından oluşan bir bulmacadır. Tangram parçalarından farklı figürler oluşturulabilir. Bu figürler ışık kaynağı önüne tutularak gölge oyunları oynanabilir.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 2. Kitap",
+    "page": 35,
+    "unit": "Işığın Dünyası",
+    "keywords": ["tangram", "geometrik şekil", "figür", "gölge oyunu", "bulmaca"]
+  },
+  "gölge oyunu": {
+    "answer": "Işık kaynağı önünde ellerimizle çeşitli figürler oluşturarak gölge oyunları oynanabilir. Oluşturulan figürler ışık sayesinde duvarda gölge oluşturur ve bu gölgelerle oyunlar oynanabilir.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 2. Kitap",
+    "page": 35,
+    "unit": "Işığın Dünyası",
+    "keywords": ["gölge oyunu", "figür", "el", "duvar", "oyun"]
+  },
+  "miletli thales": {
+    "answer": "Thales, MÖ 624'te bugünkü Aydın sınırları içinde yer alan Milet adındaki liman şehrinde doğmuştur. Güneşli bir günde Mısır piramitlerinden birinin gölgesinin bittiği noktaya 2 metrelik bir sopayı dik olarak sabitlemiştir. Daha sonra sopanın, sopanın gölgesinin ve piramidin gölgesinin uzunluğunu kullanarak piramidin yüksekliğini hesaplamıştır.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 2. Kitap",
+    "page": 47,
+    "unit": "Işığın Dünyası",
+    "keywords": ["miletli thales", "piramit", "gölge hesabı", "sopa", "yükseklik", "milet"]
+  },
+  "eratosthenes": {
+    "answer": "İyi bir gözlemci olan Eratosthenes, gölge olayından faydalanarak Dünya'nın çevresini hesaplamıştır. İskenderiye şehrinde Güneş gün içinde en yüksek konumdayken yere dik bir çubuğun gölge boyunu ölçmüş ve gölgeyi oluşturan Güneş ışığı ile çubuk arasındaki açıyı da kullanarak Dünya'nın çevre uzunluğunu hesaplamıştır.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 2. Kitap",
+    "page": 47,
+    "unit": "Işığın Dünyası",
+    "keywords": ["eratosthenes", "dünya çevresi", "gölge ölçümü", "iskenderiye", "çubuk", "açı"]
+  },
+  "christiaan huygens": {
+    "answer": "Huygens, mekanik ve optik alanında önemli çalışmalar yapmış Hollandalı matematikçi ve bilim insanıdır. Huygens, 1665-1695 yıllarında yaptığı çalışmalarla saydam ortamlarda ışığın yayılma şeklini açıklamaya çalışmıştır.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 2. Kitap",
+    "page": 47,
+    "unit": "Işığın Dünyası",
+    "keywords": ["christiaan huygens", "optik", "mekanik", "hollandalı", "saydam ortam", "ışık yayılması"]
+  },
+  "kindi": {
+    "answer": "Yakup bin İshak adıyla da bilinir. Gölge-ışık ilişkisini incelemiş ve bu konuda deneyler yapmıştır. Yaptığı deney ve gözlemlerden hareketle ışınların düz çizgi hâlinde yayıldığını keşfetmiştir.",
+    "source": "MEB 5. Sınıf Fen Bilgisi Ders Kitabı - 2. Kitap",
+    "page": 47,
+    "unit": "Işığın Dünyası",
+    "keywords": ["kindi", "yakup bin ishak", "gölge ışık ilişkisi", "düz çizgi yayılma", "deney"]
+  }
+}
