@@ -1,0 +1,72 @@
+{
+  "periyodik_sistem": {
+    "answer": "Elementlerin benzer özelliklerine göre sınıflandırıldığı çizelgeye periyodik sistem veya periyodik tablo denir. Periyodik tabloda satırlara periyot, sütunlara grup adı verilir. Elementler metal, ametal ve yarımetal olarak sınıflandırılır.",
+    "source": "MEB 8. Sınıf Fen Bilgisi Ders Kitabı - 4. Ünite",
+    "page": 108-115,
+    "unit": "Madde ve Endüstri",
+    "keywords": ["periyot", "grup", "metal", "ametal", "yarımetal", "element"]
+  },
+  "fiziksel_degisim": {
+    "answer": "Maddenin yapısı değişmeden sadece dış görünüşünde meydana gelen değişimlerdir. Kesme, doğrama, erime, buharlaşma gibi olaylar fiziksel değişime örnektir. Yeni madde oluşmaz.",
+    "source": "MEB 8. Sınıf Fen Bilgisi Ders Kitabı - 4. Ünite",
+    "page": 116-122,
+    "unit": "Madde ve Endüstri",
+    "keywords": ["erime", "buharlaşma", "kesme", "özellik değişmez"]
+  },
+  "kimyasal_degisim": {
+    "answer": "Maddenin iç yapısında meydana gelen değişimlerdir. Yanma, paslanma, çürüme, mayalanma gibi olaylar kimyasal değişime örnektir. Yeni madde oluşur.",
+    "source": "MEB 8. Sınıf Fen Bilgisi Ders Kitabı - 4. Ünite",
+    "page": 123-127,
+    "unit": "Madde ve Endüstri",
+    "keywords": ["yanma", "paslanma", "mayalanma", "yeni madde"]
+  },
+  "kimyasal_tepkime": {
+    "answer": "İki veya daha fazla maddenin etkileşerek yeni madde oluşturmasıdır. Kimyasal tepkimelerde atomlar yok olmaz veya yeniden oluşmaz; sadece bağlar değişir. Kütle korunur.",
+    "source": "MEB 8. Sınıf Fen Bilgisi Ders Kitabı - 4. Ünite",
+    "page": 124-126,
+    "unit": "Madde ve Endüstri",
+    "keywords": ["giren", "ürün", "kütlenin korunumu", "denklem"]
+  },
+  "asitler_bazlar": {
+    "answer": "Asitler; sulu çözeltide H+ iyonu verir, ekşi tada sahiptir, turnusol kâğıdını kırmızı yapar. Bazlar; OH- iyonu verir, acı tada sahiptir, ele kayganlık hissi verir, turnusol kâğıdını mavi yapar.",
+    "source": "MEB 8. Sınıf Fen Bilgisi Ders Kitabı - 4. Ünite",
+    "page": 128-132,
+    "unit": "Madde ve Endüstri",
+    "keywords": ["turnusol", "pH", "H+", "OH-", "nötr"]
+  },
+  "ph_degeri": {
+    "answer": "Bir maddenin asitlik veya bazlık derecesini gösteren 0-14 aralığındaki ölçüdür. pH 7 nötr, 7'nin altı asidik, 7'nin üstü baziktir.",
+    "source": "MEB 8. Sınıf Fen Bilgisi Ders Kitabı - 4. Ünite",
+    "page": 132-133,
+    "unit": "Madde ve Endüstri",
+    "keywords": ["asidik", "bazik", "nötr", "ölçek"]
+  },
+  "asit_yagmurlari": {
+    "answer": "Fosil yakıtların yanmasıyla açığa çıkan kükürt dioksit (SO₂) ve azot oksitler (NOₓ) gibi gazların atmosferde su buharı ile birleşerek asit oluşturması ve yağışla yeryüzüne inmesidir. Çevreye, tarihî eserlere ve canlılara zarar verir.",
+    "source": "MEB 8. Sınıf Fen Bilgisi Ders Kitabı - 4. Ünite",
+    "page": 136-138,
+    "unit": "Madde ve Endüstri",
+    "keywords": ["fosil yakıt", "çevre kirliliği", "sülfürik asit", "önlem"]
+  },
+  "oz_isi": {
+    "answer": "Bir maddenin 1 gramının sıcaklığını 1°C değiştirmek için gerekli ısı miktarıdır. Maddenin ayırt edici özelliğidir. Birimi cal/g°C veya J/g°C'dir.",
+    "source": "MEB 8. Sınıf Fen Bilgisi Ders Kitabı - 4. Ünite",
+    "page": 142,
+    "unit": "Madde ve Endüstri",
+    "keywords": ["ısı kapasitesi", "sıcaklık değişimi", "madde cinsi"]
+  },
+  "hal_degisimi": {
+    "answer": "Maddenin katı, sıvı ve gaz hâlleri arasında geçiş yapmasıdır. Erime, donma, buharlaşma, yoğuşma, süblimleşme ve kırağılaşma olarak altı çeşittir. Hal değişimi sırasında sıcaklık sabit kalır.",
+    "source": "MEB 8. Sınıf Fen Bilgisi Ders Kitabı - 4. Ünite",
+    "page": 145-152,
+    "unit": "Madde ve Endüstri",
+    "keywords": ["erime", "donma", "buharlaşma", "yoğuşma", "ısı alışverişi"]
+  },
+  "kimya_endustrisi": {
+    "answer": "Kimya endüstrisi; petrol, ilaç, gübre, plastik, boya, deterjan, kozmetik gibi pek çok sektöre ham madde ve ara ürün sağlar. Türkiye'de TÜPRAŞ, MKE, TÜBİTAK, BOREN gibi kurumlar bu alanda faaliyet gösterir.",
+    "source": "MEB 8. Sınıf Fen Bilgisi Ders Kitabı - 4. Ünite",
+    "page": 154-159,
+    "unit": "Madde ve Endüstri",
+    "keywords": ["ithalat", "ihracat", "AR-GE", "kimyasal ürünler", "meslekler"]
+  }
+}
