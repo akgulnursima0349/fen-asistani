@@ -1,0 +1,219 @@
+{
+  "ışığın yansıması": {
+    "answer": "Işığın yansıması, ışık ışınlarının bir yüzeye çarpıp geri dönmesi olayıdır. Yansıma kanununa göre: geliş açısı yansıma açısına eşittir, geliş ışını, yansıyan ışın ve normal aynı düzlemde bulunur. Düz ve pürüzlü yüzeylerden farklı şekillerde yansır.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 1. Kitap",
+    "page": 136,
+    "unit": "Işığın Yansıması ve Renkler",
+    "keywords": ["yansıma", "geliş açısı", "yansıma açısı", "normal", "yansıma kanunu"]
+  },
+  "yansıma kanunu": {
+    "answer": "Yansıma kanunu iki temel kuraldan oluşur: 1) Geliş açısı yansıma açısına eşittir, 2) Geliş ışını, yansıyan ışın ve yansıma noktasındaki normal aynı düzlemde bulunur. Bu kanun tüm yansıma olayları için geçerlidir.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 1. Kitap",
+    "page": 136,
+    "unit": "Işığın Yansıması ve Renkler",
+    "keywords": ["yansıma kanunu", "geliş açısı", "yansıma açısı", "normal", "düzlem"]
+  },
+  "düzgün yansıma": {
+    "answer": "Düzgün yansıma, düz ve pürüzsüz yüzeylerden meydana gelen yansıma türüdür. Paralel gelen ışınlar paralel olarak yansır. Aynalar, durgun su yüzeyi, cilalı metaller düzgün yansıma yapar. Bu sayede net görüntüler oluşur.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 1. Kitap",
+    "page": 136,
+    "unit": "Işığın Yansıması ve Renkler",
+    "keywords": ["düzgün yansıma", "düz yüzey", "paralel ışın", "ayna", "net görüntü"]
+  },
+  "dağınık yansıma": {
+    "answer": "Dağınık yansıma, pürüzlü ve engebeli yüzeylerden meydana gelen yansıma türüdür. Paralel gelen ışınlar farklı yönlere dağılarak yansır. Kâğıt, duvar, kumaş gibi yüzeyler dağınık yansıma yapar. Bu sayede cisimleri görebiliriz.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 1. Kitap",
+    "page": 136,
+    "unit": "Işığın Yansıması ve Renkler",
+    "keywords": ["dağınık yansıma", "pürüzlü yüzey", "farklı yön", "kâğıt", "cisim görme"]
+  },
+  "geliş açısı": {
+    "answer": "Geliş açısı, yansıma yüzeyine gelen ışının normal ile yaptığı açıdır. Normal, yansıma noktasından yüzeye dik olarak çizilen çizgidir. Geliş açısı yansıma açısına her zaman eşittir.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 1. Kitap",
+    "page": 136,
+    "unit": "Işığın Yansıması ve Renkler",
+    "keywords": ["geliş açısı", "normal", "yansıma noktası", "dik çizgi", "eşitlik"]
+  },
+  "yansıma açısı": {
+    "answer": "Yansıma açısı, yansıma yüzeyinden geri dönen ışının normal ile yaptığı açıdır. Yansıma kanununa göre geliş açısına her zaman eşittir. Bu açı yansımanın temel özelliğini belirler.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 1. Kitap",
+    "page": 136,
+    "unit": "Işığın Yansıması ve Renkler",
+    "keywords": ["yansıma açısı", "geri dönen ışın", "normal", "geliş açısı", "eşitlik"]
+  },
+  "normal": {
+    "answer": "Normal, ışığın yansıma noktasından yüzeye dik olarak çizilen hayali çizgidir. Geliş ve yansıma açıları bu normale göre ölçülür. Normal, yansıma kanununun uygulanmasında referans çizgisi görevi görür.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 1. Kitap",
+    "page": 136,
+    "unit": "Işığın Yansıması ve Renkler",
+    "keywords": ["normal", "dik çizgi", "yansıma noktası", "referans", "hayali çizgi"]
+  },
+  "düz ayna": {
+    "answer": "Düz ayna, düz ve parlak yüzeye sahip yansıtıcı araçtır. Düz aynada oluşan görüntü: sanal, dik, eşit büyüklükte ve ters yönlüdür. Görüntü, ayna ile cisim arasındaki mesafe kadar ayna arkasında oluşur.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 1. Kitap",
+    "page": 153,
+    "unit": "Işığın Yansıması ve Renkler",
+    "keywords": ["düz ayna", "sanal görüntü", "eşit büyüklük", "ters yön", "ayna arkası"]
+  },
+  "çukur ayna": {
+    "answer": "Çukur ayna, iç yüzeyi parlak olan küresel ayna türüdür. Odak noktası vardır ve ışınları toplar. Cismin konumuna göre büyütülmüş, küçültülmüş, gerçek veya sanal görüntüler oluşturabilir. Teleskop, uydu anteni gibi alanlarda kullanılır.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 1. Kitap",
+    "page": 153,
+    "unit": "Işığın Yansıması ve Renkler",
+    "keywords": ["çukur ayna", "küresel", "odak noktası", "ışın toplama", "teleskop"]
+  },
+  "tümsek ayna": {
+    "answer": "Tümsek ayna, dış yüzeyi parlak olan küresel ayna türüdür. Işınları dağıtır ve her zaman küçültülmüş, dik, sanal görüntü oluşturur. Geniş görüş açısı sağlar. Araç dikiz aynası, mağaza güvenlik aynası olarak kullanılır.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 1. Kitap",
+    "page": 153,
+    "unit": "Işığın Yansıması ve Renkler",
+    "keywords": ["tümsek ayna", "dış yüzey", "ışın dağıtma", "küçültülmüş görüntü", "dikiz aynası"]
+  },
+  "sanal görüntü": {
+    "answer": "Sanal görüntü, ışınların geriye uzatılması ile elde edilen, perdeye düşürülemeyen görüntü türüdür. Düz ayna ve tümsek ayna her zaman sanal görüntü oluşturur. Gözle görülebilir ama perdeye yansıtılamaz.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 1. Kitap",
+    "page": 153,
+    "unit": "Işığın Yansıması ve Renkler",
+    "keywords": ["sanal görüntü", "geriye uzatma", "perde düşmez", "gözle görme", "yansıtılamaz"]
+  },
+  "gerçek görüntü": {
+    "answer": "Gerçek görüntü, ışınların kesişmesi ile oluşan, perdeye düşürülebilen görüntü türüdür. Sadece çukur ayna belirli koşullarda gerçek görüntü oluşturur. Fotoğraf makinesi, projeksiyon cihazları gerçek görüntü kullanır.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 1. Kitap",
+    "page": 153,
+    "unit": "Işığın Yansıması ve Renkler",
+    "keywords": ["gerçek görüntü", "ışın kesişimi", "perde düşer", "çukur ayna", "projeksiyon"]
+  },
+  "odak noktası": {
+    "answer": "Odak noktası, çukur aynaya paralel gelen ışınların yansıdıktan sonra toplandığı noktadır. Ana eksende bulunur ve ayna merkezine olan mesafenin yarısı kadardır. Çukur aynanın en önemli özelliklerinden biridir.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 1. Kitap",
+    "page": 153,
+    "unit": "Işığın Yansıması ve Renkler",
+    "keywords": ["odak noktası", "paralel ışın", "ışın toplama", "ana eksen", "ayna merkezi"]
+  },
+  "ışığın soğurulması": {
+    "answer": "Işığın soğurulması, ışığın cisimler tarafından alınması ve ısıya dönüştürülmesi olayıdır. Koyu renkli cisimler daha fazla ışık soğurur ve daha çok ısınır. Açık renkli cisimler ışığı daha az soğurur.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 1. Kitap",
+    "page": 163,
+    "unit": "Işığın Yansıması ve Renkler",
+    "keywords": ["ışık soğurma", "ısıya dönüşüm", "koyu renk", "açık renk", "ısınma"]
+  },
+  "beyaz ışık": {
+    "answer": "Beyaz ışık, tüm renklerin karışımından oluşan ışıktır. Güneş ışığı beyaz ışıktır. Prizma ile beyaz ışık renklerine ayrılabilir: kırmızı, turuncu, sarı, yeşil, mavi, indigo, mor. Bu renklere spektrum denir.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 1. Kitap",
+    "page": 163,
+    "unit": "Işığın Yansıması ve Renkler",
+    "keywords": ["beyaz ışık", "renk karışımı", "güneş ışığı", "prizma", "spektrum"]
+  },
+  "spektrum": {
+    "answer": "Spektrum, beyaz ışığın prizma ile ayrışması sonucu oluşan renk dizisidir. Kırmızı, turuncu, sarı, yeşil, mavi, indigo, mor renklerini içerir. Gökkuşağı doğal bir spektrum örneğidir. Her rengin farklı dalga boyu vardır.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 1. Kitap",
+    "page": 163,
+    "unit": "Işığın Yansıması ve Renkler",
+    "keywords": ["spektrum", "renk dizisi", "prizma ayrışması", "gökkuşağı", "dalga boyu"]
+  },
+  "prizma": {
+    "answer": "Prizma, üçgen kesitli şeffaf cam veya plastik parçasıdır. Beyaz ışığı renklerine ayırabilir. Bu olay ışığın kırılması ile gerçekleşir. Her renk farklı açıda kırıldığı için renkler ayrışır.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 1. Kitap",
+    "page": 163,
+    "unit": "Işığın Yansıması ve Renkler",
+    "keywords": ["prizma", "üçgen kesit", "şeffaf", "ışık kırılması", "renk ayrışması"]
+  },
+  "gökkuşağı": {
+    "answer": "Gökkuşağı, güneş ışığının hava damlacıkları tarafından kırılması ve yansıması sonucu oluşan doğal spektrumdur. Yağmur sonrası veya çağlayan yakınlarında görülür. Kırmızıdan mora doğru renk sıralaması vardır.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 1. Kitap",
+    "page": 163,
+    "unit": "Işığın Yansıması ve Renkler",
+    "keywords": ["gökkuşağı", "hava damlacığı", "ışık kırılması", "doğal spektrum", "yağmur sonrası"]
+  },
+  "renk görme": {
+    "answer": "Renkleri görmemiz, cisimlerin belirli dalga boyundaki ışığı yansıtması ile olur. Kırmızı cisim kırmızı ışığı yansıtır, diğer renkleri soğurur. Siyah cisim tüm renkleri soğurur, beyaz cisim tüm renkleri yansıtır.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 1. Kitap",
+    "page": 163,
+    "unit": "Işığın Yansıması ve Renkler",
+    "keywords": ["renk görme", "dalga boyu", "ışık yansıtma", "siyah soğurma", "beyaz yansıtma"]
+  },
+  "opak cisim": {
+    "answer": "Opak cisimler, ışığı geçirmeyen cisimlerdir. Ahşap, metal, taş gibi maddeler opaktır. Opak cisimler arkalarında gölge oluşturur. Işık bu cisimlerden geçemez, yansır veya soğurulur.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 1. Kitap",
+    "page": 163,
+    "unit": "Işığın Yansıması ve Renkler",
+    "keywords": ["opak", "ışık geçirmez", "ahşap", "metal", "gölge oluşturma"]
+  },
+  "şeffaf cisim": {
+    "answer": "Şeffaf cisimler, ışığı tamamen geçiren cisimlerdir. Cam, su, hava gibi maddeler şeffaftır. Bu cisimler arkalarında gölge oluşturmaz. Işık bu cisimlerden geçerken bükülebilir (kırılır).",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 1. Kitap",
+    "page": 163,
+    "unit": "Işığın Yansıması ve Renkler",
+    "keywords": ["şeffaf", "ışık geçirir", "cam", "su", "gölge yok"]
+  },
+  "yarı şeffaf cisim": {
+    "answer": "Yarı şeffaf cisimler, ışığın bir kısmını geçiren cisimlerdir. Buzlu cam, ince kumaş, kâğıt gibi maddeler yarı şeffaftır. Bu cisimler arkalarında bulanık gölge oluşturur.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 1. Kitap",
+    "page": 163,
+    "unit": "Işığın Yansıması ve Renkler",
+    "keywords": ["yarı şeffaf", "kısmi geçirme", "buzlu cam", "ince kumaş", "bulanık gölge"]
+  },
+  "gölge": {
+    "answer": "Gölge, opak bir cismin ışığın yolunu kesmesi sonucu oluşan karanlık bölgedir. Işık kaynağı, cisim ve gölge aynı doğrultuda bulunur. Gölge boyutu, cismin büyüklüğü ve ışık kaynağına uzaklığına bağlıdır.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 1. Kitap",
+    "page": 163,
+    "unit": "Işığın Yansıması ve Renkler",
+    "keywords": ["gölge", "opak cisim", "karanlık bölge", "ışık kesme", "doğrultu"]
+  },
+  "ayna çeşitleri": {
+    "answer": "Aynalar şekline göre üç ana gruba ayrılır: 1) Düz ayna - düz yüzeyli, 2) Çukur ayna - iç yüzeyi parlak küresel ayna, 3) Tümsek ayna - dış yüzeyi parlak küresel ayna. Her türün farklı görüntü özellikleri vardır.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 1. Kitap",
+    "page": 153,
+    "unit": "Işığın Yansıması ve Renkler",
+    "keywords": ["ayna çeşitleri", "düz ayna", "çukur ayna", "tümsek ayna", "görüntü özellikleri"]
+  },
+  "ışık kirliliği": {
+    "answer": "Işık kirliliği, gereksiz ve yanlış yönlendirilmiş yapay ışıkların çevreye verdiği zarardır. Gece gökyüzünün aydınlatılması, yıldızların görülmesini engeller. Canlıların yaşam döngüsünü bozar. Enerji israfına neden olur.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 1. Kitap",
+    "page": 178,
+    "unit": "Işığın Yansıması ve Renkler",
+    "keywords": ["ışık kirliliği", "yapay ışık", "yıldız görme", "yaşam döngüsü", "enerji israfı"]
+  },
+  "kaleidoskop": {
+    "answer": "Kaleidoskop, aynalar ve renkli objelerle simetrik desenler oluşturan optik cihazdır. İçinde birbirine açı yapan aynalar bulunur. Cisim hareket ettirildiğinde sürekli değişen simetrik desenler oluşur. Işığın yansıma özelliğini kullanır.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 1. Kitap",
+    "page": 153,
+    "unit": "Işığın Yansıması ve Renkler",
+    "keywords": ["kaleidoskop", "ayna", "simetrik desen", "optik cihaz", "yansıma"]
+  },
+  "periskop": {
+    "answer": "Periskop, iki düz ayna kullanarak dolaylı görüş sağlayan optical cihazdır. Aynalar 45 derece açıyla yerleştirilir. Denizaltılar, tanklar gibi araçlarda kullanılır. Işığın yansıma prensibini kullanır.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 1. Kitap",
+    "page": 153,
+    "unit": "Işığın Yansıması ve Renkler",
+    "keywords": ["periskop", "dolaylı görüş", "45 derece", "denizaltı", "tank"]
+  },
+  "ışık ışını": {
+    "answer": "Işık ışını, ışığın gittiği yolu gösteren düz çizgidir. Gerçekte ışık ışını yoktur, sadece ışığın yönünü göstermek için kullanılan geometrik bir kavramdır. Ok işareti ile gösterilir.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 1. Kitap",
+    "page": 136,
+    "unit": "Işığın Yansıması ve Renkler",
+    "keywords": ["ışık ışını", "düz çizgi", "yön gösterme", "geometrik kavram", "ok işareti"]
+  },
+  "ışık demeti": {
+    "answer": "Işık demeti, birlikte hareket eden ışık ışınlarının oluşturduğu gruptur. Paralel demet (paralel ışınlar), yakınsak demet (birleşen ışınlar), ıraksak demet (ayrılan ışınlar) olmak üzere üç türü vardır.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 1. Kitap",
+    "page": 136,
+    "unit": "Işığın Yansıması ve Renkler",
+    "keywords": ["ışık demeti", "ışın grubu", "paralel", "yakınsak", "ıraksak"]
+  },
+  "ana eksen": {
+    "answer": "Ana eksen, küresel aynaların (çukur ve tümsek) simetri eksenidir. Ayna merkezinden geçen ve ayna yüzeyine dik olan doğrudur. Odak noktası ana eksen üzerinde bulunur.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 1. Kitap",
+    "page": 153,
+    "unit": "Işığın Yansıması ve Renkler",
+    "keywords": ["ana eksen", "simetri ekseni", "ayna merkezi", "dik doğru", "odak noktası"]
+  },
+  "ayna merkezi": {
+    "answer": "Ayna merkezi, küresel aynaların ait olduğu kürenin merkezidir. Ana eksen üzerinde bulunur. Çukur ve tümsek aynalarda odak noktası ile ayna arasındaki mesafenin iki katı uzaklıktadır.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 1. Kitap",
+    "page": 153,
+    "unit": "Işığın Yansıması ve Renkler",
+    "keywords": ["ayna merkezi", "küre merkezi", "ana eksen", "iki kat uzaklık", "odak mesafesi"]
+  }
+}

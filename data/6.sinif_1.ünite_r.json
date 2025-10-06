@@ -1,0 +1,191 @@
+{
+  "merkür": {
+    "answer": "Merkür, Güneş'e en yakın gezegendir. Hacim bakımından Güneş sisteminin en küçük gezegenidir. Uydusu ve halkası yoktur. Karasal yapıdadır.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 1. Kitap",
+    "page": 20,
+    "unit": "Güneş Sistemi ve Tutulmalar",
+    "keywords": ["merkür", "en küçük gezegen", "güneş'e en yakın", "karasal", "uydu yok"]
+  },
+  "venüs": {
+    "answer": "Venüs, Güneş'e yakınlık bakımından ikinci sıradadır. Hacim bakımından Güneş sisteminin altıncı büyük gezegenidir. Güneş sisteminin en sıcak gezegenidir. Uydusu ve halkası yoktur. Karasal yapıdadır.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 1. Kitap",
+    "page": 20,
+    "unit": "Güneş Sistemi ve Tutulmalar",
+    "keywords": ["venüs", "en sıcak gezegen", "karasal", "uydu yok", "halka yok"]
+  },
+  "dünya": {
+    "answer": "Dünya, Güneş'e yakınlık bakımından üçüncü, hacim bakımından Güneş sisteminin beşinci büyük gezegenidir. Canlı yaşamının olduğu bilinen tek gezegendir. Uydusu vardır, halkası yoktur. Karasal yapıdadır.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 1. Kitap",
+    "page": 20,
+    "unit": "Güneş Sistemi ve Tutulmalar",
+    "keywords": ["dünya", "canlı yaşam", "karasal", "uydu var", "halka yok"]
+  },
+  "mars": {
+    "answer": "Mars, Güneş'e yakınlık bakımından dördüncü sıradadır. Hacim bakımından Güneş sisteminin yedinci büyük gezegenidir. Görünümünden dolayı 'Kızıl gezegen' olarak da adlandırılır. Uydusu vardır, halkası yoktur. Karasal yapıdadır.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 1. Kitap",
+    "page": 20,
+    "unit": "Güneş Sistemi ve Tutulmalar",
+    "keywords": ["mars", "kızıl gezegen", "karasal", "uydu var", "halka yok"]
+  },
+  "jüpiter": {
+    "answer": "Jüpiter, Güneş'e yakınlık bakımından beşinci sıradadır. Hacim bakımından Güneş sisteminin en büyük gezegenidir. Uydusu ve halkası vardır. Gazsal yapıdadır.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 1. Kitap",
+    "page": 21,
+    "unit": "Güneş Sistemi ve Tutulmalar",
+    "keywords": ["jüpiter", "en büyük gezegen", "gazsal", "uydu var", "halka var"]
+  },
+  "satürn": {
+    "answer": "Satürn, Güneş'e yakınlık bakımından altıncı sıradadır. Hacim bakımından Güneş sisteminin ikinci büyük gezegenidir. Uydusu ve halkası vardır. Halkaları ile bilinen gezegendir. Gazsal yapıdadır.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 1. Kitap",
+    "page": 21,
+    "unit": "Güneş Sistemi ve Tutulmalar",
+    "keywords": ["satürn", "halkalar", "gazsal", "ikinci büyük", "uydu var"]
+  },
+  "uranüs": {
+    "answer": "Uranüs, Güneş'e yakınlık bakımından yedinci sıradadır. Hacim bakımından Güneş sisteminin üçüncü büyük gezegenidir. Uydusu ve halkası vardır. Gazsal yapıdadır.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 1. Kitap",
+    "page": 21,
+    "unit": "Güneş Sistemi ve Tutulmalar",
+    "keywords": ["uranüs", "gazsal", "üçüncü büyük", "uydu var", "halka var"]
+  },
+  "neptün": {
+    "answer": "Neptün, Güneş'e en uzak gezegendir. Hacim bakımından Güneş sisteminin dördüncü büyük gezegenidir. Uydusu ve halkası vardır. Gazsal yapıdadır.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 1. Kitap",
+    "page": 21,
+    "unit": "Güneş Sistemi ve Tutulmalar",
+    "keywords": ["neptün", "en uzak gezegen", "gazsal", "dördüncü büyük", "uydu var"]
+  },
+  "karasal gezegenler": {
+    "answer": "Karasal gezegenler; Merkür, Venüs, Dünya ve Mars gezegenleridir. Bu gezegenler katı yüzeye sahiptir ve daha küçük boyutlardadır. Güneş'e daha yakın konumda bulunurlar.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 1. Kitap",
+    "page": 22,
+    "unit": "Güneş Sistemi ve Tutulmalar",
+    "keywords": ["karasal", "merkür", "venüs", "dünya", "mars", "katı yüzey"]
+  },
+  "gazsal gezegenler": {
+    "answer": "Gazsal gezegenler; Jüpiter, Satürn, Uranüs ve Neptün gezegenleridir. Bu gezegenler gaz ve sıvılardan oluşur, daha büyük boyutlardadır. Güneş'e daha uzak konumda bulunurlar ve hepsinin uydusu ve halkası vardır.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 1. Kitap",
+    "page": 22,
+    "unit": "Güneş Sistemi ve Tutulmalar",
+    "keywords": ["gazsal", "jüpiter", "satürn", "uranüs", "neptün", "gaz", "büyük"]
+  },
+  "asteroit kuşağı": {
+    "answer": "Mars ve Jüpiter gezegenlerinin arasında asteroit kuşağı bulunur. Bu kuşağın içinde çeşitli büyüklük ve şekillerde kaya ve metal parçaları yer alır.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 1. Kitap",
+    "page": 23,
+    "unit": "Güneş Sistemi ve Tutulmalar",
+    "keywords": ["asteroit kuşağı", "mars", "jüpiter", "kaya", "metal parçaları"]
+  },
+  "gök taşı": {
+    "answer": "Güneş sistemindeki çoğunluğu asteroitlerden kopmuş küçük kaya parçalarına gök taşı denir. Dünya atmosferine giren gök taşları meteor, yeryüzüne ulaşan gök taşları ise meteorit olarak isimlendirilir.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 1. Kitap",
+    "page": 23,
+    "unit": "Güneş Sistemi ve Tutulmalar",
+    "keywords": ["gök taşı", "asteroid", "kaya parçası", "meteor", "meteorit"]
+  },
+  "meteor": {
+    "answer": "Dünya atmosferine giren gök taşları meteor olarak isimlendirilir. Meteorlar atmosferde yanarak ışık saçarlar.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 1. Kitap",
+    "page": 23,
+    "unit": "Güneş Sistemi ve Tutulmalar",
+    "keywords": ["meteor", "atmosfer", "gök taşı", "ışık", "yanma"]
+  },
+  "meteorit": {
+    "answer": "Yeryüzüne ulaşan gök taşları meteorit olarak isimlendirilir. Meteoritlerin Dünya yüzeyinde oluşturduğu çukurlara meteor çukuru denir.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 1. Kitap",
+    "page": 23,
+    "unit": "Güneş Sistemi ve Tutulmalar",
+    "keywords": ["meteorit", "yeryüzü", "gök taşı", "meteor çukuru", "çukur"]
+  },
+  "meteor çukuru": {
+    "answer": "Meteoritlerin Dünya yüzeyinde oluşturduğu çukurlara meteor çukuru denir. Meteor çukurlarının büyüklüğü, meteorit büyüklüğüne bağlı olarak değişmektedir. Dünya üzerinde kilometrelerce genişlikte meteor çukurları bulunmaktadır.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 1. Kitap",
+    "page": 25,
+    "unit": "Güneş Sistemi ve Tutulmalar",
+    "keywords": ["meteor çukuru", "meteorit", "dünya yüzeyi", "çukur", "büyüklük"]
+  },
+  "güneş tutulması": {
+    "answer": "Güneş, Ay ve Dünya aynı hizada olduğunda, Güneş ile Dünya'nın arasında Ay varsa Dünya üzerinde bir bölgede Ay'ın gölgesi oluşur. Güneş tutulması sadece bu bölgede gözlemlenir. Güneş tutulması gündüz gözlemlenebilen bir olaydır ve yeni ay evresinde gerçekleşir.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 1. Kitap",
+    "page": 34,
+    "unit": "Güneş Sistemi ve Tutulmalar",
+    "keywords": ["güneş tutulması", "ay gölgesi", "gündüz", "yeni ay evresi", "aynı hiza"]
+  },
+  "ay tutulması": {
+    "answer": "Güneş, Dünya ve Ay aynı hizadayken Güneş ile Ay'ın arasında Dünya yer alıyorsa Ay tutulması gerçekleşir. Ay tutulmasında Ay Dünya'nın gölgesinde kalır. Bu tutulma Ay'ın dolunay evresinde ve gece gözlemlenir. Ay tutulması her dolunay evresinde gerçekleşmez.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 1. Kitap",
+    "page": 34,
+    "unit": "Güneş Sistemi ve Tutulmalar",
+    "keywords": ["ay tutulması", "dünya gölgesi", "gece", "dolunay evresi", "aynı hiza"]
+  },
+  "tam güneş tutulması": {
+    "answer": "29 Mart 2006 tarihinde Türkiye'den 'tam Güneş tutulması' gözlemlendi. Bu tutulma sırasında Ay, Güneş'i tamamen kapatır. Antalya kıyısından yurdumza giren tutulma gölgesi, saatte yaklaşık 3250 km hızla ilerleyerek Ordu ilimize kadar uzanan bir hat üzerinde yoluna devam etti.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 1. Kitap",
+    "page": 36,
+    "unit": "Güneş Sistemi ve Tutulmalar",
+    "keywords": ["tam güneş tutulması", "2006", "türkiye", "antalya", "ordu"]
+  },
+  "biruni": {
+    "answer": "Biruni, Güneş merkezli bir sistemin matematiksel açıdan olanaklı olabileceğini öngörmüştür. Biruni'nin bu öngörüsü, daha sonraki dönemlerde farklı bilimsel model arayışlarını cesaretlendirmesi bakımından önemlidir. Gözlem araçlarında özgün yenilikler yapmış ve yerin büyüklüğünü ölçmek için özgün bir yöntem kullanmıştır.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 1. Kitap",
+    "page": 24,
+    "unit": "Güneş Sistemi ve Tutulmalar",
+    "keywords": ["biruni", "güneş merkezi", "gözlem araçları", "yer büyüklüğü", "türk bilim insanı"]
+  },
+  "bettani": {
+    "answer": "Bettânî, Güneş tutulmasının halka şeklinde olabileceği sonucunu çıkarmış ve Ay ve bazı gezegenlerin yörüngelerinin hesaplanmasında yapılan hataları tespit edip düzeltmiştir. 1 yılın 365 gün 5 saat 46 dakika 24 saniye olduğu bilgisini matematiksel hesaplamaları ve gökyüzü araştırmalarına göre söyleyen bilim insanıdır.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 1. Kitap",
+    "page": 38,
+    "unit": "Güneş Sistemi ve Tutulmalar",
+    "keywords": ["bettani", "halka tutulma", "yörünge hesabı", "yıl uzunluğu", "855-929"]
+  },
+  "takıyyüddin": {
+    "answer": "Takıyyüddin, Osmanlı'da biliminin öncülerinden olan çok yönlü bir bilim insanıdır. İstanbul Gözlemevini kurmuştur. Saati bir gözlem aracı olarak kullanmış ve bu araçlarla Ay'ın safhaları, Güneş'in ekliptikteki yeri, Ay'ın ve Güneş'in birbirlerine göre konumları belirlenebilmekteydi.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 1. Kitap",
+    "page": 38,
+    "unit": "Güneş Sistemi ve Tutulmalar",
+    "keywords": ["takıyyüddin", "istanbul gözlemevi", "saat", "ay safhaları", "1521-1585"]
+  },
+  "zerkale": {
+    "answer": "11. yüzyılda Endülüs'te yaşamış Zerkâle, özellikle astronomi alanındaki katkılarıyla tanınır. Toledo'daki astronomik gözlemleri önemlidir. Bazı gezegenler için eliptik yörünge kavramını ortaya atmış, özellikle Merkür ve Mars yörüngelerinin eliptik olduğunu iddia etmiştir.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 1. Kitap",
+    "page": 38,
+    "unit": "Güneş Sistemi ve Tutulmalar",
+    "keywords": ["zerkale", "eliptik yörünge", "merkür", "mars", "1029-1100"]
+  },
+  "dilhan eryurt": {
+    "answer": "Dilhan Eryurt, NASA'da bir enstütüde çalışan tek kadın astronom olmuştur. Gezegenlerin geçmişinin bilinmesi açısından önemli olan Güneş tarihinin incelenmesi çalışmalarında bulunmuştur. NASA tarafından kendisine Apollo Başarı Ödülü verilmiştir.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 1. Kitap",
+    "page": 38,
+    "unit": "Güneş Sistemi ve Tutulmalar",
+    "keywords": ["dilhan eryurt", "nasa", "güneş tarihi", "apollo ödülü", "1926-2012"]
+  },
+  "fergani": {
+    "answer": "Türk-İslam bilim insanı Fergani, 800'lü yıllarda 'Astronominin Özeti ve Göksel Hareketlerin İlkeleri' kitabında Ay tutulması, Güneş tutulması ve tutulma zamanlarını ele almıştır. Tutulma zamanlarının tespit edilmesine yönelik çalışmalar yapmış ve bazı yöntemler geliştirmiştir.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 1. Kitap",
+    "page": 35,
+    "unit": "Güneş Sistemi ve Tutulmalar",
+    "keywords": ["fergani", "tutulma zamanları", "astronomi özeti", "türk bilim insanı", "800'ler"]
+  },
+  "güneş sistemindeki gezegen sıralaması": {
+    "answer": "Güneş sistemindeki gezegenler Güneş'e yakınlıktan uzaklığa göre sırasıyla: Merkür, Venüs, Dünya, Mars, Jüpiter, Satürn, Uranüs ve Neptün'dür. Toplam 8 gezegen vardır.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 1. Kitap",
+    "page": 19-21,
+    "unit": "Güneş Sistemi ve Tutulmalar",
+    "keywords": ["gezegen sıralaması", "8 gezegen", "güneş'e yakınlık", "merkür", "neptün"]
+  },
+  "gezegenlerin hacimsel büyüklüğü": {
+    "answer": "Güneş sistemindeki gezegenler hacimsel büyüklüklerine göre büyükten küçüğe: Jüpiter (en büyük), Satürn (ikinci büyük), Uranüs (üçüncü büyük), Neptün (dördüncü büyük), Dünya (beşinci büyük), Venüs (altıncı büyük), Mars (yedinci büyük), Merkür (en küçük) şeklinde sıralanır.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 1. Kitap",
+    "page": 20-21,
+    "unit": "Güneş Sistemi ve Tutulmalar",
+    "keywords": ["hacimsel büyüklük", "jüpiter en büyük", "merkür en küçük", "gezegen boyutları"]
+  },
+  "güneş tutulması güvenliği": {
+    "answer": "Güneş tutulmasını doğrudan gözlemlemek göz sağlığını tehlikeye atar. Bu tutulma uygun bir filtreye sahip gözlem araçları ile gözlemlenmelidir. Koruyucu gözlük benzeri bir alet kullanmadan doğrudan gözlemlemek göz sağlığı için tehlike oluşturur.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 1. Kitap",
+    "page": 34,
+    "unit": "Güneş Sistemi ve Tutulmalar",
+    "keywords": ["güneş tutulması", "göz güvenliği", "filtre", "koruyucu gözlük", "tehlike"]
+  }
+}

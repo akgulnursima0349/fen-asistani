@@ -1,0 +1,240 @@
+{
+  "eşeyli üreme": {
+    "answer": "Eşeyli üreme, iki eşeyin (dişi ve erkek) üreme hücrelerinin birleşmesi ile yeni bireylerin oluştuğu üreme türüdür. Bu üreme türünde ana ve babadan gelen genler karışır, bu nedenle yavru ana-babaya benzer ancak tamamen aynı değildir. Genetik çeşitlilik sağlar.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 1. Kitap",
+    "page": 83,
+    "unit": "Canlılarda Sistemler",
+    "keywords": ["eşeyli üreme", "dişi", "erkek", "üreme hücresi", "genetik çeşitlilik"]
+  },
+  "eşeysiz üreme": {
+    "answer": "Eşeysiz üreme, tek bir eşeyin kendi başına yeni bireyler oluşturabildiği üreme türüdür. Bu üreme türünde oluşan yavrular ana ile genetik olarak aynıdır. Hızlı çoğalma sağlar ancak genetik çeşitlilik oluşturmaz. Bakteriler, mantarlar ve bazı bitkiler eşeysiz ürer.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 1. Kitap",
+    "page": 83,
+    "unit": "Canlılarda Sistemler",
+    "keywords": ["eşeysiz üreme", "tek eşey", "genetik aynı", "hızlı çoğalma", "bakteri"]
+  },
+  "bitkilerde üreme": {
+    "answer": "Bitkiler hem eşeyli hem de eşeysiz üreme yapabilirler. Eşeyli üremede polen ve yumurta hücresi birleşir. Eşeysiz üremede ise kökleme, soğan, yumru gibi yollarla çoğalırlar. Çiçekli bitkiler genellikle eşeyli, çiçeksiz bitkiler ise çoğunlukla eşeysiz üreme yapar.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 1. Kitap",
+    "page": 87,
+    "unit": "Canlılarda Sistemler",
+    "keywords": ["bitkiler", "polen", "yumurta hücresi", "kökleme", "soğan"]
+  },
+  "bitkilerde büyüme ve gelişme": {
+    "answer": "Bitkilerde büyüme ve gelişme sürekli devam eden bir süreçtir. Bitkiler yaşamları boyunca büyümeye devam ederler. Büyüme uç kısımlarda gerçekleşir. Gelişme sırasında yaprak, gövde, kök gibi organlar farklılaşır ve işlevlerini kazanır.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 1. Kitap",
+    "page": 87,
+    "unit": "Canlılarda Sistemler",
+    "keywords": ["büyüme", "gelişme", "sürekli", "uç kısım", "organ farklılaşması"]
+  },
+  "tohumun çimlenmesi": {
+    "answer": "Tohumun çimlenmesi, uygun koşullarda tohumun içindeki embriyonun büyümeye başlaması ve yeni bir bitkinin oluşmasıdır. Çimlenme için su, oksijen, uygun sıcaklık ve bazı tohumlarda ışık gereklidir. İlk çıkan yapıya kotiledon denir.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 1. Kitap",
+    "page": 94,
+    "unit": "Canlılarda Sistemler",
+    "keywords": ["çimlenme", "embriyo", "su", "oksijen", "sıcaklık", "kotiledon"]
+  },
+  "çimlenmeye etki eden faktörler": {
+    "answer": "Tohumun çimlenmesini etkileyen temel faktörler: 1) Su - tohumun şişmesini sağlar, 2) Oksijen - solunum için gerekli, 3) Uygun sıcaklık - enzim aktivitesi için önemli, 4) Işık - bazı tohumlar için gerekli, 5) Toprağın pH'ı - besin alımını etkiler.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 1. Kitap",
+    "page": 94,
+    "unit": "Canlılarda Sistemler",
+    "keywords": ["su", "oksijen", "sıcaklık", "ışık", "pH", "enzim"]
+  },
+  "hayvanlarda üreme": {
+    "answer": "Hayvanlar genellikle eşeyli üreme yapar. Erkek ve dişi üreme hücreleri birleşerek zigot oluşur. Bazı hayvanlar hermafrodittir (hem erkek hem dişi üreme organları vardır). Dölleme vücut içinde veya dışında gerçekleşebilir.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 1. Kitap",
+    "page": 97,
+    "unit": "Canlılarda Sistemler",
+    "keywords": ["hayvan üremesi", "zigot", "hermafrodit", "dölleme", "vücut içi"]
+  },
+  "hayvanlarda büyüme ve gelişme": {
+    "answer": "Hayvanlarda büyüme ve gelişme belirli bir yaşa kadar devam eder. Gelişme sırasında metamorfoz geçiren hayvanlar vardır. Büyüme hormonlar tarafından kontrol edilir. Yavru döneminden erişkin döneme geçiş sırasında fiziksel ve davranışsal değişiklikler olur.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 1. Kitap",
+    "page": 97,
+    "unit": "Canlılarda Sistemler",
+    "keywords": ["hayvan gelişimi", "metamorfoz", "hormon", "erişkin", "davranışsal değişim"]
+  },
+  "insanda üreme sistemi": {
+    "answer": "İnsanda üreme sistemi erkek ve kadın olmak üzere iki farklı yapıdadır. Erkek üreme sistemi: testis, sperm kanalları, penis. Kadın üreme sistemi: yumurtalık, fallop tüpleri, rahim, vajina. Bu organlar hormonlar tarafından kontrol edilir.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 1. Kitap",
+    "page": 103,
+    "unit": "Canlılarda Sistemler",
+    "keywords": ["üreme sistemi", "testis", "yumurtalık", "hormon", "sperm"]
+  },
+  "erkek üreme sistemi": {
+    "answer": "Erkek üreme sisteminin ana organları: 1) Testisler - sperm ve testosteron hormonu üretir, 2) Sperm kanalları - spermlerin taşınması, 3) Penis - dış üreme organı. Testosteron hormonu erkeklik özelliklerinin gelişimini sağlar.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 1. Kitap",
+    "page": 103,
+    "unit": "Canlılarda Sistemler",
+    "keywords": ["testis", "sperm", "testosteron", "penis", "erkeklik özellikleri"]
+  },
+  "kadın üreme sistemi": {
+    "answer": "Kadın üreme sisteminin ana organları: 1) Yumurtalıklar - yumurta hücresi ve hormon üretir, 2) Fallop tüpleri - yumurtanın taşınması, 3) Rahim - bebeğin geliştiği organ, 4) Vajina - dış dünya ile bağlantı. Östrojen ve progesteron hormonları kadınlık özelliklerini kontrol eder.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 1. Kitap",
+    "page": 103,
+    "unit": "Canlılarda Sistemler",
+    "keywords": ["yumurtalık", "fallop tüpü", "rahim", "vajina", "östrojen"]
+  },
+  "sinir sistemi": {
+    "answer": "Sinir sistemi, vücudun denetim merkezidir. Merkezi sinir sistemi (beyin ve omurilik) ve çevresel sinir sistemi olmak üzere iki ana bölümden oluşur. Sinir sistemi duyuları algılar, işler ve tepki verir. Nöronlar (sinir hücreleri) bu sistemin temel yapı taşlarıdır.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 1. Kitap",
+    "page": 109,
+    "unit": "Canlılarda Sistemler",
+    "keywords": ["sinir sistemi", "beyin", "omurilik", "nöron", "denetim"]
+  },
+  "sinir sisteminin görevleri": {
+    "answer": "Sinir sisteminin temel görevleri: 1) Duyusal bilgileri alma ve işleme, 2) Vücut fonksiyonlarını koordine etme, 3) Hareket kontrolü, 4) Öğrenme ve hafıza, 5) Bilinçli ve bilinçsiz tepkileri düzenleme, 6) Homeostazı (vücut dengesini) koruma.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 1. Kitap",
+    "page": 109,
+    "unit": "Canlılarda Sistemler",
+    "keywords": ["duyusal bilgi", "koordinasyon", "hareket", "hafıza", "homeostaz"]
+  },
+  "beyin": {
+    "answer": "Beyin, sinir sisteminin merkezi kontrolcüsüdür. Büyük beyin, küçük beyin ve beyin sapı olmak üzere üç ana bölümden oluşur. Büyük beyin: düşünme, hafıza; küçük beyin: denge, koordinasyon; beyin sapı: yaşamsal fonksiyonları kontrol eder.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 1. Kitap",
+    "page": 109,
+    "unit": "Canlılarda Sistemler",
+    "keywords": ["beyin", "büyük beyin", "küçük beyin", "beyin sapı", "düşünme"]
+  },
+  "omurilik": {
+    "answer": "Omurilik, beyin ile vücut arasında bilgi iletimini sağlayan ana sinir yoludur. Omurga içinde korunur ve refleks hareketlerin merkezidir. Omurilik yaralanmaları felçlere neden olabilir çünkü beyin-vücut iletişimi kesilir.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 1. Kitap",
+    "page": 109,
+    "unit": "Canlılarda Sistemler",
+    "keywords": ["omurilik", "bilgi iletimi", "refleks", "omurga", "felç"]
+  },
+  "iç salgı bezleri": {
+    "answer": "İç salgı bezleri (endokrin bezler), hormon üreten ve doğrudan kana veren bezlerdir. Hipofiz, tiroid, pankreas, böbrek üstü bezleri gibi organlar iç salgı bezidir. Hormonlar vücut fonksiyonlarını düzenler ve homeostazı korur.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 1. Kitap",
+    "page": 114,
+    "unit": "Canlılarda Sistemler",
+    "keywords": ["iç salgı", "endokrin", "hormon", "hipofiz", "tiroid"]
+  },
+  "hormon": {
+    "answer": "Hormonlar, iç salgı bezlerinin ürettiği kimyasal haberci maddelerdir. Kan yoluyla hedef organlara ulaşarak fonksiyonlarını düzenler. Büyüme hormonu, insülin, adrenalin, testosteron, östrojen gibi çeşitli hormonlar vardır.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 1. Kitap",
+    "page": 114,
+    "unit": "Canlılarda Sistemler",
+    "keywords": ["hormon", "kimyasal haberci", "hedef organ", "insülin", "adrenalin"]
+  },
+  "hipofiz bezi": {
+    "answer": "Hipofiz bezi, 'bezlerin efendisi' olarak adlandırılan ana iç salgı bezidir. Beynin altında yer alır ve diğer bezleri kontrol eden hormonlar üretir. Büyüme hormonu, prolaktin gibi önemli hormonları salgılar.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 1. Kitap",
+    "page": 114,
+    "unit": "Canlılarda Sistemler",
+    "keywords": ["hipofiz", "bezlerin efendisi", "büyüme hormonu", "prolaktin", "beyin altı"]
+  },
+  "tiroid bezi": {
+    "answer": "Tiroid bezi, boyunda yer alan ve metabolizmayı düzenleyen iç salgı bezidir. Tiroksin hormonu üretir. Bu hormon vücut ısısı, kalp atış hızı, sindirim gibi yaşamsal fonksiyonların hızını kontrol eder. İyot eksikliği tiroid problemlerine neden olur.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 1. Kitap",
+    "page": 114,
+    "unit": "Canlılarda Sistemler",
+    "keywords": ["tiroid", "metabolizma", "tiroksin", "vücut ısısı", "iyot"]
+  },
+  "pankreas": {
+    "answer": "Pankreas hem iç salgı hem de dış salgı bezi görevini yapar. İç salgı görevinde insülin ve glukagon hormonlarını üretir. Bu hormonlar kan şekerini düzenler. İnsülin kan şekerini düşürür, glukagon yükseltir.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 1. Kitap",
+    "page": 114,
+    "unit": "Canlılarda Sistemler",
+    "keywords": ["pankreas", "insülin", "glukagon", "kan şekeri", "dış salgı"]
+  },
+  "ergenlik": {
+    "answer": "Ergenlik, çocukluktan yetişkinliğe geçiş dönemidir. Bu dönemde fiziksel, zihinsel ve duygusal değişimler yaşanır. Üreme organları gelişir ve cinsel olgunluğa erişilir. Hormonlar bu değişimleri kontrol eder. Genellikle 10-18 yaş arası sürer.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 1. Kitap",
+    "page": 119,
+    "unit": "Canlılarda Sistemler",
+    "keywords": ["ergenlik", "fiziksel değişim", "cinsel olgunluk", "hormon", "10-18 yaş"]
+  },
+  "ergenlikte fiziksel değişimler": {
+    "answer": "Ergenlikte görülen fiziksel değişimler: boy uzaması, kilo artışı, kas gelişimi, ses değişimi, üreme organlarının gelişimi, ikincil cinsel karakterlerin ortaya çıkması. Kızlarda adet görme, erkeklerde ses kalınlaşması başlar.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 1. Kitap",
+    "page": 119,
+    "unit": "Canlılarda Sistemler",
+    "keywords": ["boy uzaması", "kas gelişimi", "ses değişimi", "adet", "ikincil cinsel"]
+  },
+  "ergenlikte duygusal değişimler": {
+    "answer": "Ergenlik döneminde duygusal değişimler de yaşanır: ruh hali değişimleri, kimlik arayışı, bağımsızlık isteği, akran etkisi, sosyal ilişkilerde değişim. Bu dönemde aile ve arkadaş desteği çok önemlidir.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 1. Kitap",
+    "page": 119,
+    "unit": "Canlılarda Sistemler",
+    "keywords": ["ruh hali", "kimlik arayışı", "bağımsızlık", "akran etkisi", "aile desteği"]
+  },
+  "sinir sistemi sağlığı": {
+    "answer": "Sinir sisteminin sağlığını korumak için: düzenli uyku, dengeli beslenme, fiziksel aktivite, stres yönetimi, zararlı maddelerden kaçınma gerekir. Kafa travmalarından korunmak, güvenli spor yapmak önemlidir. Beyni geliştiren aktiviteler yapılmalıdır.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 1. Kitap",
+    "page": 125,
+    "unit": "Canlılarda Sistemler",
+    "keywords": ["uyku", "beslenme", "fiziksel aktivite", "stres", "kafa travması"]
+  },
+  "endokrin sistem sağlığı": {
+    "answer": "Endokrin sistemin sağlığını korumak için: dengeli beslenme, düzenli egzersiz, stres kontrolü, yeterli uyku, düzenli sağlık kontrolleri gerekir. İyotlu tuz kullanımı tiroid sağlığı için önemlidir. Hormon dengesizliklerinde doktor kontrolü şarttır.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 1. Kitap",
+    "page": 125,
+    "unit": "Canlılarda Sistemler",
+    "keywords": ["dengeli beslenme", "egzersiz", "uyku", "iyotlu tuz", "hormon dengesi"]
+  },
+  "metamorfoz": {
+    "answer": "Metamorfoz, bazı hayvanların yaşam döngüsü sırasında geçirdiği dramatik form değişimidir. Tam metamorfoz (kelebek: yumurta-larva-pupa-erişkin) ve yarım metamorfoz (çekirge: yumurta-nimf-erişkin) olarak ikiye ayrılır.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 1. Kitap",
+    "page": 97,
+    "unit": "Canlılarda Sistemler",
+    "keywords": ["metamorfoz", "tam metamorfoz", "yarım metamorfoz", "kelebek", "çekirge"]
+  },
+  "zigot": {
+    "answer": "Zigot, sperm ve yumurta hücresinin birleşmesi sonucu oluşan ilk hücredir. Zigot, mitoz bölünmelerle çoğalarak embriyo haline gelir. Zigot içinde yeni bireyin tüm genetik bilgileri bulunur.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 1. Kitap",
+    "page": 97,
+    "unit": "Canlılarda Sistemler",
+    "keywords": ["zigot", "sperm", "yumurta", "embriyo", "genetik bilgi"]
+  },
+  "embriyo": {
+    "answer": "Embriyo, zigotun bölünmesi sonucu oluşan ve organları henüz tam gelişmemiş olan gelişim aşamasıdır. Embriyo döneminde temel organ sistemleri oluşmaya başlar. Bu dönem canlının gelişimi için kritik öneme sahiptir.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 1. Kitap",
+    "page": 94,
+    "unit": "Canlılarda Sistemler",
+    "keywords": ["embriyo", "organ sistemleri", "gelişim", "kritik dönem", "zigot"]
+  },
+  "nöron": {
+    "answer": "Nöron (sinir hücresi), sinir sisteminin temel yapı taşıdır. Hücre gövdesi, dentritler ve akson olmak üzere üç ana bölümden oluşur. Nöronlar elektriksel ve kimyasal sinyallerle bilgi iletir. Milyarlarca nöron beynimizi oluşturur.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 1. Kitap",
+    "page": 109,
+    "unit": "Canlılarda Sistemler",
+    "keywords": ["nöron", "sinir hücresi", "dentrit", "akson", "elektriksel sinyal"]
+  },
+  "refleks": {
+    "answer": "Refleks, dış uyaranlara karşı bilinçsiz olarak verilen hızlı tepkilerdir. Omurilik düzeyinde gerçekleşir ve beynin kontrolü olmadan oluşur. Diz refleksi, göz kırpma refleksi gibi örnekleri vardır. Vücudu koruma amaçlıdır.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 1. Kitap",
+    "page": 109,
+    "unit": "Canlılarda Sistemler",
+    "keywords": ["refleks", "bilinçsiz tepki", "omurilik", "diz refleksi", "koruma"]
+  },
+  "homeostaz": {
+    "answer": "Homeostaz, vücudun iç ortam dengesini sabit tutma yeteneğidir. Vücut ısısı, kan şekeri, su dengesi gibi yaşamsal parametrelerin belirli sınırlar içinde tutulmasıdır. Sinir ve endokrin sistem birlikte homeostazı sağlar.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 1. Kitap",
+    "page": 109,
+    "unit": "Canlılarda Sistemler",
+    "keywords": ["homeostaz", "iç ortam dengesi", "vücut ısısı", "kan şekeri", "su dengesi"]
+  },
+  "büyüme hormonu": {
+    "answer": "Büyüme hormonu, hipofiz bezinden salgılanan ve vücudun büyümesini kontrol eden hormondur. Özellikle çocukluk ve ergenlik döneminde önemlidir. Yetersizliği cücelik, fazlası devlik sendromuna neden olabilir. Gece uykuda daha fazla salgılanır.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 1. Kitap",
+    "page": 114,
+    "unit": "Canlılarda Sistemler",
+    "keywords": ["büyüme hormonu", "hipofiz", "cücelik", "devlik", "gece uykusu"]
+  },
+  "insülin": {
+    "answer": "İnsülin, pankreasın ürettiği ve kan şekerini düşüren hormondur. Glikozun hücrelere girişini sağlar ve karaciğerde glikojen olarak depolanmasını başlatır. İnsülin eksikliği diyabet hastalığına neden olur.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 1. Kitap",
+    "page": 114,
+    "unit": "Canlılarda Sistemler",
+    "keywords": ["insülin", "pankreas", "kan şekeri", "glikoz", "diyabet"]
+  },
+  "adrenalin": {
+    "answer": "Adrenalin, böbrek üstü bezlerinden salgılanan ve vücudu acil durumlara hazırlayan hormondur. Kalp atışını hızlandırır, kan basıncını yükseltir, kasları güçlendirir. 'Savaş ya da kaç' tepkisini hazırlar. Stres hormon olarak da bilinir.",
+    "source": "MEB 6. Sınıf Fen Bilimleri Ders Kitabı - 1. Kitap",
+    "page": 114,
+    "unit": "Canlılarda Sistemler",
+    "keywords": ["adrenalin", "böbrek üstü", "acil durum", "kalp atışı", "stres hormonu"]
+  }
+}
